@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="60">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 14, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04884308</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB00256425</org_study_id>
+    <nct_id>NCT04884308</nct_id>
+  </id_info>
+  <brief_title>Bacille Calmette-Guerin (BCG) Vaccine for Immune Protection Against Infections</brief_title>
+  <official_title>Effects of BCG Vaccine on the Immune System of Individuals With Cystic Fibrosis, Non-Cystic Fibrosis Bronchiectasis, and Healthy Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Cystic Fibrosis Foundation</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Johns Hopkins University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is pilot study of the immunologic effects of intradermal Bacille Calmette-Guerin (BCG)&#xD;
+      vaccination of adults with cystic fibrosis (CF), non-CF bronchiectasis (NCFB), and healthy&#xD;
+      volunteers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This single-site, open-label clinical trial to investigate the immune effects of BCG&#xD;
+      vaccination in adults with cystic fibrosis, non-cystic fibrosis bronchiectasis and healthy&#xD;
+      volunteers by measuring pre and post vaccination immune responses, BCG uptake and protection&#xD;
+      against infections, including nontuberculous mycobacteria (NTM). This study will also gather&#xD;
+      data on study feasibility, tolerability, and safety.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">April 28, 2021</start_date>
+  <completion_date type="Anticipated">June 30, 2023</completion_date>
+  <primary_completion_date type="Anticipated">June 30, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>BCG Uptake</measure>
+    <time_frame>3 months</time_frame>
+    <description>Change in concentration of IFNgamma levels in blood after BCG incubation relative to baseline.</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">180</enrollment>
+  <condition>Cystic Fibrosis</condition>
+  <condition>Bronchiectasis Adult</condition>
+  <condition>Non-Tuberculous Mycobacteria</condition>
+  <arm_group>
+    <arm_group_label>Cystic Fibrosis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with Cystic Fibrosis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Non Cystic Fibrosis Bronchiectasis</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with Non Cystic Fibrosis Bronchiectasis.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Healthy Volunteer</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Participants with no condition (healthy volunteers).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>BCG TICE Vaccine</intervention_name>
+    <description>Intradermal vaccination with BCG TICE</description>
+    <arm_group_label>Cystic Fibrosis</arm_group_label>
+    <arm_group_label>Healthy Volunteer</arm_group_label>
+    <arm_group_label>Non Cystic Fibrosis Bronchiectasis</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (CF and non-CF bronchiectasis):&#xD;
+&#xD;
+          -  Confirmed diagnosis of either CF or non-CF bronchiectasis&#xD;
+&#xD;
+          -  Forced expiratory volume over one second (FEV1) &gt; 40%&#xD;
+&#xD;
+          -  Willingness to participate in the study after all aspects of the protocol have been&#xD;
+             explained and written informed consent obtained.&#xD;
+&#xD;
+          -  Available for the study duration, including all planned follow-up visits&#xD;
+&#xD;
+        Inclusion Criteria (Healthy Volunteers):&#xD;
+&#xD;
+          -  Negative HIV enzyme-linked immunosorbent assay (ELISA) and confirmatory test at&#xD;
+             screening.&#xD;
+&#xD;
+          -  Willingness to participate in the study after all aspects of the protocol have been&#xD;
+             explained and written informed obtained.&#xD;
+&#xD;
+          -  Available for the study duration, including all planned follow-up visits&#xD;
+&#xD;
+        Exclusion Criteria (All arms):&#xD;
+&#xD;
+          -  Current or prior history of active or latent tuberculosis (TB) (per report, not&#xD;
+             formally tested) or NTM infection&#xD;
+&#xD;
+          -  Prior BCG vaccination&#xD;
+&#xD;
+          -  Previous vaccine in the past 4 weeks&#xD;
+&#xD;
+          -  History of severe anaphylaxis to any vaccine or vaccine components&#xD;
+&#xD;
+          -  History of organ/bone marrow transplantation or other immunosuppressing condition,&#xD;
+             including HIV&#xD;
+&#xD;
+          -  Immunosuppressing drugs (including oral corticosteroids equivalent to &gt;10mg of&#xD;
+             prednisone for 5 days) in the 30 days prior to study enrollment&#xD;
+&#xD;
+          -  Cirrhosis or portal hypertension&#xD;
+&#xD;
+          -  Pregnant or breastfeeding&#xD;
+&#xD;
+          -  Receipt of another investigational product in the last 28 days or planned receipt&#xD;
+             during this study&#xD;
+&#xD;
+          -  Has any other condition that, in the opinion of the principal investigator, would&#xD;
+             preclude informed consent, make study participation unsafe, complicate interpretation&#xD;
+             of study outcome data, or otherwise interfere with achieving study objectives.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Noah Lecthzin, MD, MHS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Johns Hopkins University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Noah Lecthzin, MD, MHS</last_name>
+    <phone>410-502-7043</phone>
+    <email>nlechtz@jhmi.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Noah Lecthzin, MD, MHS</last_name>
+      <phone>410-502-7043</phone>
+      <email>nlechtz@jhmi.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>December 2021</verification_date>
+  <study_first_submitted>May 7, 2021</study_first_submitted>
+  <study_first_submitted_qc>May 7, 2021</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 12, 2021</study_first_posted>
+  <last_update_submitted>January 26, 2022</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>BCG vaccine</keyword>
+  <keyword>Cystic fibrosis</keyword>
+  <keyword>Bronchiectasis</keyword>
+  <keyword>Non-tuberculosis mycobacteria</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Mycobacterium Infections</mesh_term>
+    <mesh_term>Cystic Fibrosis</mesh_term>
+    <mesh_term>Bronchiectasis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>BCG Vaccine</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,5219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="5">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 14, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04594369</url>
+  </required_header>
+  <id_info>
+    <org_study_id>INS1007-301</org_study_id>
+    <secondary_id>2020-003688-25</secondary_id>
+    <nct_id>NCT04594369</nct_id>
+  </id_info>
+  <brief_title>A Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib in Participants With Non-Cystic Fibrosis Bronchiectasis</brief_title>
+  <acronym>ASPEN</acronym>
+  <official_title>A Phase 3, Randomized, Double-Blind, Placebo-Controlled Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib Administered Once Daily for 52 Weeks in Subjects With Non-Cystic Fibrosis Bronchiectasis - The ASPEN Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Insmed Incorporated</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Insmed Incorporated</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the effect of brensocatib at 10 mg and 25&#xD;
+      mg compared with placebo on the rate of pulmonary exacerbations (PEs) over the 52-week&#xD;
+      treatment period.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 1, 2020</start_date>
+  <completion_date type="Anticipated">March 22, 2024</completion_date>
+  <primary_completion_date type="Anticipated">March 22, 2024</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Rate of Adjudicated Pulmonary Exacerbations (PEs)</measure>
+    <time_frame>52 Weeks</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to First Adjudicated Pulmonary Exacerbation (PE)</measure>
+    <time_frame>52 Weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants who are Pulmonary Exacerbation (PE) Free</measure>
+    <time_frame>52 Weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change From Baseline in Postbronchodilator Forced Expiratory Volume in 1 second (FEV1)</measure>
+    <time_frame>Baseline, at Week 52</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Severe Adjudicated Pulmonary Exacerbations (PEs)</measure>
+    <time_frame>52 Weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline to Week 52 in Quality of Life Questionnaire - Bronchiectasis (QOL-B) Respiratory Symptoms Domain Score in Adult Participants</measure>
+    <time_frame>Baseline to Week 52</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of Participants who Experience at Least one Treatment-Emergent Adverse Events (TEAEs)</measure>
+    <time_frame>56 Weeks</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma Concentration of Brensocatib at Select Time Points</measure>
+    <time_frame>Pre-dose and post-dose at multiple time points up to Week 52</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">1620</enrollment>
+  <condition>Non-Cystic Fibrosis Bronchiectasis</condition>
+  <arm_group>
+    <arm_group_label>Brensocatib 10 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive brensocatib 10 mg, tablets orally, once daily, for 52 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Brensocatib 25 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants will receive brensocatib 25 mg, tablets orally, once daily, for 52 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Participants will receive a brensocatib-matching placebo, tablets orally, once daily, for 52 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brensocatib 10 mg</intervention_name>
+    <description>Oral tablet.</description>
+    <arm_group_label>Brensocatib 10 mg</arm_group_label>
+    <other_name>INS1007</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Brensocatib 25 mg</intervention_name>
+    <description>Oral tablet.</description>
+    <arm_group_label>Brensocatib 25 mg</arm_group_label>
+    <other_name>INS1007</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Brensocatib-matching oral tablet.</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Provide their signed study informed consent to participate.&#xD;
+&#xD;
+             a. Adolescent participants must have signed study assent form to participate, and the&#xD;
+             adolescent's parent or legal guardian must have provided signed informed consent for&#xD;
+             the adolescent to participate.&#xD;
+&#xD;
+          2. Clinical history consistent with non-cystic fibrosis bronchiectasis (NCFBE) (cough,&#xD;
+             chronic sputum production and/or recurrent respiratory infections) that is confirmed&#xD;
+             by chest computerized tomography (CT) scan.&#xD;
+&#xD;
+          3. At least 2 PEs defined by need for antibiotic prescription by a physician for the&#xD;
+             signs and symptoms of respiratory infections in the past 12 months before the&#xD;
+             Screening Visit.&#xD;
+&#xD;
+             a. Adolescent participants are required to have at least 1 pulmonary exacerbation in&#xD;
+             the prior 12 months.&#xD;
+&#xD;
+          4. Women must be postmenopausal (defined as no menses for 12 months without an&#xD;
+             alternative medical cause), surgically sterile, or using highly effective&#xD;
+             contraception (ie, methods that can achieve a failure rate &lt;1% per year when used&#xD;
+             consistently and correctly) from Day 1 to at least 90 days after the last dose.&#xD;
+&#xD;
+          5. Male participants with female partners of childbearing potential must be using&#xD;
+             effective contraception from Day 1 to at least 90 days after the last dose.&#xD;
+&#xD;
+          6. Male participants with pregnant or non-pregnant women of child-bearing potential&#xD;
+             partners must use condoms to avoid potential exposure to the embryo/fetus.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. A primary diagnosis of chronic obstructive pulmonary disease (COPD) or asthma as&#xD;
+             judged by the Investigator.&#xD;
+&#xD;
+          2. Bronchiectasis due to cystic fibrosis.&#xD;
+&#xD;
+          3. Current smokers as defined per Centers for Disease Control (CDC).&#xD;
+&#xD;
+          4. Known or suspected immunodeficiency disorder, including history of invasive&#xD;
+             opportunistic infections.&#xD;
+&#xD;
+          5. Known history of human immunodeficiency virus (HIV) infection.&#xD;
+&#xD;
+          6. Currently being treated for nontuberculous mycobacteria (NTM) lung infection, allergic&#xD;
+             bronchopulmonary aspergillosis, or tuberculosis (TB).&#xD;
+&#xD;
+          7. Active and current symptomatic infection by COVID-19.&#xD;
+&#xD;
+          8. Inability to follow the procedures of the study (eg, due to language problems or&#xD;
+             psychological disorders).&#xD;
+&#xD;
+          9. Receiving medications or therapy that are prohibited as concomitant medications.&#xD;
+&#xD;
+         10. Previously participated in a clinical trial for brensocatib.&#xD;
+&#xD;
+         11. Received any live attenuated vaccine within 4 weeks prior to the first administration&#xD;
+             of brensocatib.&#xD;
+&#xD;
+         12. Suffering an exacerbation 4 weeks before Screening or during the Screening period.&#xD;
+&#xD;
+         13. Adult participants only: Have compliance issues with completion of electronic diary&#xD;
+             entries during the Screening Period and in the opinion of the Investigator, compliance&#xD;
+             is unlikely to improve during the study.&#xD;
+&#xD;
+         14. Participated in any other interventional clinical studies within 3 months before&#xD;
+             Screening Visit.&#xD;
+&#xD;
+         15. History of alcohol or drug abuse within 6 months prior to the Screening Visit.&#xD;
+&#xD;
+         16. Is the Investigator or any Sub-Investigator, research assistant, pharmacist, study&#xD;
+             coordinator, other staff or relative thereof directly involved in the conduct of the&#xD;
+             study.&#xD;
+&#xD;
+         17. Known history of hypersensitivity to brensocatib or any of its excipients.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>85 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Insmed Medical Information</last_name>
+    <phone>1-844-446-7633</phone>
+    <email>medicalinformation@insmed.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>USA013</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233-1711</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA080</name>
+      <address>
+        <city>Conway</city>
+        <state>Arkansas</state>
+        <zip>72032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA044</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA104</name>
+      <address>
+        <city>Fresno</city>
+        <state>California</state>
+        <zip>93702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA086</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA055</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA029</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA102</name>
+      <address>
+        <city>Northridge</city>
+        <state>California</state>
+        <zip>91324-3138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA022</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA042</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA024</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817-1460</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA057</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA035</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA078</name>
+      <address>
+        <city>Santa Barbara</city>
+        <state>California</state>
+        <zip>93105-4353</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA027</name>
+      <address>
+        <city>Ventura</city>
+        <state>California</state>
+        <zip>93003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA075</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80206-2761</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA008</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Colorado</state>
+        <zip>80026</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA017</name>
+      <address>
+        <city>Farmington</city>
+        <state>Connecticut</state>
+        <zip>06030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA001</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA054</name>
+      <address>
+        <city>Brandon</city>
+        <state>Florida</state>
+        <zip>33511-5719</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA015</name>
+      <address>
+        <city>Clearwater</city>
+        <state>Florida</state>
+        <zip>33765</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA062</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA076</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA032</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32204-4736</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA082</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224-1865</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA007</name>
+      <address>
+        <city>Kissimmee</city>
+        <state>Florida</state>
+        <zip>34741</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA039</name>
+      <address>
+        <city>Kissimmee</city>
+        <state>Florida</state>
+        <zip>34746</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA072</name>
+      <address>
+        <city>Leesburg</city>
+        <state>Florida</state>
+        <zip>34748-5077</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA019</name>
+      <address>
+        <city>Miami Lakes</city>
+        <state>Florida</state>
+        <zip>33014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA037</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33126</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA049</name>
+      <address>
+        <city>Naples</city>
+        <state>Florida</state>
+        <zip>34102-5444</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA106</name>
+      <address>
+        <city>New Port Richey</city>
+        <state>Florida</state>
+        <zip>34652-3903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA108</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803-5443</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA052</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32825</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA103</name>
+      <address>
+        <city>Plantation</city>
+        <state>Florida</state>
+        <zip>33324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA089</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA074</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33707</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA084</name>
+      <address>
+        <city>Sarasota</city>
+        <state>Florida</state>
+        <zip>34239-2913</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA058</name>
+      <address>
+        <city>Sebring</city>
+        <state>Florida</state>
+        <zip>33870</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA012</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA053</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA077</name>
+      <address>
+        <city>Rincon</city>
+        <state>Georgia</state>
+        <zip>31326</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA073</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611-2951</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA061</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA063</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA031</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA020</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA051</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA003</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21224-3057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA047</name>
+      <address>
+        <city>Columbia</city>
+        <state>Maryland</state>
+        <zip>21044</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA025</name>
+      <address>
+        <city>Towson</city>
+        <state>Maryland</state>
+        <zip>21286</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA079</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA064</name>
+      <address>
+        <city>Springfield</city>
+        <state>Massachusetts</state>
+        <zip>01199</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA090</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655-0002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA010</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA006</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <zip>63017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA059</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA110</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA009</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA065</name>
+      <address>
+        <city>Toms River</city>
+        <state>New Jersey</state>
+        <zip>08755</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA095</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA066</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11042-1102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA021</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA085</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA068</name>
+      <address>
+        <city>Potsdam</city>
+        <state>New York</state>
+        <zip>13676</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA014</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27517-7518</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA048</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28277-8915</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA033</name>
+      <address>
+        <city>Gastonia</city>
+        <state>North Carolina</state>
+        <zip>28054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA096</name>
+      <address>
+        <city>Huntersville</city>
+        <state>North Carolina</state>
+        <zip>28078-5082</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA026</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA067</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA028</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA093</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA023</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA038</name>
+      <address>
+        <city>DuBois</city>
+        <state>Pennsylvania</state>
+        <zip>15801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA046</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA071</name>
+      <address>
+        <city>Anderson</city>
+        <state>South Carolina</state>
+        <zip>29621</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA005</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA036</name>
+      <address>
+        <city>Rock Hill</city>
+        <state>South Carolina</state>
+        <zip>29732</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA041</name>
+      <address>
+        <city>Franklin</city>
+        <state>Tennessee</state>
+        <zip>37067</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA097</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246-2081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA087</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555-5302</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA050</name>
+      <address>
+        <city>McKinney</city>
+        <state>Texas</state>
+        <zip>75069</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA018</name>
+      <address>
+        <city>Mesquite</city>
+        <state>Texas</state>
+        <zip>75149</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA011</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78258</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA002</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA081</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84102-1892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA034</name>
+      <address>
+        <city>Williamsburg</city>
+        <state>Virginia</state>
+        <zip>23188</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>USA088</name>
+      <address>
+        <city>Vancouver</city>
+        <state>Washington</state>
+        <zip>98664-1913</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG021</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <state>Buenos Aires</state>
+        <zip>C1121ABE</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG022</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <state>Buenos Aires</state>
+        <zip>C1122AAK</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG002</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <state>Buenos Aires</state>
+        <zip>C1414AIF</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG001</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <state>Buenos Aires</state>
+        <zip>C1425AZB</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG003</name>
+      <address>
+        <city>Ciudad Autónoma de BuenosAires</city>
+        <state>Buenos Aires</state>
+        <zip>C1425BEN</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG004</name>
+      <address>
+        <city>Ciudad Autónoma de BuenosAires</city>
+        <state>Buenos Aires</state>
+        <zip>C1426ABP</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG006</name>
+      <address>
+        <city>la Plata</city>
+        <state>Buenos Aires</state>
+        <zip>B1902COS</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG013</name>
+      <address>
+        <city>Mar del Plata</city>
+        <state>Buenos Aires</state>
+        <zip>B7600FYK</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG017</name>
+      <address>
+        <city>Mar Del Plata</city>
+        <state>Buenos Aires</state>
+        <zip>CP 7600</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG009</name>
+      <address>
+        <city>Villa Vatteone</city>
+        <state>Buenos Aires</state>
+        <zip>B1853AIK</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG012</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <state>Ciudad Autónoma De BuenosAires</state>
+        <zip>C10227AAP</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG018</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <state>Ciudad Autónoma De BuenosAires</state>
+        <zip>C1060</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG014</name>
+      <address>
+        <city>City Of Mendoza</city>
+        <state>Mendoza</state>
+        <zip>M5500GPD</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG016</name>
+      <address>
+        <city>Rosario</city>
+        <state>Santa Fe</state>
+        <zip>S2000AJU</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG010</name>
+      <address>
+        <city>Rosario</city>
+        <state>Santa Fe</state>
+        <zip>S2000DTC</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG015</name>
+      <address>
+        <city>San Miguel de Tucumán</city>
+        <state>Tucumán</state>
+        <zip>4000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG008</name>
+      <address>
+        <city>San Miguel de Tucumán</city>
+        <state>Tucumán</state>
+        <zip>T4000IAR</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG005</name>
+      <address>
+        <city>Córdoba</city>
+        <zip>X5003DCE</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG007</name>
+      <address>
+        <city>Mendoza</city>
+        <zip>M5500CCG</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG011</name>
+      <address>
+        <city>Rosario</city>
+        <zip>S2000JKR</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ARG019</name>
+      <address>
+        <city>Santa Fe</city>
+        <zip>3000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS013</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS008</name>
+      <address>
+        <city>New Lambton Heights</city>
+        <state>New South Wales</state>
+        <zip>2305</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS007</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS012</name>
+      <address>
+        <city>Cairns North</city>
+        <state>Queensland</state>
+        <zip>4870</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS001</name>
+      <address>
+        <city>Chermside</city>
+        <state>Queensland</state>
+        <zip>4032</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS010</name>
+      <address>
+        <city>Greenslopes</city>
+        <state>Queensland</state>
+        <zip>4120</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS006</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS011</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS017</name>
+      <address>
+        <city>Bedford Park</city>
+        <state>South Australia</state>
+        <zip>5042</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS004</name>
+      <address>
+        <city>Kent Town</city>
+        <state>South Australia</state>
+        <zip>5067</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS009</name>
+      <address>
+        <city>Woodville South</city>
+        <state>South Australia</state>
+        <zip>5011</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS002</name>
+      <address>
+        <city>Box Hill</city>
+        <state>Victoria</state>
+        <zip>3128</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS014</name>
+      <address>
+        <city>Clayton</city>
+        <state>Victoria</state>
+        <zip>3168</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS018</name>
+      <address>
+        <city>Murdoch</city>
+        <state>Western Australia</state>
+        <zip>6150</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS005</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS003</name>
+      <address>
+        <city>Concord</city>
+        <zip>NSW 2139</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUS015</name>
+      <address>
+        <city>Spearwood</city>
+        <zip>6163</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUT001</name>
+      <address>
+        <city>Graz</city>
+        <state>Steiermark</state>
+        <zip>8036</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>AUT002</name>
+      <address>
+        <city>Linz</city>
+        <zip>4021</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BEL002</name>
+      <address>
+        <city>Gent</city>
+        <state>Oost-Vlaanderen</state>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BEL004</name>
+      <address>
+        <city>Roeselare</city>
+        <state>West-Vlaanderen</state>
+        <zip>8800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BEL006</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BEL005</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BEL001</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BEL007</name>
+      <address>
+        <city>Liège</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BEL003</name>
+      <address>
+        <city>Mechelen</city>
+        <zip>2800</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BEL008</name>
+      <address>
+        <city>Sint-Niklaas</city>
+        <zip>9100</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRA009</name>
+      <address>
+        <city>Passo Fundo</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>99010-120</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRA005</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande Do Sul</state>
+        <zip>90035-074</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRA001</name>
+      <address>
+        <city>Blumenau</city>
+        <state>Santa Catarina</state>
+        <zip>89030-240</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRA002</name>
+      <address>
+        <city>Santo André</city>
+        <state>São Paulo</state>
+        <zip>09060-650</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRA006</name>
+      <address>
+        <city>Santo André</city>
+        <state>São Paulo</state>
+        <zip>09090-790</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRA003</name>
+      <address>
+        <city>Botucatu</city>
+        <zip>18618-686</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRA004</name>
+      <address>
+        <city>São Bernardo do Campo</city>
+        <zip>09715-090</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BRA010</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01327-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR011</name>
+      <address>
+        <city>Sofia</city>
+        <state>Sofia-Grad</state>
+        <zip>1336</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR009</name>
+      <address>
+        <city>Sofia</city>
+        <state>Sofia-Grad</state>
+        <zip>1510</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR002</name>
+      <address>
+        <city>Sofia</city>
+        <state>Sofia-Grad</state>
+        <zip>1680</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR005</name>
+      <address>
+        <city>Blagoevgrad</city>
+        <zip>2700</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR006</name>
+      <address>
+        <city>Gabrovo</city>
+        <zip>5300</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR014</name>
+      <address>
+        <city>Kozloduy</city>
+        <zip>3320</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR015</name>
+      <address>
+        <city>Lovech</city>
+        <zip>5500</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR007</name>
+      <address>
+        <city>Montana</city>
+        <zip>3400</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR018</name>
+      <address>
+        <city>Pazardzhik</city>
+        <zip>4400</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR019</name>
+      <address>
+        <city>Pleven</city>
+        <zip>5800</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR004</name>
+      <address>
+        <city>Plovdiv</city>
+        <zip>4023</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR008</name>
+      <address>
+        <city>Ruse</city>
+        <zip>7002</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR017</name>
+      <address>
+        <city>Sliven</city>
+        <zip>8800</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR010</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1233</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR012</name>
+      <address>
+        <city>Veliko Tarnovo</city>
+        <zip>5000</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR013</name>
+      <address>
+        <city>Vidin</city>
+        <zip>3700</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>BGR016</name>
+      <address>
+        <city>Vratsa</city>
+        <zip>3000</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CAN004</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5T 3A9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CAN002</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2X 0A9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CAN003</name>
+      <address>
+        <city>Saint-Charles-Borromée</city>
+        <state>Quebec</state>
+        <zip>J6E 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHL007</name>
+      <address>
+        <city>Valdivia</city>
+        <state>Los Ríos</state>
+        <zip>5110683</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHL005</name>
+      <address>
+        <city>Curicó</city>
+        <state>Maule</state>
+        <zip>3440000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHL010</name>
+      <address>
+        <city>Talca</city>
+        <state>Maule</state>
+        <zip>3465586</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHL001</name>
+      <address>
+        <city>Providencia</city>
+        <state>Región-MetropolitanadeSantiago</state>
+        <zip>7500000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHL002</name>
+      <address>
+        <city>Providencia</city>
+        <state>Región-MetropolitanadeSantiago</state>
+        <zip>7500010</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHL008</name>
+      <address>
+        <city>Providencia</city>
+        <state>Región-MetropolitanadeSantiago</state>
+        <zip>7500587</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>CHL004</name>
+      <address>
+        <city>Quillota</city>
+        <zip>2260000</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>COL007</name>
+      <address>
+        <city>Medellín</city>
+        <state>Antioquia</state>
+        <zip>050012</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>COL006</name>
+      <address>
+        <city>Zipaquira</city>
+        <state>Cundinamarca</state>
+        <zip>250252</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>COL001</name>
+      <address>
+        <city>Bogotá</city>
+        <state>Distrito Capital De Bogotá</state>
+        <zip>111211</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>COL005</name>
+      <address>
+        <city>Floridablanca</city>
+        <state>Santander</state>
+        <zip>681004</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>COL003</name>
+      <address>
+        <city>Cali</city>
+        <state>Valle Del Cauca</state>
+        <zip>760026</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>COL004</name>
+      <address>
+        <city>Cali</city>
+        <zip>760042</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DNK001</name>
+      <address>
+        <city>Hvidovre</city>
+        <state>Capital</state>
+        <zip>DK-2650</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DNK005</name>
+      <address>
+        <city>Odense C</city>
+        <state>South Denmark</state>
+        <zip>5000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DNK006</name>
+      <address>
+        <city>Vejle</city>
+        <state>South Denmark</state>
+        <zip>7100</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DNK003</name>
+      <address>
+        <city>Aalborg</city>
+        <zip>9000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DNK007</name>
+      <address>
+        <city>Aarhus</city>
+        <zip>DK-8200</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DNK004</name>
+      <address>
+        <city>Hellerup</city>
+        <zip>2900</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DNK002</name>
+      <address>
+        <city>Roskilde</city>
+        <zip>4000</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA002</name>
+      <address>
+        <city>Strasbourg</city>
+        <state>Bas-Rhin</state>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA005</name>
+      <address>
+        <city>Montpellier</city>
+        <state>Hérault</state>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA001</name>
+      <address>
+        <city>Tours</city>
+        <state>Indre-et-Loire</state>
+        <zip>37044</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA004</name>
+      <address>
+        <city>Amiens cedex 1</city>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA011</name>
+      <address>
+        <city>Creteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA003</name>
+      <address>
+        <city>Nantes</city>
+        <zip>44093</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA009</name>
+      <address>
+        <city>Nice</city>
+        <zip>6002</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA010</name>
+      <address>
+        <city>Paris</city>
+        <zip>75014</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA008</name>
+      <address>
+        <city>Saint-Pierre</city>
+        <zip>97448</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>FRA006</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31400</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU009</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Baden-Württemberg</state>
+        <zip>69126</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU001</name>
+      <address>
+        <city>Donaustauf</city>
+        <state>Bayern</state>
+        <zip>93093</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU025</name>
+      <address>
+        <city>München</city>
+        <state>Bayern</state>
+        <zip>80336</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU012</name>
+      <address>
+        <city>München</city>
+        <state>Bayern</state>
+        <zip>81925</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU027</name>
+      <address>
+        <city>Potsdam</city>
+        <state>Brandenburg</state>
+        <zip>14467</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU004</name>
+      <address>
+        <city>Frankfurt am Main</city>
+        <state>Hessen</state>
+        <zip>60596</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU008</name>
+      <address>
+        <city>Frankfurt</city>
+        <state>Hessen</state>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU005</name>
+      <address>
+        <city>Marburg</city>
+        <state>Hessen</state>
+        <zip>35037</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU026</name>
+      <address>
+        <city>Marburg</city>
+        <state>Hessen</state>
+        <zip>35043</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU018</name>
+      <address>
+        <city>Neu-Isenburg</city>
+        <state>Hessen</state>
+        <zip>63263</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU010</name>
+      <address>
+        <city>Borstel</city>
+        <state>Niedersachsen</state>
+        <zip>23845</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU013</name>
+      <address>
+        <city>Essen</city>
+        <state>Nordrhein-Westfalen</state>
+        <zip>45239</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU024</name>
+      <address>
+        <city>Homburg</city>
+        <state>Saarland</state>
+        <zip>66424</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU016</name>
+      <address>
+        <city>Halle</city>
+        <state>Sachsen-Anhalt</state>
+        <zip>06120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU003</name>
+      <address>
+        <city>Leipzig</city>
+        <state>Sachsen</state>
+        <zip>04347</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU020</name>
+      <address>
+        <city>Geesthacht</city>
+        <state>Schleswig-Holstein</state>
+        <zip>21502</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU007</name>
+      <address>
+        <city>Lübeck</city>
+        <state>Schleswig-Holstein</state>
+        <zip>23552</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU028</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU002</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10717</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU019</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10969</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU006</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13125</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU011</name>
+      <address>
+        <city>Berlin</city>
+        <zip>13353</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU014</name>
+      <address>
+        <city>Dresden</city>
+        <zip>01307</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU021</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60389</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU022</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30173</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU015</name>
+      <address>
+        <city>Hannover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU023</name>
+      <address>
+        <city>Mainz</city>
+        <zip>55128</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>DEU029</name>
+      <address>
+        <city>Muenster</city>
+        <zip>48149</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GRC003</name>
+      <address>
+        <city>Alexandroupoli</city>
+        <state>Evros</state>
+        <zip>681 00</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GRC002</name>
+      <address>
+        <city>Larissa</city>
+        <state>Larisa</state>
+        <zip>41110</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GRC007</name>
+      <address>
+        <city>Herakleion</city>
+        <zip>71110</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GRC006</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>57010</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HUN005</name>
+      <address>
+        <city>Tatabánya</city>
+        <state>Komárom-Esztergom</state>
+        <zip>2800</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRL003</name>
+      <address>
+        <city>Dublin</city>
+        <zip>15</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRL004</name>
+      <address>
+        <city>Dublin</city>
+        <zip>D24 NR0A</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRL002</name>
+      <address>
+        <city>Dublin</city>
+        <zip>Dublin 8</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>IRL001</name>
+      <address>
+        <city>Limerick</city>
+        <zip>V94 F858</zip>
+        <country>Ireland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR005</name>
+      <address>
+        <city>Holon</city>
+        <state>Tel-Aviv</state>
+        <zip>58100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR001</name>
+      <address>
+        <city>Ashkelon</city>
+        <zip>78278</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR010</name>
+      <address>
+        <city>Beer Sheva</city>
+        <zip>84101</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR008</name>
+      <address>
+        <city>Haifa</city>
+        <zip>34362</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR006</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91031</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR002</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91120</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR009</name>
+      <address>
+        <city>Kefar-Sava</city>
+        <zip>44281</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR011</name>
+      <address>
+        <city>Petach Tikva</city>
+        <zip>49100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR007</name>
+      <address>
+        <city>Ramat Gan</city>
+        <zip>52621</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR003</name>
+      <address>
+        <city>Rehovot</city>
+        <zip>76100</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ISR004</name>
+      <address>
+        <city>Zerifin</city>
+        <zip>70300</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA010</name>
+      <address>
+        <city>Bologna</city>
+        <state>Emilia-Romagna</state>
+        <zip>40138</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA008</name>
+      <address>
+        <city>Ferrara</city>
+        <state>Emilia-Romagna</state>
+        <zip>44124</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA002</name>
+      <address>
+        <city>Reggio Emilia</city>
+        <state>Emilia-Romagna</state>
+        <zip>42100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA006</name>
+      <address>
+        <city>Milano</city>
+        <state>Lombardia</state>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA011</name>
+      <address>
+        <city>Rozzano</city>
+        <state>Lombardia</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA004</name>
+      <address>
+        <city>Siena</city>
+        <state>Toscana</state>
+        <zip>53100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA003</name>
+      <address>
+        <city>Milano</city>
+        <zip>20157</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA001</name>
+      <address>
+        <city>Palermo</city>
+        <zip>90127</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA007</name>
+      <address>
+        <city>Pavia</city>
+        <zip>27100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ITA009</name>
+      <address>
+        <city>Roma</city>
+        <zip>00168</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN029</name>
+      <address>
+        <city>Toyoake</city>
+        <state>Aiti</state>
+        <zip>470-1192</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN026</name>
+      <address>
+        <city>Akita-Shi</city>
+        <state>Akita</state>
+        <zip>010-8543</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN031</name>
+      <address>
+        <city>Toon-Shi</city>
+        <state>Ehime</state>
+        <zip>791-0203</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN027</name>
+      <address>
+        <city>Fukuoka-Shi</city>
+        <state>Hukuoka</state>
+        <zip>815-0032</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN023</name>
+      <address>
+        <city>Iizuka-Shi</city>
+        <state>Hukuoka</state>
+        <zip>820-0018</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN021</name>
+      <address>
+        <city>Kitakyushu-Shi</city>
+        <state>Hukuoka</state>
+        <zip>802-0052</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN025</name>
+      <address>
+        <city>Yanagawa-Shi</city>
+        <state>Hukuoka</state>
+        <zip>832-0059</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN009</name>
+      <address>
+        <city>Kobe-City</city>
+        <state>Hyôgo</state>
+        <zip>650-0047</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN020</name>
+      <address>
+        <city>Kasama-Shi</city>
+        <state>Ibaraki</state>
+        <zip>309-1703</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN001</name>
+      <address>
+        <city>Naka-gun</city>
+        <state>Ibaraki</state>
+        <zip>319-1113</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN022</name>
+      <address>
+        <city>Takamatsu-Shi</city>
+        <state>Kagawa</state>
+        <zip>761-8073</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN028</name>
+      <address>
+        <city>Yokohama-Shi Konan-Ku</city>
+        <state>Kanagawa</state>
+        <zip>234-0054</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN005</name>
+      <address>
+        <city>Koshi shi</city>
+        <state>Kumamoto</state>
+        <zip>861-1196</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN008</name>
+      <address>
+        <city>Matsusaka-shi</city>
+        <state>Mie</state>
+        <zip>515-8544</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN011</name>
+      <address>
+        <city>Tsu</city>
+        <state>Mie</state>
+        <zip>514-1101</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN024</name>
+      <address>
+        <city>Sendai-shi</city>
+        <state>Miyagi</state>
+        <zip>984-8560</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN013</name>
+      <address>
+        <city>Nagasaki-Shi</city>
+        <state>Nagasaki</state>
+        <zip>852-8501</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN012</name>
+      <address>
+        <city>Chuo-ku</city>
+        <state>Niigata</state>
+        <zip>951-8510</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN015</name>
+      <address>
+        <city>Matsue</city>
+        <state>Simane</state>
+        <zip>690-8556</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN007</name>
+      <address>
+        <city>Kiyose</city>
+        <state>Tokyo</state>
+        <zip>204-8522</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN014</name>
+      <address>
+        <city>Ota-Ku</city>
+        <state>Tokyo</state>
+        <zip>143-8541</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN006</name>
+      <address>
+        <city>Shinagawa-ku</city>
+        <state>Tokyo</state>
+        <zip>140-8522</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN017</name>
+      <address>
+        <city>Shinagawa-ku</city>
+        <state>Tokyo</state>
+        <zip>141-8625</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN002</name>
+      <address>
+        <city>Shinjuku-ku</city>
+        <state>Tokyo</state>
+        <zip>160-8582</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN019</name>
+      <address>
+        <city>Shimonoseki-Shi</city>
+        <state>Yamaguti</state>
+        <zip>750-0041</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN030</name>
+      <address>
+        <city>Fukuoka-shi</city>
+        <zip>8408571</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN003</name>
+      <address>
+        <city>Hamamatsu-Shi</city>
+        <zip>434-8511</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN004</name>
+      <address>
+        <city>Kita Kyushu-shi</city>
+        <zip>807-8556</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN016</name>
+      <address>
+        <city>Matsue-shi</city>
+        <zip>690-8504</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN010</name>
+      <address>
+        <city>Meguro-ku</city>
+        <zip>152-0021</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN033</name>
+      <address>
+        <city>Sakai-shi</city>
+        <zip>591-8555</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>JPN018</name>
+      <address>
+        <city>Toyonaka-shi</city>
+        <zip>560-8552</zip>
+        <country>Japan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR015</name>
+      <address>
+        <city>Ansan-si</city>
+        <state>Gyeonggido</state>
+        <zip>15355</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR008</name>
+      <address>
+        <city>Bucheon-si</city>
+        <state>Gyeonggido</state>
+        <zip>14584</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR007</name>
+      <address>
+        <city>Seongnam-si</city>
+        <state>Gyeonggido</state>
+        <zip>13620</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR014</name>
+      <address>
+        <city>Uijeongbu-Si</city>
+        <state>Gyeonggido</state>
+        <zip>11765</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR003</name>
+      <address>
+        <city>Seoul</city>
+        <state>Seoul Teugbyeolsi</state>
+        <zip>05030</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR004</name>
+      <address>
+        <city>Incheon</city>
+        <zip>21431</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR001</name>
+      <address>
+        <city>Incheon</city>
+        <zip>21565</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR002</name>
+      <address>
+        <city>Incheon</city>
+        <zip>22332</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR012</name>
+      <address>
+        <city>Seoul</city>
+        <zip>02447</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR011</name>
+      <address>
+        <city>Seoul</city>
+        <zip>02841</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR006</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03080</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR009</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03312</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR013</name>
+      <address>
+        <city>Seoul</city>
+        <zip>03722</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR010</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06273</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>KOR005</name>
+      <address>
+        <city>Seoul</city>
+        <zip>06591</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LVA002</name>
+      <address>
+        <city>Daugavpils</city>
+        <state>Daugavpils Aprinkis</state>
+        <zip>LV-5401</zip>
+        <country>Latvia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>LVA005</name>
+      <address>
+        <city>Jurmala</city>
+        <zip>LV-2015</zip>
+        <country>Latvia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MYS004</name>
+      <address>
+        <city>Kuantan</city>
+        <state>Pahang</state>
+        <zip>25100</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MYS006</name>
+      <address>
+        <city>Kuching</city>
+        <state>Sarawak</state>
+        <zip>93586</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MYS002</name>
+      <address>
+        <city>Bandar Puncak Alam</city>
+        <state>Selangor</state>
+        <zip>42300</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MYS001</name>
+      <address>
+        <city>Kuala Lumpur</city>
+        <state>WilayahPersekutuan KualaLumpur</state>
+        <zip>50603</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MYS003</name>
+      <address>
+        <city>Kota Bahru</city>
+        <zip>16150</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MYS005</name>
+      <address>
+        <city>Kuala Lumpur</city>
+        <zip>50590</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEX007</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44160</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEX008</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44160</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEX005</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44220</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEX004</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>44700</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEX003</name>
+      <address>
+        <city>Monterrey</city>
+        <state>Nuevo León</state>
+        <zip>64460</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEX006</name>
+      <address>
+        <city>Durango</city>
+        <zip>34080</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEX001</name>
+      <address>
+        <city>Monterrey</city>
+        <zip>64718</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>MEX002</name>
+      <address>
+        <city>Oaxaca</city>
+        <zip>68000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NLD003</name>
+      <address>
+        <city>Arnhem</city>
+        <state>Gelderland</state>
+        <zip>6815 AD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NLD001</name>
+      <address>
+        <city>Alkmaar</city>
+        <state>Noord-Holland</state>
+        <zip>1815 JD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NLD002</name>
+      <address>
+        <city>Amsterdam</city>
+        <state>Noord-Holland</state>
+        <zip>1105 AZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NLD004</name>
+      <address>
+        <city>Den Haag</city>
+        <state>Zuid-Holland</state>
+        <zip>2545 AA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NLD005</name>
+      <address>
+        <city>Heerlen</city>
+        <zip>6419PC</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NLD006</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3015 GD</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL006</name>
+      <address>
+        <city>Otahuhu</city>
+        <state>Auckland</state>
+        <zip>1640</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL005</name>
+      <address>
+        <city>Christchurch</city>
+        <state>South Island</state>
+        <zip>8011</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL001</name>
+      <address>
+        <city>Dunedin</city>
+        <state>South Island</state>
+        <zip>9001</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL002</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Waikato</state>
+        <zip>3204</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL011</name>
+      <address>
+        <city>Paraparaumu</city>
+        <state>Wellington</state>
+        <zip>5032</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL003</name>
+      <address>
+        <city>Auckland</city>
+        <zip>1051</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL008</name>
+      <address>
+        <city>Auckland</city>
+        <zip>1051</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL004</name>
+      <address>
+        <city>Auckland</city>
+        <zip>1144</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL009</name>
+      <address>
+        <city>Havelock North</city>
+        <zip>4130</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL007</name>
+      <address>
+        <city>Tauranga</city>
+        <zip>3110</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>NZL010</name>
+      <address>
+        <city>Wellington</city>
+        <zip>6021</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PER008</name>
+      <address>
+        <city>La Victoria</city>
+        <state>Lima</state>
+        <zip>15004</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PER005</name>
+      <address>
+        <city>Chancay</city>
+        <zip>15131</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PER001</name>
+      <address>
+        <city>Lima</city>
+        <zip>15001</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PER003</name>
+      <address>
+        <city>Lima</city>
+        <zip>15036</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PER002</name>
+      <address>
+        <city>Lima</city>
+        <zip>15084</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PER006</name>
+      <address>
+        <city>Piura</city>
+        <zip>20001</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PER004</name>
+      <address>
+        <city>San Miguel</city>
+        <zip>15088</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL012</name>
+      <address>
+        <city>Ostrowiec Swietokrzyski</city>
+        <state>Swietokrzyskie</state>
+        <zip>27-400</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL005</name>
+      <address>
+        <city>Bialystok</city>
+        <zip>15-044</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL006</name>
+      <address>
+        <city>Bielsko Biala</city>
+        <zip>43-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL016</name>
+      <address>
+        <city>Katowice</city>
+        <zip>40-081</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL015</name>
+      <address>
+        <city>Kielce</city>
+        <zip>25-751</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL017</name>
+      <address>
+        <city>Krakow</city>
+        <zip>30-510</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL018</name>
+      <address>
+        <city>Ksawerow</city>
+        <zip>95-054</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL008</name>
+      <address>
+        <city>Rabka-Zdroj</city>
+        <zip>34-700</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL011</name>
+      <address>
+        <city>Rzeszów</city>
+        <zip>35-051</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL010</name>
+      <address>
+        <city>Siedlce</city>
+        <zip>08-110</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL007</name>
+      <address>
+        <city>Sosnowiec</city>
+        <zip>41-208</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL001</name>
+      <address>
+        <city>Sucha Beskidzka</city>
+        <zip>34-200</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL014</name>
+      <address>
+        <city>Szczecin</city>
+        <zip>70-111</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>POL009</name>
+      <address>
+        <city>Tarnow</city>
+        <zip>33-100</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PRT004</name>
+      <address>
+        <city>Loures</city>
+        <state>Lisboa</state>
+        <zip>2674-514</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PRT005</name>
+      <address>
+        <city>Aveiro</city>
+        <zip>3814-501</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PRT009</name>
+      <address>
+        <city>Braga</city>
+        <zip>4710-243</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PRT001</name>
+      <address>
+        <city>Covilhã</city>
+        <zip>6200-251</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PRT006</name>
+      <address>
+        <city>Guarda</city>
+        <zip>6300-858</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PRT002</name>
+      <address>
+        <city>Guimaraes</city>
+        <zip>4835-044</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PRT003</name>
+      <address>
+        <city>Lisboa</city>
+        <zip>1649-035</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>PRT007</name>
+      <address>
+        <city>Vila Nova de Gaia</city>
+        <zip>4434-502</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SRB001</name>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SRB003</name>
+      <address>
+        <city>Belgrade</city>
+        <zip>11000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SRB007</name>
+      <address>
+        <city>Nis</city>
+        <zip>18000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SRB014</name>
+      <address>
+        <city>Sombor</city>
+        <zip>25000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SRB010</name>
+      <address>
+        <city>Uzice</city>
+        <zip>31000</zip>
+        <country>Serbia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SVK002</name>
+      <address>
+        <city>Bardejov</city>
+        <zip>085 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>SVK003</name>
+      <address>
+        <city>Spisská Nová Ves</city>
+        <zip>052 01</zip>
+        <country>Slovakia</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP009</name>
+      <address>
+        <city>Santiago de Compostela</city>
+        <state>A Coruña</state>
+        <zip>15706</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP008</name>
+      <address>
+        <city>Oviedo</city>
+        <state>Asturias</state>
+        <zip>33011</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP013</name>
+      <address>
+        <city>Badalona</city>
+        <state>Barcelona</state>
+        <zip>08036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP012</name>
+      <address>
+        <city>Santander</city>
+        <state>Cantabria</state>
+        <zip>39008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP015</name>
+      <address>
+        <city>Pozuelo de Alarcon</city>
+        <state>Madrid</state>
+        <zip>28223</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP011</name>
+      <address>
+        <city>Pamplona</city>
+        <state>Navarra</state>
+        <zip>31008</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP003</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP016</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>8036</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP001</name>
+      <address>
+        <city>Girona</city>
+        <zip>17007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP006</name>
+      <address>
+        <city>L´Hospitalet de Llobregat</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP007</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>ESP002</name>
+      <address>
+        <city>Madrid</city>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TWN003</name>
+      <address>
+        <city>Kaohsiung City</city>
+        <zip>80756</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TWN002</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>82544</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TWN001</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>833</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TWN005</name>
+      <address>
+        <city>New Taipei City</city>
+        <zip>22060</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TWN006</name>
+      <address>
+        <city>Taipei City</city>
+        <zip>11490</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TWN007</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10002</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TWN004</name>
+      <address>
+        <city>Taipei</city>
+        <zip>11217</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>THA004</name>
+      <address>
+        <city>Nakhonnayok</city>
+        <state>Nakhon Nayok</state>
+        <zip>26120</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>THA002</name>
+      <address>
+        <city>Muang</city>
+        <state>Nonthaburi</state>
+        <zip>11000</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>THA001</name>
+      <address>
+        <city>Bangkok</city>
+        <zip>10400</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>THA003</name>
+      <address>
+        <city>Khon Kaen</city>
+        <zip>40002</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR006</name>
+      <address>
+        <city>Atakum</city>
+        <state>Samsun</state>
+        <zip>55270</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR010</name>
+      <address>
+        <city>Ankara</city>
+        <zip>6010</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR011</name>
+      <address>
+        <city>Ankara</city>
+        <zip>6340</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR003</name>
+      <address>
+        <city>Canakkale</city>
+        <zip>17110</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR008</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR004</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35110</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR009</name>
+      <address>
+        <city>Kocaeli</city>
+        <zip>41380</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR005</name>
+      <address>
+        <city>Konya</city>
+        <zip>42075</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>TUR001</name>
+      <address>
+        <city>Mersin</city>
+        <zip>33079</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR001</name>
+      <address>
+        <city>Kharkiv</city>
+        <state>Kharkivs'ka Oblast</state>
+        <zip>61124</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR007</name>
+      <address>
+        <city>Kherson</city>
+        <state>Khersons'ka Oblast</state>
+        <zip>73003</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR005</name>
+      <address>
+        <city>Poltava</city>
+        <state>Poltavs'ka Oblast</state>
+        <zip>36010</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR012</name>
+      <address>
+        <city>Dnipro</city>
+        <zip>49102</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR009</name>
+      <address>
+        <city>Ivano-Frankivsk</city>
+        <zip>76018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR008</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>01033</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR004</name>
+      <address>
+        <city>Kyiv</city>
+        <zip>03038</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR003</name>
+      <address>
+        <city>Odesa</city>
+        <zip>65025</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UKR010</name>
+      <address>
+        <city>Vinnytsia</city>
+        <zip>21018</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR001</name>
+      <address>
+        <city>Cambridge</city>
+        <state>Cambridgeshire</state>
+        <zip>CB23 3RE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR015</name>
+      <address>
+        <city>Exeter</city>
+        <state>Devon</state>
+        <zip>EX2 5DW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR017</name>
+      <address>
+        <city>Norwich</city>
+        <state>Norfolk</state>
+        <zip>NR4 7UY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR013</name>
+      <address>
+        <city>Llandough, Penarth</city>
+        <state>Vale Of Glamorgan, The</state>
+        <zip>CF64 2XX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR016</name>
+      <address>
+        <city>Bradford</city>
+        <state>Yorkshire</state>
+        <zip>BD9 6RJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR006</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B9 5SS</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR002</name>
+      <address>
+        <city>Chertsey</city>
+        <zip>KT16 0PZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR007</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DDI 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR004</name>
+      <address>
+        <city>Liverpool</city>
+        <zip>L14 3PE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR014</name>
+      <address>
+        <city>Londonderry</city>
+        <zip>BT47 6SB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR009</name>
+      <address>
+        <city>London</city>
+        <zip>SW3 6NP</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR008</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M23 9LT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR011</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M8 5RB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR003</name>
+      <address>
+        <city>Newcastle upon Tyne</city>
+        <zip>NE7 7DN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR012</name>
+      <address>
+        <city>Salford</city>
+        <zip>M6 8HD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR018</name>
+      <address>
+        <city>Southampton</city>
+        <zip>SO16 6YD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>GBR010</name>
+      <address>
+        <city>Swansea</city>
+        <zip>SA6 6NL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Bulgaria</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>Colombia</country>
+    <country>Denmark</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>Ireland</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Japan</country>
+    <country>Korea, Republic of</country>
+    <country>Latvia</country>
+    <country>Malaysia</country>
+    <country>Mexico</country>
+    <country>Netherlands</country>
+    <country>New Zealand</country>
+    <country>Peru</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>Serbia</country>
+    <country>Slovakia</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>Turkey</country>
+    <country>Ukraine</country>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Estonia</country>
+    <country>Lithuania</country>
+  </removed_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>October 14, 2020</study_first_submitted>
+  <study_first_submitted_qc>October 14, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">October 20, 2020</study_first_posted>
+  <last_update_submitted>June 7, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 7, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 8, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ASPEN</keyword>
+  <keyword>Brensocatib</keyword>
+  <keyword>INS1007</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchiectasis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

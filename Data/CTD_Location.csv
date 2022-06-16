@@ -1,0 +1,1793 @@
+,id,city,state,country
+0,NCT00484263,Melbourne,Victoria,Australia
+1,NCT00728715,Valencia,,Spain
+2,NCT00749866,Edinburgh,Lothian,United Kingdom
+3,NCT00816309,Edinburgh,Scotland,United Kingdom
+4,NCT00868075,Edinburgh,Scotland,United Kingdom
+5,NCT00885521,Melbourne,Victoria,Australia
+6,NCT00885521,Melbourne,Victoria,Australia
+7,NCT00885521,Perth,Western Australia,Australia
+8,NCT00889967,Phoenix,Arizona,United States
+9,NCT00889967,Los Angeles,California,United States
+10,NCT00889967,Sacramento,California,United States
+11,NCT00889967,Torrance,California,United States
+12,NCT00889967,Waterbury,Connecticut,United States
+13,NCT00889967,Brandon,Florida,United States
+14,NCT00889967,Miami,Florida,United States
+15,NCT00889967,Council Bluffs,Iowa,United States
+16,NCT00889967,Summit,New Jersey,United States
+17,NCT00889967,New York,New York,United States
+18,NCT00889967,Elizabeth City,North Carolina,United States
+19,NCT00889967,Toledo,Ohio,United States
+20,NCT00889967,Philadelphia,Pennsylvania,United States
+21,NCT00889967,McKinney,Texas,United States
+22,NCT00889967,Calgary,Alberta,Canada
+23,NCT00889967,Kelowna,British Columbia,Canada
+24,NCT00889967,Vancouver,British Columbia,Canada
+25,NCT00889967,Vancouver,British Columbia,Canada
+26,NCT00889967,Ottawa,Ontario,Canada
+27,NCT00889967,Montreal,Quebec,Canada
+28,NCT00889967,St. Jerome,Quebec,Canada
+29,NCT00889967,Berlin,,Germany
+30,NCT00889967,Donaustauf,,Germany
+31,NCT00889967,Heidelberg,,Germany
+32,NCT00889967,Neuwied,,Germany
+33,NCT00889967,Belfast,Britain,United Kingdom
+34,NCT00889967,Birmingham,Britain,United Kingdom
+35,NCT00889967,Bradford,Britain,United Kingdom
+36,NCT00889967,Manchester,Britain,United Kingdom
+37,NCT00889967,Newcastle upon Tyne,"Freeman Road, High Heaton",United Kingdom
+38,NCT00889967,London,High Street Lewisham,United Kingdom
+39,NCT00889967,Birmingham,,United Kingdom
+40,NCT00889967,Glasgow,,United Kingdom
+41,NCT00889967,London,,United Kingdom
+42,NCT00889967,Salford,,United Kingdom
+43,NCT00889967,Stoke on Trent,,United Kingdom
+44,NCT00889967,Tyne and Wear,,United Kingdom
+45,NCT00930982,Little Rock,Arkansas,United States
+46,NCT00930982,La Jolla,California,United States
+47,NCT00930982,Denver,Colorado,United States
+48,NCT00930982,Farmington,Connecticut,United States
+49,NCT00930982,Washington,District of Columbia,United States
+50,NCT00930982,Naples,Florida,United States
+51,NCT00930982,Michigan City,Indiana,United States
+52,NCT00930982,Mineola,New York,United States
+53,NCT00930982,Houston,Texas,United States
+54,NCT00930982,Tyler,Texas,United States
+55,NCT00930982,Payson,Utah,United States
+56,NCT00930982,Concord,New South Wales,Australia
+57,NCT00930982,South Brisbane,Queensland,Australia
+58,NCT00930982,Woollongabba,Queensland,Australia
+59,NCT00930982,Adelaide,South Australia,Australia
+60,NCT00930982,Adelaide,South Australia,Australia
+61,NCT00930982,Heidelberg,Victoria,Australia
+62,NCT00930982,Prahran,Victoria,Australia
+63,NCT00930982,Nedlands,Western Australia,Australia
+64,NCT00930982,Löwenstein,Baden-Württemberg,Germany
+65,NCT00930982,Rüdersdorf,Brandenburg,Germany
+66,NCT00930982,Frankfurt,Hessen,Germany
+67,NCT00930982,Gelnhausen,Hessen,Germany
+68,NCT00930982,Hannover,Niedersachsen,Germany
+69,NCT00930982,Hannover,Niedersachsen,Germany
+70,NCT00930982,Witten,Nordrhein-Westfalen,Germany
+71,NCT00930982,Koblenz,Rheinland-Pfalz,Germany
+72,NCT00930982,Mainz,Rheinland-Pfalz,Germany
+73,NCT00930982,Geesthacht,Schleswig-Holstein,Germany
+74,NCT00930982,Großhansdorf,Schleswig-Holstein,Germany
+75,NCT00930982,Bad Berka,Thüringen,Germany
+76,NCT00930982,Berlin,,Germany
+77,NCT00930982,Berlin,,Germany
+78,NCT00930982,Berlin,,Germany
+79,NCT00930982,Berlin,,Germany
+80,NCT00930982,Santiago de Compostela,A Coruña,Spain
+81,NCT00930982,Palma de Mallorca,Illes Baleares,Spain
+82,NCT00930982,Badajoz,,Spain
+83,NCT00930982,Barcelona,,Spain
+84,NCT00930982,Uppsala,,Sweden
+85,NCT00930982,Bristol,Avon,United Kingdom
+86,NCT00930982,Cambridge,Cambridgeshire,United Kingdom
+87,NCT00930982,Liverpool,Merseyside,United Kingdom
+88,NCT00930982,Belfast,North Ireland,United Kingdom
+89,NCT00930982,Newcastle Upon Tyne,Tyne and Wear,United Kingdom
+90,NCT00930982,Edinburgh,,United Kingdom
+91,NCT00930982,Norwich,,United Kingdom
+92,NCT01299181,Edinburgh,Scotland,United Kingdom
+93,NCT01299194,Edinburgh,Scotland,United Kingdom
+94,NCT01313624,Phoenix,Arizona,United States
+95,NCT01313624,Phoenix,Arizona,United States
+96,NCT01313624,Phoenix,Arizona,United States
+97,NCT01313624,Scottsdale,Arizona,United States
+98,NCT01313624,Los Angeles,California,United States
+99,NCT01313624,Sacramento,California,United States
+100,NCT01313624,Ventura,California,United States
+101,NCT01313624,Denver,Colorado,United States
+102,NCT01313624,Farmington,Connecticut,United States
+103,NCT01313624,Clearwater,Florida,United States
+104,NCT01313624,Gainesville,Florida,United States
+105,NCT01313624,Kissimmee,Florida,United States
+106,NCT01313624,Miami,Florida,United States
+107,NCT01313624,Orlando,Florida,United States
+108,NCT01313624,Weston,Florida,United States
+109,NCT01313624,Atlanta,Georgia,United States
+110,NCT01313624,Baltimore,Maryland,United States
+111,NCT01313624,Rochester,Minnesota,United States
+112,NCT01313624,Chesterfield,Missouri,United States
+113,NCT01313624,Albany,New York,United States
+114,NCT01313624,Jamaica,New York,United States
+115,NCT01313624,Mineola,New York,United States
+116,NCT01313624,New York,New York,United States
+117,NCT01313624,Cincinnati,Ohio,United States
+118,NCT01313624,Portland,Oregon,United States
+119,NCT01313624,Philadelphia,Pennsylvania,United States
+120,NCT01313624,Philadelphia,Pennsylvania,United States
+121,NCT01313624,Philadelphia,Pennsylvania,United States
+122,NCT01313624,Charleston,South Carolina,United States
+123,NCT01313624,McKinney,Texas,United States
+124,NCT01313624,San Antonio,Texas,United States
+125,NCT01313624,Tyler,Texas,United States
+126,NCT01313624,Charlottesville,Virginia,United States
+127,NCT01313624,Falls Church,Virginia,United States
+128,NCT01313624,Seattle,Washington,United States
+129,NCT01313624,Tacoma,Washington,United States
+130,NCT01313624,Concord,New South Wales,Australia
+131,NCT01313624,Darlinghurst,New South Wales,Australia
+132,NCT01313624,Glebe,New South Wales,Australia
+133,NCT01313624,Kogarah,New South Wales,Australia
+134,NCT01313624,Perth,New South Wales,Australia
+135,NCT01313624,Westmead,New South Wales,Australia
+136,NCT01313624,Brisbane,Queensland,Australia
+137,NCT01313624,Chermside,Queensland,Australia
+138,NCT01313624,Adelaide,South Australia,Australia
+139,NCT01313624,Daws Park,South Australia,Australia
+140,NCT01313624,Toorak Gardens,South Australia,Australia
+141,NCT01313624,Clayton,Victoria,Australia
+142,NCT01313624,Frankston,Victoria,Australia
+143,NCT01313624,Westmead,Victoria,Australia
+144,NCT01313624,Nedlands,Western Australia,Australia
+145,NCT01313624,Calgary,Alberta,Canada
+146,NCT01313624,Edmonton,Alberta,Canada
+147,NCT01313624,Kelowna,British Columbia,Canada
+148,NCT01313624,Vancouver,British Columbia,Canada
+149,NCT01313624,Vancouver,British Columbia,Canada
+150,NCT01313624,Kingston,Ontario,Canada
+151,NCT01313624,Toronto,Ontario,Canada
+152,NCT01313624,Windsor,Ontario,Canada
+153,NCT01313624,Montreal,Quebec,Canada
+154,NCT01314716,Florence,Alabama,United States
+155,NCT01314716,Flagstaff,Arizona,United States
+156,NCT01314716,Peoria,Arizona,United States
+157,NCT01314716,Phoenix,Arizona,United States
+158,NCT01314716,Scottsdale,Arizona,United States
+159,NCT01314716,Orange,California,United States
+160,NCT01314716,San Diego,California,United States
+161,NCT01314716,San Francisco,California,United States
+162,NCT01314716,Washington,District of Columbia,United States
+163,NCT01314716,Jacksonville,Florida,United States
+164,NCT01314716,Miami,Florida,United States
+165,NCT01314716,Orlando,Florida,United States
+166,NCT01314716,Sarasota,Florida,United States
+167,NCT01314716,St. Petersburg,Florida,United States
+168,NCT01314716,Tampa,Florida,United States
+169,NCT01314716,Winter Park,Florida,United States
+170,NCT01314716,Decatur,Georgia,United States
+171,NCT01314716,Chicago,Illinois,United States
+172,NCT01314716,Council Bluffs,Iowa,United States
+173,NCT01314716,Louisville,Kentucky,United States
+174,NCT01314716,Rosedale,Maryland,United States
+175,NCT01314716,New Brunswick,New Jersey,United States
+176,NCT01314716,Summit,New Jersey,United States
+177,NCT01314716,Jamaica,New York,United States
+178,NCT01314716,New York,New York,United States
+179,NCT01314716,Chapel Hill,North Carolina,United States
+180,NCT01314716,Portland,Oregon,United States
+181,NCT01314716,Philadelphia,Pennsylvania,United States
+182,NCT01314716,Tyler,Texas,United States
+183,NCT01314716,Salt Lake City,Utah,United States
+184,NCT01314716,Tacoma,Washington,United States
+185,NCT01314716,Madison,Wisconsin,United States
+186,NCT01314716,Milwaukee,Wisconsin,United States
+187,NCT01314716,Concord,New South Wales,Australia
+188,NCT01314716,Darlinghurst,New South Wales,Australia
+189,NCT01314716,Kogarah,New South Wales,Australia
+190,NCT01314716,Perth,New South Wales,Australia
+191,NCT01314716,Westmead,New South Wales,Australia
+192,NCT01314716,Adelaide,South Australia,Australia
+193,NCT01314716,Daw Park,South Australia,Australia
+194,NCT01314716,Toorak Gardens,South Australia,Australia
+195,NCT01314716,Nedlands,Western Australia,Australia
+196,NCT01314716,Brussels,,Belgium
+197,NCT01314716,Edegem,,Belgium
+198,NCT01314716,Leuven,,Belgium
+199,NCT01314716,Kelowna,British Columbia,Canada
+200,NCT01314716,Vancouver,British Columbia,Canada
+201,NCT01314716,Toronto,Ontario,Canada
+202,NCT01314716,"Gap, PACA",,France
+203,NCT01314716,Marseille,,France
+204,NCT01314716,Montpellier Cedex 05,,France
+205,NCT01314716,Nice,,France
+206,NCT01314716,Pessac,,France
+207,NCT01314716,Toulouse,,France
+208,NCT01314716,Berlin-Charlottenburg (Westend),,Germany
+209,NCT01314716,Berlin,,Germany
+210,NCT01314716,Freiburg,,Germany
+211,NCT01314716,Giessen,,Germany
+212,NCT01314716,Hannover,,Germany
+213,NCT01314716,Homburg,,Germany
+214,NCT01314716,Jena,,Germany
+215,NCT01314716,Leipzig,,Germany
+216,NCT01314716,Leipzig,,Germany
+217,NCT01314716,Munich,,Germany
+218,NCT01314716,Ferrara,,Italy
+219,NCT01314716,Milan,,Italy
+220,NCT01314716,Modena,,Italy
+221,NCT01314716,Naples,,Italy
+222,NCT01314716,Pisa,,Italy
+223,NCT01314716,Verona,,Italy
+224,NCT01314716,Alkmaar,,Netherlands
+225,NCT01314716,Rotterdam,,Netherlands
+226,NCT01314716,Barcelona,,Spain
+227,NCT01314716,Barcelona,,Spain
+228,NCT01314716,Barcelona,,Spain
+229,NCT01314716,Girona,,Spain
+230,NCT01314716,Madrid,,Spain
+231,NCT01314716,Valencia,,Spain
+232,NCT01314716,Cambridgeshire,,United Kingdom
+233,NCT01314716,Edinburgh,,United Kingdom
+234,NCT01314716,Exeter,,United Kingdom
+235,NCT01314716,Newcastle upon Tyne,,United Kingdom
+236,NCT01314716,Sheffield,,United Kingdom
+237,NCT01314716,"Torquay, Devon",,United Kingdom
+238,NCT01314716,Wolverhampton,,United Kingdom
+239,NCT01463371,Valencia,,Spain
+240,NCT01515007,Peoria,Arizona,United States
+241,NCT01515007,Phoenix,Arizona,United States
+242,NCT01515007,Downey,California,United States
+243,NCT01515007,Los Angeles,California,United States
+244,NCT01515007,Poway,California,United States
+245,NCT01515007,Farmington,Connecticut,United States
+246,NCT01515007,Washington,District of Columbia,United States
+247,NCT01515007,Celebration,Florida,United States
+248,NCT01515007,Kissimmee,Florida,United States
+249,NCT01515007,Miami,Florida,United States
+250,NCT01515007,Sebring,Florida,United States
+251,NCT01515007,Kailua,Hawaii,United States
+252,NCT01515007,Chicago,Illinois,United States
+253,NCT01515007,Columbia,Maryland,United States
+254,NCT01515007,Royal Oak,Michigan,United States
+255,NCT01515007,Rochester,Minnesota,United States
+256,NCT01515007,Lincoln,Nebraska,United States
+257,NCT01515007,Cedar Knolls,New Jersey,United States
+258,NCT01515007,New Hyde Park,New York,United States
+259,NCT01515007,New York,New York,United States
+260,NCT01515007,Syracuse,New York,United States
+261,NCT01515007,Charlotte,North Carolina,United States
+262,NCT01515007,Huntersville,North Carolina,United States
+263,NCT01515007,Oklahoma City,Oklahoma,United States
+264,NCT01515007,Anderson,South Carolina,United States
+265,NCT01515007,Charleston,South Carolina,United States
+266,NCT01515007,Columbia,South Carolina,United States
+267,NCT01515007,Fort Worth,Texas,United States
+268,NCT01515007,Tyler,Texas,United States
+269,NCT01515007,Falls Church,Virginia,United States
+270,NCT01515007,Concord,New South Wales,Australia
+271,NCT01515007,Westmead,New South Wales,Australia
+272,NCT01515007,Brisbane,Queensland,Australia
+273,NCT01515007,Cairns,Queensland,Australia
+274,NCT01515007,South Brisbane,Queensland,Australia
+275,NCT01515007,Daw Park,South Australia,Australia
+276,NCT01515007,Footscray,Victoria,Australia
+277,NCT01515007,Heidelberg,Victoria,Australia
+278,NCT01515007,Adelaide,,Australia
+279,NCT01515007,Calgary,Alberta,Canada
+280,NCT01515007,Kelowna,British Columbia,Canada
+281,NCT01515007,Montreal,Quebec,Canada
+282,NCT01515007,Borstel,Schleswig-Holstein,Germany
+283,NCT01515007,Berlin,,Germany
+284,NCT01515007,Donaustaff,,Germany
+285,NCT01515007,Freiburg,,Germany
+286,NCT01515007,Hannover,,Germany
+287,NCT01515007,Immenstadt im Allgau,,Germany
+288,NCT01515007,Lubeck,,Germany
+289,NCT01515007,Munich,,Germany
+290,NCT01515007,Budapest,,Hungary
+291,NCT01515007,Debrecen,,Hungary
+292,NCT01515007,Miskolc,,Hungary
+293,NCT01515007,Szombathely,,Hungary
+294,NCT01515007,Dublin,,Ireland
+295,NCT01515007,Galway,,Ireland
+296,NCT01515007,Ashkelon,,Israel
+297,NCT01515007,Haifa,,Israel
+298,NCT01515007,Holon,,Israel
+299,NCT01515007,Jerusalem,,Israel
+300,NCT01515007,Kfar-Saba,,Israel
+301,NCT01515007,Rehovot,,Israel
+302,NCT01515007,Tel Aviv,,Israel
+303,NCT01515007,Pavia,PV,Italy
+304,NCT01515007,Acquaviva delle Fonti,,Italy
+305,NCT01515007,Bologna,,Italy
+306,NCT01515007,Ferrara,,Italy
+307,NCT01515007,Firenze,,Italy
+308,NCT01515007,Milano,,Italy
+309,NCT01515007,Pisa,,Italy
+310,NCT01515007,Busan,,"Korea, Republic of"
+311,NCT01515007,Seoul,,"Korea, Republic of"
+312,NCT01515007,Cekule,,Latvia
+313,NCT01515007,Daugavpils,,Latvia
+314,NCT01515007,Liepaja,,Latvia
+315,NCT01515007,Riga,,Latvia
+316,NCT01515007,Bialystok,,Poland
+317,NCT01515007,Chrzanow,,Poland
+318,NCT01515007,Warsaw,,Poland
+319,NCT01515007,Wroclaw,,Poland
+320,NCT01515007,Bucuresti,,Romania
+321,NCT01515007,Constanta,,Romania
+322,NCT01515007,Timisoara,,Romania
+323,NCT01515007,Durban,KwaZulu-Natal,South Africa
+324,NCT01515007,Pietermaritzburg,KwaZulu-Natal,South Africa
+325,NCT01515007,Amanzimtoti,,South Africa
+326,NCT01515007,Cape Town,,South Africa
+327,NCT01515007,Krugersdorp,,South Africa
+328,NCT01515007,Palma de Mallorca,Islas Baleares,Spain
+329,NCT01515007,Barcelona,,Spain
+330,NCT01515007,Girona,,Spain
+331,NCT01515007,Madrid,,Spain
+332,NCT01515007,Malaga,,Spain
+333,NCT01515007,Kaohsiung,,Taiwan
+334,NCT01515007,Taichung City,,Taiwan
+335,NCT01515007,Taipei City,,Taiwan
+336,NCT01515007,Glasgow,Scotland,United Kingdom
+337,NCT01515007,Birmingham,West Midlands,United Kingdom
+338,NCT01515007,Bradford,,United Kingdom
+339,NCT01515007,Dundee,,United Kingdom
+340,NCT01515007,Liverpool,,United Kingdom
+341,NCT01515007,Llandough,,United Kingdom
+342,NCT01515007,London,,United Kingdom
+343,NCT01515007,Manchester,,United Kingdom
+344,NCT01515007,Newcastle upon Tyne,,United Kingdom
+345,NCT01515007,Nottinghamshire,,United Kingdom
+346,NCT01515007,Stoke-on-Trent,,United Kingdom
+347,NCT01515007,Tyne And Wear,,United Kingdom
+348,NCT01515007,Wolverhampton,,United Kingdom
+349,NCT01684683,Guangzhou City,Guangdong,China
+350,NCT01764841,Jasper,Alabama,United States
+351,NCT01764841,Flagstaff,Arizona,United States
+352,NCT01764841,Phoenix,Arizona,United States
+353,NCT01764841,Scottsdale,Arizona,United States
+354,NCT01764841,Fort Smith,Arkansas,United States
+355,NCT01764841,Los Angeles,California,United States
+356,NCT01764841,Torrance,California,United States
+357,NCT01764841,Ventura,California,United States
+358,NCT01764841,Farmington,Connecticut,United States
+359,NCT01764841,Waterbury,Connecticut,United States
+360,NCT01764841,Washington,District of Columbia,United States
+361,NCT01764841,Celebration,Florida,United States
+362,NCT01764841,Miami,Florida,United States
+363,NCT01764841,Orlando,Florida,United States
+364,NCT01764841,Weston,Florida,United States
+365,NCT01764841,Winter Park,Florida,United States
+366,NCT01764841,Lawrenceville,Georgia,United States
+367,NCT01764841,Marietta,Georgia,United States
+368,NCT01764841,Chicago,Illinois,United States
+369,NCT01764841,Michigan City,Indiana,United States
+370,NCT01764841,Hazard,Kentucky,United States
+371,NCT01764841,Chesterfield,Missouri,United States
+372,NCT01764841,Summit,New Jersey,United States
+373,NCT01764841,New Hyde Park,New York,United States
+374,NCT01764841,New York,New York,United States
+375,NCT01764841,Portland,Oregon,United States
+376,NCT01764841,Philadelphia,Pennsylvania,United States
+377,NCT01764841,Philadelphia,Pennsylvania,United States
+378,NCT01764841,Charleston,South Carolina,United States
+379,NCT01764841,Fort Worth,Texas,United States
+380,NCT01764841,Houston,Texas,United States
+381,NCT01764841,Houston,Texas,United States
+382,NCT01764841,Kingwood,Texas,United States
+383,NCT01764841,McKinney,Texas,United States
+384,NCT01764841,Tyler,Texas,United States
+385,NCT01764841,Abingdon,Virginia,United States
+386,NCT01764841,Richmond,Virginia,United States
+387,NCT01764841,Spokane,Washington,United States
+388,NCT01764841,Tacoma,Washington,United States
+389,NCT01764841,Buenos Aires,Ciudad Auton. De Buenos Aires,Argentina
+390,NCT01764841,Godoy Cruz,Mendoza,Argentina
+391,NCT01764841,Vicente López,,Argentina
+392,NCT01764841,Woolloongabba,Queensland,Australia
+393,NCT01764841,Adelaide,South Australia,Australia
+394,NCT01764841,Adelaide,South Australia,Australia
+395,NCT01764841,Woodville,South Australia,Australia
+396,NCT01764841,Parkville,Victoria,Australia
+397,NCT01764841,Prahran,Victoria,Australia
+398,NCT01764841,Murdoch,Western Australia,Australia
+399,NCT01764841,Box Hill,,Australia
+400,NCT01764841,Cairns,,Australia
+401,NCT01764841,Frankston,,Australia
+402,NCT01764841,Kogarah,,Australia
+403,NCT01764841,Toorak Gardens,,Australia
+404,NCT01764841,Aarhus C,,Denmark
+405,NCT01764841,Hellerup,,Denmark
+406,NCT01764841,Naestved,,Denmark
+407,NCT01764841,Roskilde,,Denmark
+408,NCT01764841,Clermont Ferrand,,France
+409,NCT01764841,Montpellier,,France
+410,NCT01764841,Nimes,,France
+411,NCT01764841,Toulon,,France
+412,NCT01764841,Heidelberg,Baden-Württemberg,Germany
+413,NCT01764841,Cottbus,Brandenburg,Germany
+414,NCT01764841,Frankfurt,Hessen,Germany
+415,NCT01764841,Neu-Isenburg,Hessen,Germany
+416,NCT01764841,Hannover,Niedersachsen,Germany
+417,NCT01764841,Hannover,Niedersachsen,Germany
+418,NCT01764841,Koblenz,Rheinland-Pfalz,Germany
+419,NCT01764841,Geesthacht,Schleswig-Holstein,Germany
+420,NCT01764841,Jena,Thüringen,Germany
+421,NCT01764841,Berlin,,Germany
+422,NCT01764841,Berlin,,Germany
+423,NCT01764841,Berlin,,Germany
+424,NCT01764841,Hamburg,,Germany
+425,NCT01764841,Afula,,Israel
+426,NCT01764841,Ashkelon,,Israel
+427,NCT01764841,Beer Sheva,,Israel
+428,NCT01764841,Haifa,,Israel
+429,NCT01764841,Haifa,,Israel
+430,NCT01764841,Jerusalem,,Israel
+431,NCT01764841,Petah Tikva,,Israel
+432,NCT01764841,Ramat Gan,,Israel
+433,NCT01764841,Rehovot,,Israel
+434,NCT01764841,Tel Aviv,,Israel
+435,NCT01764841,Benevento,Campania,Italy
+436,NCT01764841,Trieste,Friuli-Venezia Giulia,Italy
+437,NCT01764841,Roma,Lazio,Italy
+438,NCT01764841,Pavia,Lombardia,Italy
+439,NCT01764841,Varese,Lombardia,Italy
+440,NCT01764841,Bari,Puglia,Italy
+441,NCT01764841,Cagliari,Sardegna,Italy
+442,NCT01764841,Catania,Sicilia,Italy
+443,NCT01764841,Pisa,Toscana,Italy
+444,NCT01764841,Verona,Veneto,Italy
+445,NCT01764841,Toon,Ehime,Japan
+446,NCT01764841,Nakagun,Ibaraki,Japan
+447,NCT01764841,Koshi,Kumamoto,Japan
+448,NCT01764841,Matsusaka,Mie,Japan
+449,NCT01764841,Tsu,Mie,Japan
+450,NCT01764841,Sakai,Osaka,Japan
+451,NCT01764841,Hamamatsu,Shizuoka,Japan
+452,NCT01764841,Kiyose,Tokyo,Japan
+453,NCT01764841,Mitaka,Tokyo,Japan
+454,NCT01764841,Fukuoka,,Japan
+455,NCT01764841,Daugavpils,,Latvia
+456,NCT01764841,Daugavpils,,Latvia
+457,NCT01764841,Jurmala,,Latvia
+458,NCT01764841,Kraslava,,Latvia
+459,NCT01764841,Riga,,Latvia
+460,NCT01764841,Riga,,Latvia
+461,NCT01764841,Riga,,Latvia
+462,NCT01764841,Riga,,Latvia
+463,NCT01764841,Talsu,,Latvia
+464,NCT01764841,Auckland,,New Zealand
+465,NCT01764841,Auckland,,New Zealand
+466,NCT01764841,Christchurch,,New Zealand
+467,NCT01764841,Dunedin,,New Zealand
+468,NCT01764841,Hamilton,,New Zealand
+469,NCT01764841,Tauranga,,New Zealand
+470,NCT01764841,Wellington,,New Zealand
+471,NCT01764841,Bratislava,,Slovakia
+472,NCT01764841,Presov,,Slovakia
+473,NCT01764841,Santiago de Compostela,A Coruña,Spain
+474,NCT01764841,Elda,Alicante,Spain
+475,NCT01764841,Oviedo,Asturias,Spain
+476,NCT01764841,Badalona,Barcelona,Spain
+477,NCT01764841,L'Hospitalet,Barcelona,Spain
+478,NCT01764841,Sant Boi de Llobregat,Barcelona,Spain
+479,NCT01764841,Terrassa,Barcelona,Spain
+480,NCT01764841,Pozuelo de Alarcón,Madrid,Spain
+481,NCT01764841,Barcelona,,Spain
+482,NCT01764841,Barcelona,,Spain
+483,NCT01764841,Cáceres,,Spain
+484,NCT01764841,Madrid,,Spain
+485,NCT01764841,Madrid,,Spain
+486,NCT01764841,Madrid,,Spain
+487,NCT01764841,Pontevedra,,Spain
+488,NCT01764841,Valencia,,Spain
+489,NCT01764841,Valencia,,Spain
+490,NCT01764841,Cambridge,Cambridgeshire,United Kingdom
+491,NCT01764841,Exeter,Devon,United Kingdom
+492,NCT01764841,Plymouth,Devon,United Kingdom
+493,NCT01764841,Torbay,Devon,United Kingdom
+494,NCT01764841,Dundee,Dundee City,United Kingdom
+495,NCT01764841,Belfast,North Ireland,United Kingdom
+496,NCT01764841,Shrewsbury,Shropshire,United Kingdom
+497,NCT01764841,Newcastle Upon Tyne,Tyne And Wear,United Kingdom
+498,NCT01764841,Londonderry,,United Kingdom
+499,NCT01764841,London,,United Kingdom
+500,NCT01764841,Manchester,,United Kingdom
+501,NCT01792427,Leuven,Vlaams-Brabant,Belgium
+502,NCT01792440,Leuven,Vlaams-Brabent,Belgium
+503,NCT01801657,Guangzhou,Guangdong,China
+504,NCT01818544,Nice,,France
+505,NCT01818544,Perpignan,,France
+506,NCT01818544,Donaustauf,Bayern,Germany
+507,NCT01818544,Rüdersdorf,Brandenburg,Germany
+508,NCT01818544,Hannover,Niedersachsen,Germany
+509,NCT01818544,Leipzig,Sachsen,Germany
+510,NCT01818544,Großhansdorf,Schleswig-Holstein,Germany
+511,NCT01818544,Kiel,Schleswig-Holstein,Germany
+512,NCT01818544,Lübeck,Schleswig-Holstein,Germany
+513,NCT01818544,Jena,Thüringen,Germany
+514,NCT01818544,Hamburg,,Germany
+515,NCT01818544,Orbassano,Torino,Italy
+516,NCT01818544,Genova,,Italy
+517,NCT01818544,Milano,,Italy
+518,NCT01818544,Napoli,,Italy
+519,NCT01818544,Padova,,Italy
+520,NCT01818544,Siena,,Italy
+521,NCT01818544,Badalona,Barcelona,Spain
+522,NCT01818544,Salt,Girona,Spain
+523,NCT01818544,Majadahonda,Madrid,Spain
+524,NCT01818544,Madrid,,Spain
+525,NCT01818544,Southampton,Hampshire,United Kingdom
+526,NCT01818544,Cottingham,Humberside,United Kingdom
+527,NCT01818544,Leicester,Leicestershire,United Kingdom
+528,NCT01818544,Liverpool,Merseyside,United Kingdom
+529,NCT01818544,Sheffield,South Yorkshire,United Kingdom
+530,NCT01818544,Dundee,Tayside,United Kingdom
+531,NCT01818544,Newcastle Upon Tyne,Tyne and Wear,United Kingdom
+532,NCT01818544,South Shields,Tyne and Wear,United Kingdom
+533,NCT01818544,Wolverhampton,West Midlands,United Kingdom
+534,NCT01818544,Bradford,West Yorkshire,United Kingdom
+535,NCT01818544,Glasgow,,United Kingdom
+536,NCT01818544,London,,United Kingdom
+537,NCT01854788,Barcelona,,Spain
+538,NCT01906047,Leuven,Vlaams-Brabant,Belgium
+539,NCT02035488,Groningen,,Netherlands
+540,NCT02081963,Jinan,Shandong,China
+541,NCT02088216,Jinan,Shandong,China
+542,NCT02096315,Barcelona,,Spain
+543,NCT02096315,Barcelona,,Spain
+544,NCT02096315,Valencia,,Spain
+545,NCT02096315,City of Edinburgh,,United Kingdom
+546,NCT02104245,Phoenix,Arizona,United States
+547,NCT02104245,Scottsdale,Arizona,United States
+548,NCT02104245,Sacramento,California,United States
+549,NCT02104245,San Diego,California,United States
+550,NCT02104245,Torrance,California,United States
+551,NCT02104245,Danbury,Connecticut,United States
+552,NCT02104245,Miami,Florida,United States
+553,NCT02104245,Orlando,Florida,United States
+554,NCT02104245,Winter Park,Florida,United States
+555,NCT02104245,Decatur,Georgia,United States
+556,NCT02104245,Duluth,Georgia,United States
+557,NCT02104245,Port Huron,Michigan,United States
+558,NCT02104245,Omaha,Nebraska,United States
+559,NCT02104245,Lebanon,New Hampshire,United States
+560,NCT02104245,Summit,New Jersey,United States
+561,NCT02104245,Albuquerque,New Mexico,United States
+562,NCT02104245,New York,New York,United States
+563,NCT02104245,Chapel Hill,North Carolina,United States
+564,NCT02104245,Columbus,Ohio,United States
+565,NCT02104245,Philadelphia,Pennsylvania,United States
+566,NCT02104245,Rock Hill,South Carolina,United States
+567,NCT02104245,Spartanburg,South Carolina,United States
+568,NCT02104245,Tyler,Texas,United States
+569,NCT02104245,Seattle,Washington,United States
+570,NCT02104245,Milwaukee,Wisconsin,United States
+571,NCT02104245,Greenslopes,Queensland,Australia
+572,NCT02104245,Adelaide,South Australia,Australia
+573,NCT02104245,Nedlands,Western Australia,Australia
+574,NCT02104245,Perth,Western Australia,Australia
+575,NCT02104245,Vancouver,British Columbia,Canada
+576,NCT02104245,Toronto,Ontario,Canada
+577,NCT02104245,Windsor,Ontario,Canada
+578,NCT02104245,St-Jerome,Quebec,Canada
+579,NCT02104245,Belgrade,,Former Serbia and Montenegro
+580,NCT02104245,Knez Selo,,Former Serbia and Montenegro
+581,NCT02104245,Kragujevac,,Former Serbia and Montenegro
+582,NCT02104245,Sremska Kamenica,,Former Serbia and Montenegro
+583,NCT02104245,Créteil Cedex 01,,France
+584,NCT02104245,Grenoble cedex,,France
+585,NCT02104245,Nice Cedex 1,,France
+586,NCT02104245,Pessac Cedex,,France
+587,NCT02104245,Rouen Cedex,,France
+588,NCT02104245,Toulouse cedex 9,,France
+589,NCT02104245,Kutaisi,,Georgia
+590,NCT02104245,Tbilisi,,Georgia
+591,NCT02104245,Budapest,,Hungary
+592,NCT02104245,Nyiregyhaza,,Hungary
+593,NCT02104245,Szekesfehervar,,Hungary
+594,NCT02104245,Torokbalint,,Hungary
+595,NCT02104245,Jerusalem,,Israel
+596,NCT02104245,Petach Tikva,,Israel
+597,NCT02104245,Ramat Gan,,Israel
+598,NCT02104245,Tel-Aviv,,Israel
+599,NCT02104245,Avellino,,Italy
+600,NCT02104245,Napoli,,Italy
+601,NCT02104245,Parma,,Italy
+602,NCT02104245,Pisa,,Italy
+603,NCT02104245,San Gerardo,,Italy
+604,NCT02104245,Terni,,Italy
+605,NCT02104245,Trieste,,Italy
+606,NCT02104245,Suwon,Gyeonggi-do,"Korea, Republic of"
+607,NCT02104245,Daegu,,"Korea, Republic of"
+608,NCT02104245,Seoul,,"Korea, Republic of"
+609,NCT02104245,Otahuhu,Auckland,New Zealand
+610,NCT02104245,Hamilton,Waikato,New Zealand
+611,NCT02104245,Tauranga,,New Zealand
+612,NCT02104245,Jesus Maria,Lima,Peru
+613,NCT02104245,La Victoria,Lima,Peru
+614,NCT02104245,Pueblo Libre,Lima,Peru
+615,NCT02104245,San Juan de Miraflores,Lima,Peru
+616,NCT02104245,Bialystok,,Poland
+617,NCT02104245,Krakow,,Poland
+618,NCT02104245,Ruda Slaska,,Poland
+619,NCT02104245,Warsaw,,Poland
+620,NCT02104245,Arad,,Romania
+621,NCT02104245,Bucuresti,,Romania
+622,NCT02104245,Cluj-Napoca,,Romania
+623,NCT02104245,Craiova,,Romania
+624,NCT02104245,Iasi,,Romania
+625,NCT02104245,Barcelona,,Spain
+626,NCT02104245,La Coruna,,Spain
+627,NCT02104245,Lleida,,Spain
+628,NCT02104245,Valencia,,Spain
+629,NCT02104245,Stockton-on-Trees,Cleveland,United Kingdom
+630,NCT02104245,Wigan,Greater Manchester,United Kingdom
+631,NCT02104245,Cambridge,,United Kingdom
+632,NCT02104245,Colchester,,United Kingdom
+633,NCT02104245,Cottingham,,United Kingdom
+634,NCT02104245,Lancaster,,United Kingdom
+635,NCT02104245,Leeds,,United Kingdom
+636,NCT02104245,London,,United Kingdom
+637,NCT02104245,Manchester,,United Kingdom
+638,NCT02104245,North Sheilds,,United Kingdom
+639,NCT02104245,Southampton,,United Kingdom
+640,NCT02104245,Telford,,United Kingdom
+641,NCT02106832,Peoria,Arizona,United States
+642,NCT02106832,Fountain Valley,California,United States
+643,NCT02106832,La Jolla,California,United States
+644,NCT02106832,Long Beach,California,United States
+645,NCT02106832,Newport Beach,California,United States
+646,NCT02106832,San Diego,California,United States
+647,NCT02106832,Kissimmee,Florida,United States
+648,NCT02106832,Miami,Florida,United States
+649,NCT02106832,Sarasota,Florida,United States
+650,NCT02106832,Tampa,Florida,United States
+651,NCT02106832,Decatur,Georgia,United States
+652,NCT02106832,Skokie,Illinois,United States
+653,NCT02106832,Olathe,Kansas,United States
+654,NCT02106832,Rochester,Minnesota,United States
+655,NCT02106832,Brooklyn,New York,United States
+656,NCT02106832,Mineola,New York,United States
+657,NCT02106832,Asheville,North Carolina,United States
+658,NCT02106832,Portland,Oregon,United States
+659,NCT02106832,Doylestown,Pennsylvania,United States
+660,NCT02106832,Greenville,South Carolina,United States
+661,NCT02106832,Edinburg,Texas,United States
+662,NCT02106832,Tyler,Texas,United States
+663,NCT02106832,Buenos Aires,Ciudad Auton. de Buenos Aires,Argentina
+664,NCT02106832,Capital Federal,Ciudad Auton. de Buenos Aires,Argentina
+665,NCT02106832,Godoy Cruz,Mendoza,Argentina
+666,NCT02106832,Córdoba,,Argentina
+667,NCT02106832,Vicente López,,Argentina
+668,NCT02106832,Kogarah,New South Wales,Australia
+669,NCT02106832,New Lambton Heights,New South Wales,Australia
+670,NCT02106832,Adelaide,South Australia,Australia
+671,NCT02106832,Adelaide,South Australia,Australia
+672,NCT02106832,Parkville,Victoria,Australia
+673,NCT02106832,Murdoch,Western Australia,Australia
+674,NCT02106832,Perth,Western Australia,Australia
+675,NCT02106832,Graz,,Austria
+676,NCT02106832,Salzburg,,Austria
+677,NCT02106832,Belo Horizonte,Minas Gerais,Brazil
+678,NCT02106832,Recife,Pernambuco,Brazil
+679,NCT02106832,Porto Alegre,Rio Grande do Sul,Brazil
+680,NCT02106832,Porto Alegre,Rio Grande do Sul,Brazil
+681,NCT02106832,São Paulo,Sao Paulo,Brazil
+682,NCT02106832,Porto Alegre,,Brazil
+683,NCT02106832,Sao Paulo,,Brazil
+684,NCT02106832,Sao Paulo,,Brazil
+685,NCT02106832,Gabrovo,,Bulgaria
+686,NCT02106832,Kozloduy,,Bulgaria
+687,NCT02106832,Lovech,,Bulgaria
+688,NCT02106832,Razgrad,,Bulgaria
+689,NCT02106832,Ruse,,Bulgaria
+690,NCT02106832,Sevlievo,,Bulgaria
+691,NCT02106832,Sliven,,Bulgaria
+692,NCT02106832,Sofia,,Bulgaria
+693,NCT02106832,Sofia,,Bulgaria
+694,NCT02106832,Stara Zagora,,Bulgaria
+695,NCT02106832,Fuzhou,Fujian,China
+696,NCT02106832,Guangzhou,Guangdong,China
+697,NCT02106832,Hohehot,Inner Mongolia,China
+698,NCT02106832,Suzhou,Jiangsu,China
+699,NCT02106832,Wuxi,Jiangsu,China
+700,NCT02106832,Nanchang,Jiangxi,China
+701,NCT02106832,Shenyang,Liaoning,China
+702,NCT02106832,Yinchuan,Ningxia,China
+703,NCT02106832,Chengdu,Sichuan,China
+704,NCT02106832,Beijing,,China
+705,NCT02106832,Beijing,,China
+706,NCT02106832,Chongqing,,China
+707,NCT02106832,Shanghai,,China
+708,NCT02106832,Shanghai,,China
+709,NCT02106832,Shanghai,,China
+710,NCT02106832,Brno,,Czechia
+711,NCT02106832,Prague 4,,Czechia
+712,NCT02106832,Praha 2,,Czechia
+713,NCT02106832,Praha 8,,Czechia
+714,NCT02106832,Treuenbrietzen,Brandenburg,Germany
+715,NCT02106832,Frankfurt,Hessen,Germany
+716,NCT02106832,Neu-Isenburg,Hessen,Germany
+717,NCT02106832,Hannover,Niedersachsen,Germany
+718,NCT02106832,Hannover,Niedersachsen,Germany
+719,NCT02106832,Gelsenkirchen,Nordrhein-Westfalen,Germany
+720,NCT02106832,Leipzig,Sachsen,Germany
+721,NCT02106832,Bad Berka,Thüringen,Germany
+722,NCT02106832,Jena,Thüringen,Germany
+723,NCT02106832,Berlin,,Germany
+724,NCT02106832,Berlin,,Germany
+725,NCT02106832,Hamburg,,Germany
+726,NCT02106832,Hong Kong,,Hong Kong
+727,NCT02106832,Kowloon,,Hong Kong
+728,NCT02106832,New Territories,,Hong Kong
+729,NCT02106832,Shatin,,Hong Kong
+730,NCT02106832,Daejeon,Daejeon Gwang''yeogsi,"Korea, Republic of"
+731,NCT02106832,Bucheon,Gyeonggido,"Korea, Republic of"
+732,NCT02106832,"Incheon Gwangyeogsi,",Incheon Gwang''yeogsi,"Korea, Republic of"
+733,NCT02106832,Seoul,Seoul Teugbyeolsi,"Korea, Republic of"
+734,NCT02106832,Daegu,,"Korea, Republic of"
+735,NCT02106832,Incheon,,"Korea, Republic of"
+736,NCT02106832,Seoul,,"Korea, Republic of"
+737,NCT02106832,Seoul,,"Korea, Republic of"
+738,NCT02106832,Seoul,,"Korea, Republic of"
+739,NCT02106832,Seoul,,"Korea, Republic of"
+740,NCT02106832,Seoul,,"Korea, Republic of"
+741,NCT02106832,Daugavpils,,Latvia
+742,NCT02106832,Daugavpils,,Latvia
+743,NCT02106832,Jurmala,,Latvia
+744,NCT02106832,Kraslava,,Latvia
+745,NCT02106832,Riga,,Latvia
+746,NCT02106832,Riga,,Latvia
+747,NCT02106832,Riga,,Latvia
+748,NCT02106832,Riga,,Latvia
+749,NCT02106832,Talsi,,Latvia
+750,NCT02106832,Klaipeda,,Lithuania
+751,NCT02106832,Vilnius,,Lithuania
+752,NCT02106832,Alkmaar,,Netherlands
+753,NCT02106832,Assen,,Netherlands
+754,NCT02106832,Groningen,,Netherlands
+755,NCT02106832,Helmond,,Netherlands
+756,NCT02106832,Maastricht,,Netherlands
+757,NCT02106832,Sittard-Geleen,,Netherlands
+758,NCT02106832,Veldhoven,,Netherlands
+759,NCT02106832,City of San Fernando,,Philippines
+760,NCT02106832,Manila,,Philippines
+761,NCT02106832,Manila,,Philippines
+762,NCT02106832,Quezon City,,Philippines
+763,NCT02106832,Quezon City,,Philippines
+764,NCT02106832,Bielsko-Biala,,Poland
+765,NCT02106832,Czestochowa,,Poland
+766,NCT02106832,Gorzow Wielkopolski,,Poland
+767,NCT02106832,Grudziadz,,Poland
+768,NCT02106832,Katowice,,Poland
+769,NCT02106832,Kielce,,Poland
+770,NCT02106832,Kielce,,Poland
+771,NCT02106832,Kielce,,Poland
+772,NCT02106832,Krakow,,Poland
+773,NCT02106832,Ksawerow,,Poland
+774,NCT02106832,Mrozy,,Poland
+775,NCT02106832,Ostrowiec Swietokrzyski,,Poland
+776,NCT02106832,Rzeszow,,Poland
+777,NCT02106832,Warszawa,,Poland
+778,NCT02106832,Vila Nova de Gaia,Porto,Portugal
+779,NCT02106832,Angra do Heroísmo,Região Autónoma dos Açores,Portugal
+780,NCT02106832,Faro,,Portugal
+781,NCT02106832,Lisboa,,Portugal
+782,NCT02106832,Lisboa,,Portugal
+783,NCT02106832,Bragadiru,,Romania
+784,NCT02106832,Brasov,,Romania
+785,NCT02106832,Bucharest,,Romania
+786,NCT02106832,Bucharest,,Romania
+787,NCT02106832,Bucharest,,Romania
+788,NCT02106832,Bucharest,,Romania
+789,NCT02106832,Codlea,,Romania
+790,NCT02106832,Constanta,,Romania
+791,NCT02106832,Iasi,,Romania
+792,NCT02106832,Ploiesti,,Romania
+793,NCT02106832,Timisoara,,Romania
+794,NCT02106832,Arkhangelsk,,Russian Federation
+795,NCT02106832,Chelyabinsk,,Russian Federation
+796,NCT02106832,Moscow,,Russian Federation
+797,NCT02106832,Moscow,,Russian Federation
+798,NCT02106832,Moscow,,Russian Federation
+799,NCT02106832,Moscow,,Russian Federation
+800,NCT02106832,Nizhny Novgorod,,Russian Federation
+801,NCT02106832,Novosibirsk,,Russian Federation
+802,NCT02106832,Novosibirsk,,Russian Federation
+803,NCT02106832,Novosibirsk,,Russian Federation
+804,NCT02106832,St. Petersburg,,Russian Federation
+805,NCT02106832,St. Petersburg,,Russian Federation
+806,NCT02106832,St. Petersburg,,Russian Federation
+807,NCT02106832,Tomsk,,Russian Federation
+808,NCT02106832,Ufa,,Russian Federation
+809,NCT02106832,Voronezh,,Russian Federation
+810,NCT02106832,Yaroslavl,,Russian Federation
+811,NCT02106832,Belgrade,,Serbia
+812,NCT02106832,Belgrade,,Serbia
+813,NCT02106832,Cacak,,Serbia
+814,NCT02106832,Knez Selo,,Serbia
+815,NCT02106832,Kragujevac,,Serbia
+816,NCT02106832,Sombor,,Serbia
+817,NCT02106832,Sremska Kamenica,,Serbia
+818,NCT02106832,Valjevo,,Serbia
+819,NCT02106832,Bratislava,,Slovakia
+820,NCT02106832,Presov,,Slovakia
+821,NCT02106832,Johannesburg,Gauteng,South Africa
+822,NCT02106832,Amanzimtoti,Kwazulu-Natal,South Africa
+823,NCT02106832,Cape Town,Western Cape,South Africa
+824,NCT02106832,Cape Town,Western Cape,South Africa
+825,NCT02106832,Chiayi,,Taiwan
+826,NCT02106832,Kaohsiung,,Taiwan
+827,NCT02106832,"New Taipei City,",,Taiwan
+828,NCT02106832,Taichung,,Taiwan
+829,NCT02106832,Taipei,,Taiwan
+830,NCT02106832,Bangkok,,Thailand
+831,NCT02106832,Bangkok,,Thailand
+832,NCT02106832,Chiangmai,,Thailand
+833,NCT02106832,Khon Kaen,,Thailand
+834,NCT02106832,NakhonRatchasima,,Thailand
+835,NCT02106832,Phitsanulok,,Thailand
+836,NCT02106832,Udonthani,,Thailand
+837,NCT02106832,Ankara,,Turkey
+838,NCT02106832,Ankara,,Turkey
+839,NCT02106832,Balcali,,Turkey
+840,NCT02106832,Izmir,,Turkey
+841,NCT02106832,Kampus,,Turkey
+842,NCT02106832,Konya,,Turkey
+843,NCT02106832,Maltepe,,Turkey
+844,NCT02106832,Mersin,,Turkey
+845,NCT02106832,Pendik,,Turkey
+846,NCT02106832,Samsun,,Turkey
+847,NCT02106832,Sehitkamil,,Turkey
+848,NCT02163642,Barcelona,,Spain
+849,NCT02324855,Zaragoza,,Spain
+850,NCT02392663,Barcelona,,Spain
+851,NCT02411981,Brussels,,Belgium
+852,NCT02507843,Shanghai,Shanghai,China
+853,NCT02563197,Gauting,Bayern,Germany
+854,NCT02563197,Landsberg,Bayern,Germany
+855,NCT02563197,München,Bayern,Germany
+856,NCT02563197,München,Bayern,Germany
+857,NCT02563197,München,Bayern,Germany
+858,NCT02563197,Frankfurt,Hessen,Germany
+859,NCT02563197,Frankfurt,Hessen,Germany
+860,NCT02563197,Neu-Isenburg,Hessen,Germany
+861,NCT02563197,Hannover,Niedersachsen,Germany
+862,NCT02563197,Grosshansdorf,,Germany
+863,NCT02625246,Miami,Florida,United States
+864,NCT02657473,Alkmaar,Noord-Holland,Netherlands
+865,NCT02657473,Amsterdam,,Netherlands
+866,NCT02657473,Heerlen,,Netherlands
+867,NCT02657473,Hoofddorp,,Netherlands
+868,NCT02657473,Nijmegen,,Netherlands
+869,NCT02657473,Utrecht,,Netherlands
+870,NCT02661438,Vero Beach,Florida,United States
+871,NCT02661438,Jamaica,New York,United States
+872,NCT02712983,Bruxelles,,Belgium
+873,NCT02712983,Leuven,,Belgium
+874,NCT02712983,Nice,Cedex1,France
+875,NCT02712983,Montpellier cedex 5,Herault,France
+876,NCT02712983,Grenoble,,France
+877,NCT02712983,Toulouse,,France
+878,NCT02712983,Essen,North Rhine-Westphalia,Germany
+879,NCT02712983,Berlin,,Germany
+880,NCT02712983,Frankfurt,,Germany
+881,NCT02712983,Hannover,,Germany
+882,NCT02712983,Leipzig,,Germany
+883,NCT02712983,Monza,MB,Italy
+884,NCT02712983,Pisa,PI,Italy
+885,NCT02712983,Pordenone,PN,Italy
+886,NCT02712983,Milan,,Italy
+887,NCT02712983,Pavia,,Italy
+888,NCT02712983,Scafati,,Italy
+889,NCT02712983,Barcelona,Cataluna,Spain
+890,NCT02712983,Barcelona,Catalunya,Spain
+891,NCT02712983,Barcelona,Catalunya,Spain
+892,NCT02712983,Valencia,Comunitat Valencia,Spain
+893,NCT02712983,Baracaldo - Vizcaya,,Spain
+894,NCT02712983,Barcelona,,Spain
+895,NCT02712983,Valencia,,Spain
+896,NCT02712983,Valladolid,,Spain
+897,NCT02712983,Cambridge,Cambridgeshire,United Kingdom
+898,NCT02712983,Dundee,Perthshire,United Kingdom
+899,NCT02712983,Birmingham,,United Kingdom
+900,NCT02712983,Edinburgh,,United Kingdom
+901,NCT02712983,Lancaster,,United Kingdom
+902,NCT02712983,Leeds,,United Kingdom
+903,NCT02712983,London,,United Kingdom
+904,NCT02712983,Newcastle upon Tyne,,United Kingdom
+905,NCT02712983,Southampton,,United Kingdom
+906,NCT02782312,Shanghai,Shanghai,China
+907,NCT02823587,Ribeirão Preto,São Paulo,Brazil
+908,NCT02883101,New Delhi,Delhi,India
+909,NCT03056326,Antwerpen,,Belgium
+910,NCT03093974,Adelaide,,Australia
+911,NCT03093974,Adelaide,,Australia
+912,NCT03093974,Chermside,,Australia
+913,NCT03093974,Concord,,Australia
+914,NCT03093974,Frankston,,Australia
+915,NCT03093974,Greenslopes,,Australia
+916,NCT03093974,Melbourne,,Australia
+917,NCT03093974,Nedlands,,Australia
+918,NCT03093974,New Lambton Heights,,Australia
+919,NCT03093974,South Brisbane,,Australia
+920,NCT03093974,Spearwood,,Australia
+921,NCT03093974,Westmead,,Australia
+922,NCT03093974,Gent,,Belgium
+923,NCT03093974,Roeselare,,Belgium
+924,NCT03093974,Berlin,,Germany
+925,NCT03093974,Berlin,,Germany
+926,NCT03093974,Essen,,Germany
+927,NCT03093974,Frankfurt am Main,,Germany
+928,NCT03093974,Frankfurt am Main,,Germany
+929,NCT03093974,Hamburg,,Germany
+930,NCT03093974,Hannover,,Germany
+931,NCT03093974,Lübeck,,Germany
+932,NCT03093974,Muenchen,,Germany
+933,NCT03093974,München,,Germany
+934,NCT03093974,Münster,,Germany
+935,NCT03093974,Athens,,Greece
+936,NCT03093974,Haifa,,Israel
+937,NCT03093974,Jerusalem,,Israel
+938,NCT03093974,Kfar Saba,,Israel
+939,NCT03093974,Petah Tikva,,Israel
+940,NCT03093974,Reẖovot,,Israel
+941,NCT03093974,Tsrifin,,Israel
+942,NCT03093974,Orbassano,TO,Italy
+943,NCT03093974,Bari,,Italy
+944,NCT03093974,Brescia,,Italy
+945,NCT03093974,Foggia,,Italy
+946,NCT03093974,Milano,,Italy
+947,NCT03093974,Monza,,Italy
+948,NCT03093974,Palermo,,Italy
+949,NCT03093974,Palermo,,Italy
+950,NCT03093974,Pavia,,Italy
+951,NCT03093974,Pisa,,Italy
+952,NCT03093974,Roma,,Italy
+953,NCT03093974,Groningen,,Netherlands
+954,NCT03093974,Auckland,,New Zealand
+955,NCT03093974,Auckland,,New Zealand
+956,NCT03093974,Christchurch,,New Zealand
+957,NCT03093974,Dunedin,,New Zealand
+958,NCT03093974,Hamilton West,,New Zealand
+959,NCT03093974,Aveiro,,Portugal
+960,NCT03093974,Braga,,Portugal
+961,NCT03093974,Coimbra,,Portugal
+962,NCT03093974,Guimarães,,Portugal
+963,NCT03093974,Lisboa,,Portugal
+964,NCT03093974,Loures,,Portugal
+965,NCT03093974,Porto,,Portugal
+966,NCT03093974,Porto,,Portugal
+967,NCT03093974,Vila Nova De Gaia,,Portugal
+968,NCT03093974,A Coruña,,Spain
+969,NCT03093974,Barcelona,,Spain
+970,NCT03093974,Barcelona,,Spain
+971,NCT03093974,Barcelona,,Spain
+972,NCT03093974,Lleida,,Spain
+973,NCT03093974,Madrid,,Spain
+974,NCT03093974,Madrid,,Spain
+975,NCT03093974,Santander,,Spain
+976,NCT03093974,Sevilla,,Spain
+977,NCT03093974,Torrejón de Ardoz,,Spain
+978,NCT03093974,Usansolo,,Spain
+979,NCT03093974,Valencia,,Spain
+980,NCT03093974,Valencia,,Spain
+981,NCT03093974,Saint Gallen,,Switzerland
+982,NCT03093974,Cambridge,,United Kingdom
+983,NCT03093974,Cardiff,,United Kingdom
+984,NCT03093974,Dundee,,United Kingdom
+985,NCT03093974,Edinburgh,,United Kingdom
+986,NCT03093974,Gillingham,,United Kingdom
+987,NCT03093974,Glasgow,,United Kingdom
+988,NCT03093974,Kirkcaldy,,United Kingdom
+989,NCT03093974,Liverpool,,United Kingdom
+990,NCT03093974,Llanelli,,United Kingdom
+991,NCT03093974,London,,United Kingdom
+992,NCT03093974,Manchester,,United Kingdom
+993,NCT03093974,Newcastle upon Tyne,,United Kingdom
+994,NCT03093974,Worcester,,United Kingdom
+995,NCT03147651,Haifa,,Israel
+996,NCT03218917,Birmingham,Alabama,United States
+997,NCT03218917,Peoria,Arizona,United States
+998,NCT03218917,Newport Beach,California,United States
+999,NCT03218917,Palm Springs,California,United States
+1000,NCT03218917,Sacramento,California,United States
+1001,NCT03218917,Stanford,California,United States
+1002,NCT03218917,Denver,Colorado,United States
+1003,NCT03218917,Farmington,Connecticut,United States
+1004,NCT03218917,Washington,District of Columbia,United States
+1005,NCT03218917,Celebration,Florida,United States
+1006,NCT03218917,Clearwater,Florida,United States
+1007,NCT03218917,Gainesville,Florida,United States
+1008,NCT03218917,Miami Lakes,Florida,United States
+1009,NCT03218917,Miami,Florida,United States
+1010,NCT03218917,Sarasota,Florida,United States
+1011,NCT03218917,Atlanta,Georgia,United States
+1012,NCT03218917,Chicago,Illinois,United States
+1013,NCT03218917,Iowa City,Iowa,United States
+1014,NCT03218917,New Orleans,Louisiana,United States
+1015,NCT03218917,Baltimore,Maryland,United States
+1016,NCT03218917,Towson,Maryland,United States
+1017,NCT03218917,Westminster,Maryland,United States
+1018,NCT03218917,Ann Arbor,Michigan,United States
+1019,NCT03218917,New York,New York,United States
+1020,NCT03218917,New York,New York,United States
+1021,NCT03218917,Chapel Hill,North Carolina,United States
+1022,NCT03218917,Charlotte,North Carolina,United States
+1023,NCT03218917,Winston-Salem,North Carolina,United States
+1024,NCT03218917,Cleveland,Ohio,United States
+1025,NCT03218917,Cleveland,Ohio,United States
+1026,NCT03218917,Portland,Oregon,United States
+1027,NCT03218917,Philadelphia,Pennsylvania,United States
+1028,NCT03218917,Philadelphia,Pennsylvania,United States
+1029,NCT03218917,Mesquite,Texas,United States
+1030,NCT03218917,Tyler,Texas,United States
+1031,NCT03218917,Tacoma,Washington,United States
+1032,NCT03218917,Concord,New South Wales,Australia
+1033,NCT03218917,Brisbane,Queensland,Australia
+1034,NCT03218917,Brisbane,Queensland,Australia
+1035,NCT03218917,Chermside,Queensland,Australia
+1036,NCT03218917,Adelaide,South Australia,Australia
+1037,NCT03218917,Kent Town,South Australia,Australia
+1038,NCT03218917,Box Hill,Victoria,Australia
+1039,NCT03218917,Melbourne,Victoria,Australia
+1040,NCT03218917,Nedlands,Western Australia,Australia
+1041,NCT03218917,Leuven,Vlaams Brabant,Belgium
+1042,NCT03218917,Razgrad,Momina,Bulgaria
+1043,NCT03218917,Plovdiv,,Bulgaria
+1044,NCT03218917,Sliven,,Bulgaria
+1045,NCT03218917,Stara Zagora,,Bulgaria
+1046,NCT03218917,Hvidovre,Capital Region,Denmark
+1047,NCT03218917,Aarhus,,Denmark
+1048,NCT03218917,Roskilde,,Denmark
+1049,NCT03218917,Donaustauf,Bavaria,Germany
+1050,NCT03218917,Munich,Bavaria,Germany
+1051,NCT03218917,Nuernberg,Bayern,Germany
+1052,NCT03218917,Frankfurt,Hessen,Germany
+1053,NCT03218917,Frankfurt,Hessen,Germany
+1054,NCT03218917,Essen,NRW,Germany
+1055,NCT03218917,Borstel,Schleswig-Holstein,Germany
+1056,NCT03218917,Jena,Thuringen,Germany
+1057,NCT03218917,Berlin,,Germany
+1058,NCT03218917,München,,Germany
+1059,NCT03218917,Milan,Lombardia,Italy
+1060,NCT03218917,Monza,Monza E Brianza,Italy
+1061,NCT03218917,Pisa,Via Paradisa 2,Italy
+1062,NCT03218917,Pavia,,Italy
+1063,NCT03218917,Telese Terme,,Italy
+1064,NCT03218917,Incheon,Jung-gu,"Korea, Republic of"
+1065,NCT03218917,Incheon,Namdong-gu,"Korea, Republic of"
+1066,NCT03218917,Gwangju,,"Korea, Republic of"
+1067,NCT03218917,Incheon,,"Korea, Republic of"
+1068,NCT03218917,Seoul,,"Korea, Republic of"
+1069,NCT03218917,Seoul,,"Korea, Republic of"
+1070,NCT03218917,Seoul,,"Korea, Republic of"
+1071,NCT03218917,Seoul,,"Korea, Republic of"
+1072,NCT03218917,Seoul,,"Korea, Republic of"
+1073,NCT03218917,Alkmaar,,Netherlands
+1074,NCT03218917,Breda,,Netherlands
+1075,NCT03218917,Nijmegen,,Netherlands
+1076,NCT03218917,Sittard,,Netherlands
+1077,NCT03218917,Tauranga,BOP,New Zealand
+1078,NCT03218917,Hastings,Hawkes Bay,New Zealand
+1079,NCT03218917,Dunedin,Otago,New Zealand
+1080,NCT03218917,Hamilton,Waikato,New Zealand
+1081,NCT03218917,Auckland,,New Zealand
+1082,NCT03218917,Wrocław,Dolnośląskie,Poland
+1083,NCT03218917,Kraków,,Poland
+1084,NCT03218917,Kraków,,Poland
+1085,NCT03218917,Sucha Beskidzka,,Poland
+1086,NCT03218917,Łódź,,Poland
+1087,NCT03218917,Singapore,,Singapore
+1088,NCT03218917,Singapore,,Singapore
+1089,NCT03218917,Barcelona,,Spain
+1090,NCT03218917,Barcelona,,Spain
+1091,NCT03218917,Barcelona,,Spain
+1092,NCT03218917,Girona,,Spain
+1093,NCT03218917,Valencia,,Spain
+1094,NCT03218917,Dundee,Angus,United Kingdom
+1095,NCT03218917,Cambridge,Cambridgeshire,United Kingdom
+1096,NCT03218917,Blackpool,Lancashire,United Kingdom
+1097,NCT03218917,Liverpool,Merseyside,United Kingdom
+1098,NCT03218917,Edinburgh,Scotland,United Kingdom
+1099,NCT03218917,Chertsey,Surrey,United Kingdom
+1100,NCT03218917,Wolverhampton,West Midlands,United Kingdom
+1101,NCT03218917,London,,United Kingdom
+1102,NCT03218917,Manchester,,United Kingdom
+1103,NCT03218917,Southampton,,United Kingdom
+1104,NCT03428334,Hong Kong,,Hong Kong
+1105,NCT03460704,Newport Beach,California,United States
+1106,NCT03460704,Palm Springs,California,United States
+1107,NCT03460704,Reseda,California,United States
+1108,NCT03460704,San Diego,California,United States
+1109,NCT03460704,San Diego,California,United States
+1110,NCT03460704,Centennial,Colorado,United States
+1111,NCT03460704,Jacksonville,Florida,United States
+1112,NCT03460704,Kissimmee,Florida,United States
+1113,NCT03460704,Orlando,Florida,United States
+1114,NCT03460704,Saint Petersburg,Florida,United States
+1115,NCT03460704,Saint Petersburg,Florida,United States
+1116,NCT03460704,Weston,Florida,United States
+1117,NCT03460704,Chicago,Illinois,United States
+1118,NCT03460704,Michigan City,Indiana,United States
+1119,NCT03460704,Louisville,Kentucky,United States
+1120,NCT03460704,Rochester,Minnesota,United States
+1121,NCT03460704,Chesterfield,Missouri,United States
+1122,NCT03460704,Lebanon,New Hampshire,United States
+1123,NCT03460704,New York,New York,United States
+1124,NCT03460704,Chapel Hill,North Carolina,United States
+1125,NCT03460704,Durham,North Carolina,United States
+1126,NCT03460704,Winston-Salem,North Carolina,United States
+1127,NCT03460704,Portland,Oregon,United States
+1128,NCT03460704,Tyler,Texas,United States
+1129,NCT03460704,Abingdon,Virginia,United States
+1130,NCT03460704,Richmond,Virginia,United States
+1131,NCT03460704,Northwest,Washington,United States
+1132,NCT03460704,Buenos Aires,,Argentina
+1133,NCT03460704,Buenos Aires,,Argentina
+1134,NCT03460704,Buenos Aires,,Argentina
+1135,NCT03460704,Buenos Aires,,Argentina
+1136,NCT03460704,Buenos Aires,,Argentina
+1137,NCT03460704,Buenos Aires,,Argentina
+1138,NCT03460704,Ciudad Autónoma de Buenos Aires,,Argentina
+1139,NCT03460704,Ciudad Autónoma de Buenos Aires,,Argentina
+1140,NCT03460704,Quilmes,,Argentina
+1141,NCT03460704,Santa Fe,,Argentina
+1142,NCT03460704,Tucumán,,Argentina
+1143,NCT03460704,Adelaide,,Australia
+1144,NCT03460704,Brisbane,,Australia
+1145,NCT03460704,Kent Town,,Australia
+1146,NCT03460704,Murdoch,,Australia
+1147,NCT03460704,South Brisbane,,Australia
+1148,NCT03460704,Sydney,,Australia
+1149,NCT03460704,Burlington,,Canada
+1150,NCT03460704,Kelowna,,Canada
+1151,NCT03460704,London,,Canada
+1152,NCT03460704,Montréal,,Canada
+1153,NCT03460704,Ottawa,,Canada
+1154,NCT03460704,Quebec City,,Canada
+1155,NCT03460704,Winnipeg,,Canada
+1156,NCT03460704,Amiens,,France
+1157,NCT03460704,Brest,,France
+1158,NCT03460704,Créteil,,France
+1159,NCT03460704,Grenoble,,France
+1160,NCT03460704,Lyon,,France
+1161,NCT03460704,Montpellier,,France
+1162,NCT03460704,Nice,,France
+1163,NCT03460704,Pessac,,France
+1164,NCT03460704,Reims,,France
+1165,NCT03460704,Toulouse,,France
+1166,NCT03460704,Frankfurt,,Germany
+1167,NCT03460704,Hanover,,Germany
+1168,NCT03460704,Athens,,Greece
+1169,NCT03460704,Haifa,,Israel
+1170,NCT03460704,Jerusalem,,Israel
+1171,NCT03460704,Kfar Saba,,Israel
+1172,NCT03460704,Milano,,Italy
+1173,NCT03460704,Monza,,Italy
+1174,NCT03460704,Christchurch,,New Zealand
+1175,NCT03460704,Havelock North,,New Zealand
+1176,NCT03460704,Mount Cook,,New Zealand
+1177,NCT03460704,Tauranga,,New Zealand
+1178,NCT03460704,Białystok,,Poland
+1179,NCT03460704,Bielsko-Biala,,Poland
+1180,NCT03460704,Cracovia,,Poland
+1181,NCT03460704,Grudziądz,,Poland
+1182,NCT03460704,Legnica,,Poland
+1183,NCT03460704,Lublin,,Poland
+1184,NCT03460704,Ostrowiec Świętokrzyski,,Poland
+1185,NCT03460704,Piaseczno,,Poland
+1186,NCT03460704,Proszowice,,Poland
+1187,NCT03460704,Rzeszów,,Poland
+1188,NCT03460704,Sosnowiec,,Poland
+1189,NCT03460704,Warszawa,,Poland
+1190,NCT03460704,Wrocław,,Poland
+1191,NCT03460704,Łódź,,Poland
+1192,NCT03460704,Guimarães,,Portugal
+1193,NCT03460704,Lisboa,,Portugal
+1194,NCT03818646,Papworth Everard,Cambridgeshire,United Kingdom
+1195,NCT03988816,São Paulo,SP,Brazil
+1196,NCT04010799,Frankfurt/Main,,Germany
+1197,NCT04017312,New York,New York,United States
+1198,NCT04017312,Nashville,Tennessee,United States
+1199,NCT04122547,Songkhla,,Thailand
+1200,NCT04170114,Istanbul,,Turkey
+1201,NCT04278040,Moscow,,Russian Federation
+1202,NCT04322929,Hong Kong,,Hong Kong
+1203,NCT04538859,Hong Kong,Please Select,Hong Kong
+1204,NCT04594369,Birmingham,Alabama,United States
+1205,NCT04594369,Conway,Arkansas,United States
+1206,NCT04594369,Little Rock,Arkansas,United States
+1207,NCT04594369,Fresno,California,United States
+1208,NCT04594369,Los Angeles,California,United States
+1209,NCT04594369,Los Angeles,California,United States
+1210,NCT04594369,Newport Beach,California,United States
+1211,NCT04594369,Northridge,California,United States
+1212,NCT04594369,Palm Springs,California,United States
+1213,NCT04594369,Palm Springs,California,United States
+1214,NCT04594369,Sacramento,California,United States
+1215,NCT04594369,San Diego,California,United States
+1216,NCT04594369,San Diego,California,United States
+1217,NCT04594369,Santa Barbara,California,United States
+1218,NCT04594369,Ventura,California,United States
+1219,NCT04594369,Denver,Colorado,United States
+1220,NCT04594369,Lafayette,Colorado,United States
+1221,NCT04594369,Farmington,Connecticut,United States
+1222,NCT04594369,Washington,District of Columbia,United States
+1223,NCT04594369,Brandon,Florida,United States
+1224,NCT04594369,Clearwater,Florida,United States
+1225,NCT04594369,Fort Lauderdale,Florida,United States
+1226,NCT04594369,Gainesville,Florida,United States
+1227,NCT04594369,Jacksonville,Florida,United States
+1228,NCT04594369,Jacksonville,Florida,United States
+1229,NCT04594369,Kissimmee,Florida,United States
+1230,NCT04594369,Kissimmee,Florida,United States
+1231,NCT04594369,Leesburg,Florida,United States
+1232,NCT04594369,Miami Lakes,Florida,United States
+1233,NCT04594369,Miami,Florida,United States
+1234,NCT04594369,Naples,Florida,United States
+1235,NCT04594369,New Port Richey,Florida,United States
+1236,NCT04594369,Orlando,Florida,United States
+1237,NCT04594369,Orlando,Florida,United States
+1238,NCT04594369,Plantation,Florida,United States
+1239,NCT04594369,Saint Petersburg,Florida,United States
+1240,NCT04594369,Saint Petersburg,Florida,United States
+1241,NCT04594369,Sarasota,Florida,United States
+1242,NCT04594369,Sebring,Florida,United States
+1243,NCT04594369,Atlanta,Georgia,United States
+1244,NCT04594369,Augusta,Georgia,United States
+1245,NCT04594369,Rincon,Georgia,United States
+1246,NCT04594369,Chicago,Illinois,United States
+1247,NCT04594369,Maywood,Illinois,United States
+1248,NCT04594369,Iowa City,Iowa,United States
+1249,NCT04594369,Kansas City,Kansas,United States
+1250,NCT04594369,New Orleans,Louisiana,United States
+1251,NCT04594369,New Orleans,Louisiana,United States
+1252,NCT04594369,Baltimore,Maryland,United States
+1253,NCT04594369,Columbia,Maryland,United States
+1254,NCT04594369,Towson,Maryland,United States
+1255,NCT04594369,Boston,Massachusetts,United States
+1256,NCT04594369,Springfield,Massachusetts,United States
+1257,NCT04594369,Worcester,Massachusetts,United States
+1258,NCT04594369,Rochester,Minnesota,United States
+1259,NCT04594369,Chesterfield,Missouri,United States
+1260,NCT04594369,Saint Louis,Missouri,United States
+1261,NCT04594369,Lincoln,Nebraska,United States
+1262,NCT04594369,Omaha,Nebraska,United States
+1263,NCT04594369,Toms River,New Jersey,United States
+1264,NCT04594369,Bronx,New York,United States
+1265,NCT04594369,New Hyde Park,New York,United States
+1266,NCT04594369,New York,New York,United States
+1267,NCT04594369,New York,New York,United States
+1268,NCT04594369,Potsdam,New York,United States
+1269,NCT04594369,Chapel Hill,North Carolina,United States
+1270,NCT04594369,Charlotte,North Carolina,United States
+1271,NCT04594369,Gastonia,North Carolina,United States
+1272,NCT04594369,Huntersville,North Carolina,United States
+1273,NCT04594369,Winston-Salem,North Carolina,United States
+1274,NCT04594369,Cincinnati,Ohio,United States
+1275,NCT04594369,Cleveland,Ohio,United States
+1276,NCT04594369,Cleveland,Ohio,United States
+1277,NCT04594369,Portland,Oregon,United States
+1278,NCT04594369,DuBois,Pennsylvania,United States
+1279,NCT04594369,Philadelphia,Pennsylvania,United States
+1280,NCT04594369,Anderson,South Carolina,United States
+1281,NCT04594369,Charleston,South Carolina,United States
+1282,NCT04594369,Rock Hill,South Carolina,United States
+1283,NCT04594369,Franklin,Tennessee,United States
+1284,NCT04594369,Dallas,Texas,United States
+1285,NCT04594369,Galveston,Texas,United States
+1286,NCT04594369,McKinney,Texas,United States
+1287,NCT04594369,Mesquite,Texas,United States
+1288,NCT04594369,San Antonio,Texas,United States
+1289,NCT04594369,Tyler,Texas,United States
+1290,NCT04594369,Salt Lake City,Utah,United States
+1291,NCT04594369,Williamsburg,Virginia,United States
+1292,NCT04594369,Vancouver,Washington,United States
+1293,NCT04594369,Ciudad Autónoma de Buenos Aires,Buenos Aires,Argentina
+1294,NCT04594369,Ciudad Autónoma de Buenos Aires,Buenos Aires,Argentina
+1295,NCT04594369,Ciudad Autónoma de Buenos Aires,Buenos Aires,Argentina
+1296,NCT04594369,Ciudad Autónoma de Buenos Aires,Buenos Aires,Argentina
+1297,NCT04594369,Ciudad Autónoma de BuenosAires,Buenos Aires,Argentina
+1298,NCT04594369,Ciudad Autónoma de BuenosAires,Buenos Aires,Argentina
+1299,NCT04594369,la Plata,Buenos Aires,Argentina
+1300,NCT04594369,Mar del Plata,Buenos Aires,Argentina
+1301,NCT04594369,Mar Del Plata,Buenos Aires,Argentina
+1302,NCT04594369,Villa Vatteone,Buenos Aires,Argentina
+1303,NCT04594369,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma De BuenosAires,Argentina
+1304,NCT04594369,Ciudad Autónoma de Buenos Aires,Ciudad Autónoma De BuenosAires,Argentina
+1305,NCT04594369,City Of Mendoza,Mendoza,Argentina
+1306,NCT04594369,Rosario,Santa Fe,Argentina
+1307,NCT04594369,Rosario,Santa Fe,Argentina
+1308,NCT04594369,San Miguel de Tucumán,Tucumán,Argentina
+1309,NCT04594369,San Miguel de Tucumán,Tucumán,Argentina
+1310,NCT04594369,Córdoba,,Argentina
+1311,NCT04594369,Mendoza,,Argentina
+1312,NCT04594369,Rosario,,Argentina
+1313,NCT04594369,Santa Fe,,Argentina
+1314,NCT04594369,Kogarah,New South Wales,Australia
+1315,NCT04594369,New Lambton Heights,New South Wales,Australia
+1316,NCT04594369,Westmead,New South Wales,Australia
+1317,NCT04594369,Cairns North,Queensland,Australia
+1318,NCT04594369,Chermside,Queensland,Australia
+1319,NCT04594369,Greenslopes,Queensland,Australia
+1320,NCT04594369,South Brisbane,Queensland,Australia
+1321,NCT04594369,Adelaide,South Australia,Australia
+1322,NCT04594369,Bedford Park,South Australia,Australia
+1323,NCT04594369,Kent Town,South Australia,Australia
+1324,NCT04594369,Woodville South,South Australia,Australia
+1325,NCT04594369,Box Hill,Victoria,Australia
+1326,NCT04594369,Clayton,Victoria,Australia
+1327,NCT04594369,Murdoch,Western Australia,Australia
+1328,NCT04594369,Nedlands,Western Australia,Australia
+1329,NCT04594369,Concord,,Australia
+1330,NCT04594369,Spearwood,,Australia
+1331,NCT04594369,Graz,Steiermark,Austria
+1332,NCT04594369,Linz,,Austria
+1333,NCT04594369,Gent,Oost-Vlaanderen,Belgium
+1334,NCT04594369,Roeselare,West-Vlaanderen,Belgium
+1335,NCT04594369,Brussels,,Belgium
+1336,NCT04594369,Edegem,,Belgium
+1337,NCT04594369,Leuven,,Belgium
+1338,NCT04594369,Liège,,Belgium
+1339,NCT04594369,Mechelen,,Belgium
+1340,NCT04594369,Sint-Niklaas,,Belgium
+1341,NCT04594369,Passo Fundo,Rio Grande Do Sul,Brazil
+1342,NCT04594369,Porto Alegre,Rio Grande Do Sul,Brazil
+1343,NCT04594369,Blumenau,Santa Catarina,Brazil
+1344,NCT04594369,Santo André,São Paulo,Brazil
+1345,NCT04594369,Santo André,São Paulo,Brazil
+1346,NCT04594369,Botucatu,,Brazil
+1347,NCT04594369,São Bernardo do Campo,,Brazil
+1348,NCT04594369,São Paulo,,Brazil
+1349,NCT04594369,Sofia,Sofia-Grad,Bulgaria
+1350,NCT04594369,Sofia,Sofia-Grad,Bulgaria
+1351,NCT04594369,Sofia,Sofia-Grad,Bulgaria
+1352,NCT04594369,Blagoevgrad,,Bulgaria
+1353,NCT04594369,Gabrovo,,Bulgaria
+1354,NCT04594369,Kozloduy,,Bulgaria
+1355,NCT04594369,Lovech,,Bulgaria
+1356,NCT04594369,Montana,,Bulgaria
+1357,NCT04594369,Pazardzhik,,Bulgaria
+1358,NCT04594369,Pleven,,Bulgaria
+1359,NCT04594369,Plovdiv,,Bulgaria
+1360,NCT04594369,Ruse,,Bulgaria
+1361,NCT04594369,Sliven,,Bulgaria
+1362,NCT04594369,Sofia,,Bulgaria
+1363,NCT04594369,Veliko Tarnovo,,Bulgaria
+1364,NCT04594369,Vidin,,Bulgaria
+1365,NCT04594369,Vratsa,,Bulgaria
+1366,NCT04594369,Toronto,Ontario,Canada
+1367,NCT04594369,Montreal,Quebec,Canada
+1368,NCT04594369,Saint-Charles-Borromée,Quebec,Canada
+1369,NCT04594369,Valdivia,Los Ríos,Chile
+1370,NCT04594369,Curicó,Maule,Chile
+1371,NCT04594369,Talca,Maule,Chile
+1372,NCT04594369,Providencia,Región-MetropolitanadeSantiago,Chile
+1373,NCT04594369,Providencia,Región-MetropolitanadeSantiago,Chile
+1374,NCT04594369,Providencia,Región-MetropolitanadeSantiago,Chile
+1375,NCT04594369,Quillota,,Chile
+1376,NCT04594369,Medellín,Antioquia,Colombia
+1377,NCT04594369,Zipaquira,Cundinamarca,Colombia
+1378,NCT04594369,Bogotá,Distrito Capital De Bogotá,Colombia
+1379,NCT04594369,Floridablanca,Santander,Colombia
+1380,NCT04594369,Cali,Valle Del Cauca,Colombia
+1381,NCT04594369,Cali,,Colombia
+1382,NCT04594369,Hvidovre,Capital,Denmark
+1383,NCT04594369,Odense C,South Denmark,Denmark
+1384,NCT04594369,Vejle,South Denmark,Denmark
+1385,NCT04594369,Aalborg,,Denmark
+1386,NCT04594369,Aarhus,,Denmark
+1387,NCT04594369,Hellerup,,Denmark
+1388,NCT04594369,Roskilde,,Denmark
+1389,NCT04594369,Strasbourg,Bas-Rhin,France
+1390,NCT04594369,Montpellier,Hérault,France
+1391,NCT04594369,Tours,Indre-et-Loire,France
+1392,NCT04594369,Amiens cedex 1,,France
+1393,NCT04594369,Creteil,,France
+1394,NCT04594369,Nantes,,France
+1395,NCT04594369,Nice,,France
+1396,NCT04594369,Paris,,France
+1397,NCT04594369,Saint-Pierre,,France
+1398,NCT04594369,Toulouse,,France
+1399,NCT04594369,Heidelberg,Baden-Württemberg,Germany
+1400,NCT04594369,Donaustauf,Bayern,Germany
+1401,NCT04594369,München,Bayern,Germany
+1402,NCT04594369,München,Bayern,Germany
+1403,NCT04594369,Potsdam,Brandenburg,Germany
+1404,NCT04594369,Frankfurt am Main,Hessen,Germany
+1405,NCT04594369,Frankfurt,Hessen,Germany
+1406,NCT04594369,Marburg,Hessen,Germany
+1407,NCT04594369,Marburg,Hessen,Germany
+1408,NCT04594369,Neu-Isenburg,Hessen,Germany
+1409,NCT04594369,Borstel,Niedersachsen,Germany
+1410,NCT04594369,Essen,Nordrhein-Westfalen,Germany
+1411,NCT04594369,Homburg,Saarland,Germany
+1412,NCT04594369,Halle,Sachsen-Anhalt,Germany
+1413,NCT04594369,Leipzig,Sachsen,Germany
+1414,NCT04594369,Geesthacht,Schleswig-Holstein,Germany
+1415,NCT04594369,Lübeck,Schleswig-Holstein,Germany
+1416,NCT04594369,Berlin,,Germany
+1417,NCT04594369,Berlin,,Germany
+1418,NCT04594369,Berlin,,Germany
+1419,NCT04594369,Berlin,,Germany
+1420,NCT04594369,Berlin,,Germany
+1421,NCT04594369,Dresden,,Germany
+1422,NCT04594369,Frankfurt,,Germany
+1423,NCT04594369,Hannover,,Germany
+1424,NCT04594369,Hannover,,Germany
+1425,NCT04594369,Mainz,,Germany
+1426,NCT04594369,Muenster,,Germany
+1427,NCT04594369,Alexandroupoli,Evros,Greece
+1428,NCT04594369,Larissa,Larisa,Greece
+1429,NCT04594369,Herakleion,,Greece
+1430,NCT04594369,Thessaloniki,,Greece
+1431,NCT04594369,Tatabánya,Komárom-Esztergom,Hungary
+1432,NCT04594369,Dublin,,Ireland
+1433,NCT04594369,Dublin,,Ireland
+1434,NCT04594369,Dublin,,Ireland
+1435,NCT04594369,Limerick,,Ireland
+1436,NCT04594369,Holon,Tel-Aviv,Israel
+1437,NCT04594369,Ashkelon,,Israel
+1438,NCT04594369,Beer Sheva,,Israel
+1439,NCT04594369,Haifa,,Israel
+1440,NCT04594369,Jerusalem,,Israel
+1441,NCT04594369,Jerusalem,,Israel
+1442,NCT04594369,Kefar-Sava,,Israel
+1443,NCT04594369,Petach Tikva,,Israel
+1444,NCT04594369,Ramat Gan,,Israel
+1445,NCT04594369,Rehovot,,Israel
+1446,NCT04594369,Zerifin,,Israel
+1447,NCT04594369,Bologna,Emilia-Romagna,Italy
+1448,NCT04594369,Ferrara,Emilia-Romagna,Italy
+1449,NCT04594369,Reggio Emilia,Emilia-Romagna,Italy
+1450,NCT04594369,Milano,Lombardia,Italy
+1451,NCT04594369,Rozzano,Lombardia,Italy
+1452,NCT04594369,Siena,Toscana,Italy
+1453,NCT04594369,Milano,,Italy
+1454,NCT04594369,Palermo,,Italy
+1455,NCT04594369,Pavia,,Italy
+1456,NCT04594369,Roma,,Italy
+1457,NCT04594369,Toyoake,Aiti,Japan
+1458,NCT04594369,Akita-Shi,Akita,Japan
+1459,NCT04594369,Toon-Shi,Ehime,Japan
+1460,NCT04594369,Fukuoka-Shi,Hukuoka,Japan
+1461,NCT04594369,Iizuka-Shi,Hukuoka,Japan
+1462,NCT04594369,Kitakyushu-Shi,Hukuoka,Japan
+1463,NCT04594369,Yanagawa-Shi,Hukuoka,Japan
+1464,NCT04594369,Kobe-City,Hyôgo,Japan
+1465,NCT04594369,Kasama-Shi,Ibaraki,Japan
+1466,NCT04594369,Naka-gun,Ibaraki,Japan
+1467,NCT04594369,Takamatsu-Shi,Kagawa,Japan
+1468,NCT04594369,Yokohama-Shi Konan-Ku,Kanagawa,Japan
+1469,NCT04594369,Koshi shi,Kumamoto,Japan
+1470,NCT04594369,Matsusaka-shi,Mie,Japan
+1471,NCT04594369,Tsu,Mie,Japan
+1472,NCT04594369,Sendai-shi,Miyagi,Japan
+1473,NCT04594369,Nagasaki-Shi,Nagasaki,Japan
+1474,NCT04594369,Chuo-ku,Niigata,Japan
+1475,NCT04594369,Matsue,Simane,Japan
+1476,NCT04594369,Kiyose,Tokyo,Japan
+1477,NCT04594369,Ota-Ku,Tokyo,Japan
+1478,NCT04594369,Shinagawa-ku,Tokyo,Japan
+1479,NCT04594369,Shinagawa-ku,Tokyo,Japan
+1480,NCT04594369,Shinjuku-ku,Tokyo,Japan
+1481,NCT04594369,Shimonoseki-Shi,Yamaguti,Japan
+1482,NCT04594369,Fukuoka-shi,,Japan
+1483,NCT04594369,Hamamatsu-Shi,,Japan
+1484,NCT04594369,Kita Kyushu-shi,,Japan
+1485,NCT04594369,Matsue-shi,,Japan
+1486,NCT04594369,Meguro-ku,,Japan
+1487,NCT04594369,Sakai-shi,,Japan
+1488,NCT04594369,Toyonaka-shi,,Japan
+1489,NCT04594369,Ansan-si,Gyeonggido,"Korea, Republic of"
+1490,NCT04594369,Bucheon-si,Gyeonggido,"Korea, Republic of"
+1491,NCT04594369,Seongnam-si,Gyeonggido,"Korea, Republic of"
+1492,NCT04594369,Uijeongbu-Si,Gyeonggido,"Korea, Republic of"
+1493,NCT04594369,Seoul,Seoul Teugbyeolsi,"Korea, Republic of"
+1494,NCT04594369,Incheon,,"Korea, Republic of"
+1495,NCT04594369,Incheon,,"Korea, Republic of"
+1496,NCT04594369,Incheon,,"Korea, Republic of"
+1497,NCT04594369,Seoul,,"Korea, Republic of"
+1498,NCT04594369,Seoul,,"Korea, Republic of"
+1499,NCT04594369,Seoul,,"Korea, Republic of"
+1500,NCT04594369,Seoul,,"Korea, Republic of"
+1501,NCT04594369,Seoul,,"Korea, Republic of"
+1502,NCT04594369,Seoul,,"Korea, Republic of"
+1503,NCT04594369,Seoul,,"Korea, Republic of"
+1504,NCT04594369,Daugavpils,Daugavpils Aprinkis,Latvia
+1505,NCT04594369,Jurmala,,Latvia
+1506,NCT04594369,Kuantan,Pahang,Malaysia
+1507,NCT04594369,Kuching,Sarawak,Malaysia
+1508,NCT04594369,Bandar Puncak Alam,Selangor,Malaysia
+1509,NCT04594369,Kuala Lumpur,WilayahPersekutuan KualaLumpur,Malaysia
+1510,NCT04594369,Kota Bahru,,Malaysia
+1511,NCT04594369,Kuala Lumpur,,Malaysia
+1512,NCT04594369,Guadalajara,Jalisco,Mexico
+1513,NCT04594369,Guadalajara,Jalisco,Mexico
+1514,NCT04594369,Guadalajara,Jalisco,Mexico
+1515,NCT04594369,Guadalajara,Jalisco,Mexico
+1516,NCT04594369,Monterrey,Nuevo León,Mexico
+1517,NCT04594369,Durango,,Mexico
+1518,NCT04594369,Monterrey,,Mexico
+1519,NCT04594369,Oaxaca,,Mexico
+1520,NCT04594369,Arnhem,Gelderland,Netherlands
+1521,NCT04594369,Alkmaar,Noord-Holland,Netherlands
+1522,NCT04594369,Amsterdam,Noord-Holland,Netherlands
+1523,NCT04594369,Den Haag,Zuid-Holland,Netherlands
+1524,NCT04594369,Heerlen,,Netherlands
+1525,NCT04594369,Rotterdam,,Netherlands
+1526,NCT04594369,Otahuhu,Auckland,New Zealand
+1527,NCT04594369,Christchurch,South Island,New Zealand
+1528,NCT04594369,Dunedin,South Island,New Zealand
+1529,NCT04594369,Hamilton,Waikato,New Zealand
+1530,NCT04594369,Paraparaumu,Wellington,New Zealand
+1531,NCT04594369,Auckland,,New Zealand
+1532,NCT04594369,Auckland,,New Zealand
+1533,NCT04594369,Auckland,,New Zealand
+1534,NCT04594369,Havelock North,,New Zealand
+1535,NCT04594369,Tauranga,,New Zealand
+1536,NCT04594369,Wellington,,New Zealand
+1537,NCT04594369,La Victoria,Lima,Peru
+1538,NCT04594369,Chancay,,Peru
+1539,NCT04594369,Lima,,Peru
+1540,NCT04594369,Lima,,Peru
+1541,NCT04594369,Lima,,Peru
+1542,NCT04594369,Piura,,Peru
+1543,NCT04594369,San Miguel,,Peru
+1544,NCT04594369,Ostrowiec Swietokrzyski,Swietokrzyskie,Poland
+1545,NCT04594369,Bialystok,,Poland
+1546,NCT04594369,Bielsko Biala,,Poland
+1547,NCT04594369,Katowice,,Poland
+1548,NCT04594369,Kielce,,Poland
+1549,NCT04594369,Krakow,,Poland
+1550,NCT04594369,Ksawerow,,Poland
+1551,NCT04594369,Rabka-Zdroj,,Poland
+1552,NCT04594369,Rzeszów,,Poland
+1553,NCT04594369,Siedlce,,Poland
+1554,NCT04594369,Sosnowiec,,Poland
+1555,NCT04594369,Sucha Beskidzka,,Poland
+1556,NCT04594369,Szczecin,,Poland
+1557,NCT04594369,Tarnow,,Poland
+1558,NCT04594369,Loures,Lisboa,Portugal
+1559,NCT04594369,Aveiro,,Portugal
+1560,NCT04594369,Braga,,Portugal
+1561,NCT04594369,Covilhã,,Portugal
+1562,NCT04594369,Guarda,,Portugal
+1563,NCT04594369,Guimaraes,,Portugal
+1564,NCT04594369,Lisboa,,Portugal
+1565,NCT04594369,Vila Nova de Gaia,,Portugal
+1566,NCT04594369,Belgrade,,Serbia
+1567,NCT04594369,Belgrade,,Serbia
+1568,NCT04594369,Nis,,Serbia
+1569,NCT04594369,Sombor,,Serbia
+1570,NCT04594369,Uzice,,Serbia
+1571,NCT04594369,Bardejov,,Slovakia
+1572,NCT04594369,Spisská Nová Ves,,Slovakia
+1573,NCT04594369,Santiago de Compostela,A Coruña,Spain
+1574,NCT04594369,Oviedo,Asturias,Spain
+1575,NCT04594369,Badalona,Barcelona,Spain
+1576,NCT04594369,Santander,Cantabria,Spain
+1577,NCT04594369,Pozuelo de Alarcon,Madrid,Spain
+1578,NCT04594369,Pamplona,Navarra,Spain
+1579,NCT04594369,Barcelona,,Spain
+1580,NCT04594369,Barcelona,,Spain
+1581,NCT04594369,Girona,,Spain
+1582,NCT04594369,L´Hospitalet de Llobregat,,Spain
+1583,NCT04594369,Madrid,,Spain
+1584,NCT04594369,Madrid,,Spain
+1585,NCT04594369,Kaohsiung City,,Taiwan
+1586,NCT04594369,Kaohsiung,,Taiwan
+1587,NCT04594369,Kaohsiung,,Taiwan
+1588,NCT04594369,New Taipei City,,Taiwan
+1589,NCT04594369,Taipei City,,Taiwan
+1590,NCT04594369,Taipei,,Taiwan
+1591,NCT04594369,Taipei,,Taiwan
+1592,NCT04594369,Nakhonnayok,Nakhon Nayok,Thailand
+1593,NCT04594369,Muang,Nonthaburi,Thailand
+1594,NCT04594369,Bangkok,,Thailand
+1595,NCT04594369,Khon Kaen,,Thailand
+1596,NCT04594369,Atakum,Samsun,Turkey
+1597,NCT04594369,Ankara,,Turkey
+1598,NCT04594369,Ankara,,Turkey
+1599,NCT04594369,Canakkale,,Turkey
+1600,NCT04594369,Izmir,,Turkey
+1601,NCT04594369,Izmir,,Turkey
+1602,NCT04594369,Kocaeli,,Turkey
+1603,NCT04594369,Konya,,Turkey
+1604,NCT04594369,Mersin,,Turkey
+1605,NCT04594369,Kharkiv,Kharkivs'ka Oblast,Ukraine
+1606,NCT04594369,Kherson,Khersons'ka Oblast,Ukraine
+1607,NCT04594369,Poltava,Poltavs'ka Oblast,Ukraine
+1608,NCT04594369,Dnipro,,Ukraine
+1609,NCT04594369,Ivano-Frankivsk,,Ukraine
+1610,NCT04594369,Kyiv,,Ukraine
+1611,NCT04594369,Kyiv,,Ukraine
+1612,NCT04594369,Odesa,,Ukraine
+1613,NCT04594369,Vinnytsia,,Ukraine
+1614,NCT04594369,Cambridge,Cambridgeshire,United Kingdom
+1615,NCT04594369,Exeter,Devon,United Kingdom
+1616,NCT04594369,Norwich,Norfolk,United Kingdom
+1617,NCT04594369,"Llandough, Penarth","Vale Of Glamorgan, The",United Kingdom
+1618,NCT04594369,Bradford,Yorkshire,United Kingdom
+1619,NCT04594369,Birmingham,,United Kingdom
+1620,NCT04594369,Chertsey,,United Kingdom
+1621,NCT04594369,Dundee,,United Kingdom
+1622,NCT04594369,Liverpool,,United Kingdom
+1623,NCT04594369,Londonderry,,United Kingdom
+1624,NCT04594369,London,,United Kingdom
+1625,NCT04594369,Manchester,,United Kingdom
+1626,NCT04594369,Manchester,,United Kingdom
+1627,NCT04594369,Newcastle upon Tyne,,United Kingdom
+1628,NCT04594369,Salford,,United Kingdom
+1629,NCT04594369,Southampton,,United Kingdom
+1630,NCT04594369,Swansea,,United Kingdom
+1631,NCT04643587,Manchester,England,United Kingdom
+1632,NCT04643587,Belfast,Northern Ireland,United Kingdom
+1633,NCT04656275,Frankfurt,,Germany
+1634,NCT04656275,Großhansdorf,,Germany
+1635,NCT04656275,Lübeck,,Germany
+1636,NCT04656275,Dundee,,United Kingdom
+1637,NCT04656275,Liverpool,,United Kingdom
+1638,NCT04656275,Manchester,,United Kingdom
+1639,NCT04658277,Hong Kong,Please Select,Hong Kong
+1640,NCT04884308,Baltimore,Maryland,United States
+1641,NCT05006573,Birmingham,Alabama,United States
+1642,NCT05006573,Newport Beach,California,United States
+1643,NCT05006573,Northridge,California,United States
+1644,NCT05006573,Denver,Colorado,United States
+1645,NCT05006573,Washington,District of Columbia,United States
+1646,NCT05006573,Jacksonville,Florida,United States
+1647,NCT05006573,Miami Lakes,Florida,United States
+1648,NCT05006573,Miami,Florida,United States
+1649,NCT05006573,Atlanta,Georgia,United States
+1650,NCT05006573,Columbus,Georgia,United States
+1651,NCT05006573,Hinesville,Georgia,United States
+1652,NCT05006573,Lawrenceville,Georgia,United States
+1653,NCT05006573,Rincon,Georgia,United States
+1654,NCT05006573,Kansas City,Kansas,United States
+1655,NCT05006573,New Orleans,Louisiana,United States
+1656,NCT05006573,Baltimore,Maryland,United States
+1657,NCT05006573,Rochester,Minnesota,United States
+1658,NCT05006573,Statesville,North Carolina,United States
+1659,NCT05006573,Winston-Salem,North Carolina,United States
+1660,NCT05006573,Portland,Oregon,United States
+1661,NCT05006573,Portland,Oregon,United States
+1662,NCT05006573,Pittsburgh,Pennsylvania,United States
+1663,NCT05006573,El Paso,Texas,United States
+1664,NCT05006573,Tyler,Texas,United States
+1665,NCT05006573,Caba,,Argentina
+1666,NCT05006573,Caba,,Argentina
+1667,NCT05006573,Florida,,Argentina
+1668,NCT05006573,San Fernando,,Argentina
+1669,NCT05006573,San Miguel de Tucuman,,Argentina
+1670,NCT05006573,Concord,,Australia
+1671,NCT05006573,Melbourne,,Australia
+1672,NCT05006573,Parkville,,Australia
+1673,NCT05006573,South Brisbane,,Australia
+1674,NCT05006573,Sydney,,Australia
+1675,NCT05006573,Calgary,Alberta,Canada
+1676,NCT05006573,Edmonton,Alberta,Canada
+1677,NCT05006573,Vancouver,British Columbia,Canada
+1678,NCT05006573,Ajax,Ontario,Canada
+1679,NCT05006573,Burlington,Ontario,Canada
+1680,NCT05006573,Windsor,Ontario,Canada
+1681,NCT05006573,Terrebonne,Quebec,Canada
+1682,NCT05006573,Quebec,,Canada
+1683,NCT05006573,Beijing,,China
+1684,NCT05006573,Beijing,,China
+1685,NCT05006573,Beijing,,China
+1686,NCT05006573,Beijing,,China
+1687,NCT05006573,Beijing,,China
+1688,NCT05006573,Cangzhou,,China
+1689,NCT05006573,Changsha,,China
+1690,NCT05006573,Fuzhou,,China
+1691,NCT05006573,Guangzhou,,China
+1692,NCT05006573,Guangzhou,,China
+1693,NCT05006573,Guangzhou,,China
+1694,NCT05006573,Guangzhou,,China
+1695,NCT05006573,Haikou,,China
+1696,NCT05006573,Hangzhou,,China
+1697,NCT05006573,Hohhot,,China
+1698,NCT05006573,Jinan,,China
+1699,NCT05006573,Nanchang,,China
+1700,NCT05006573,Nanjing,,China
+1701,NCT05006573,Nanjing,,China
+1702,NCT05006573,Shanghai,,China
+1703,NCT05006573,Shanghai,,China
+1704,NCT05006573,Shanghai,,China
+1705,NCT05006573,Shanghai,,China
+1706,NCT05006573,Shijiazhuang,,China
+1707,NCT05006573,Tianjin,,China
+1708,NCT05006573,Wuhan,,China
+1709,NCT05006573,Wuxi,,China
+1710,NCT05006573,Xinxiang,,China
+1711,NCT05006573,Xuzhou,,China
+1712,NCT05006573,Xuzhou,,China
+1713,NCT05006573,Yangzhou,,China
+1714,NCT05006573,Zhengzhou,,China
+1715,NCT05006573,Zunyi,,China
+1716,NCT05006573,Aalborg,,Denmark
+1717,NCT05006573,Hellerup,,Denmark
+1718,NCT05006573,Hvidovre,,Denmark
+1719,NCT05006573,Køge,,Denmark
+1720,NCT05006573,Vejle,,Denmark
+1721,NCT05006573,Bamberg,,Germany
+1722,NCT05006573,Berlin,,Germany
+1723,NCT05006573,Berlin,,Germany
+1724,NCT05006573,Borstel,,Germany
+1725,NCT05006573,Donaustauf,,Germany
+1726,NCT05006573,Düsseldorf,,Germany
+1727,NCT05006573,Essen,,Germany
+1728,NCT05006573,Frankfurt,,Germany
+1729,NCT05006573,Freiburg,,Germany
+1730,NCT05006573,Gauting,,Germany
+1731,NCT05006573,Hamburg,,Germany
+1732,NCT05006573,Hannover,,Germany
+1733,NCT05006573,Heidelberg,,Germany
+1734,NCT05006573,Hessen,,Germany
+1735,NCT05006573,München,,Germany
+1736,NCT05006573,Coimbatore,,India
+1737,NCT05006573,Hyderabad,,India
+1738,NCT05006573,Jaipur,,India
+1739,NCT05006573,Nagpur,,India
+1740,NCT05006573,New Delhi,,India
+1741,NCT05006573,Noida,,India
+1742,NCT05006573,Bari,,Italy
+1743,NCT05006573,Catania,,Italy
+1744,NCT05006573,Foggia,,Italy
+1745,NCT05006573,Milano,,Italy
+1746,NCT05006573,Modena,,Italy
+1747,NCT05006573,Palermo,,Italy
+1748,NCT05006573,Pisa,,Italy
+1749,NCT05006573,Roma,,Italy
+1750,NCT05006573,Rozzano,,Italy
+1751,NCT05006573,Jeonju-si,,"Korea, Republic of"
+1752,NCT05006573,Seoul,,"Korea, Republic of"
+1753,NCT05006573,Seoul,,"Korea, Republic of"
+1754,NCT05006573,Seoul,,"Korea, Republic of"
+1755,NCT05006573,Seoul,,"Korea, Republic of"
+1756,NCT05006573,Seoul,,"Korea, Republic of"
+1757,NCT05006573,Davao City,,Philippines
+1758,NCT05006573,Iloilo City,,Philippines
+1759,NCT05006573,Manila,,Philippines
+1760,NCT05006573,Quezon City,,Philippines
+1761,NCT05006573,Białystok,,Poland
+1762,NCT05006573,Bydgoszcz,,Poland
+1763,NCT05006573,Ostrowiec Świętokrzyski,,Poland
+1764,NCT05006573,Poznań,,Poland
+1765,NCT05006573,Sosnowiec,,Poland
+1766,NCT05006573,Wejherowo,,Poland
+1767,NCT05006573,Wrocław,,Poland
+1768,NCT05006573,Chelyabinsk,,Russian Federation
+1769,NCT05006573,Omsk,,Russian Federation
+1770,NCT05006573,Penza,,Russian Federation
+1771,NCT05006573,Saratov,,Russian Federation
+1772,NCT05006573,Tomsk,,Russian Federation
+1773,NCT05006573,Ulyanovsk,,Russian Federation
+1774,NCT05006573,Barcelona,,Spain
+1775,NCT05006573,Barcelona,,Spain
+1776,NCT05006573,Barcelona,,Spain
+1777,NCT05006573,Madrid,,Spain
+1778,NCT05006573,Valencia,,Spain
+1779,NCT05006573,Cambridge,,United Kingdom
+1780,NCT05006573,Dundee,,United Kingdom
+1781,NCT05006573,Edinburgh,,United Kingdom
+1782,NCT05006573,London,,United Kingdom
+1783,NCT05006573,Manchester,,United Kingdom
+1784,NCT05006573,Southampton,,United Kingdom
+1785,NCT05006573,Hanoi,,Vietnam
+1786,NCT05006573,Hanoi,,Vietnam
+1787,NCT05006573,Hanoi,,Vietnam
+1788,NCT05006573,Ho Chi Minh,,Vietnam
+1789,NCT05006573,Hochiminh,,Vietnam
+1790,NCT05006573,Hochiminh,,Vietnam
+1791,NCT05369624,Seville,,Spain

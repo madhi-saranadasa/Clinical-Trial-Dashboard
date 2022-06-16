@@ -1,0 +1,31 @@
+---
+title: "AppDevelopment"
+author: "Madhi Saranadasa"
+date: '2022-06-14'
+output: html_document
+---
+
+```{r}
+
+library(tidyverse)
+library(xml2)
+
+projectfolder <- dirname(getwd())
+
+```
+
+```{r}
+
+gdata_path <- file.path(projectfolder, "Data", "SearchResults.csv")
+gdata <- read_csv(gdata_path)
+
+```
+
+
+
+```{r}
+
+gdata_path <- file.path(projectfolder, "Data", "XML", "NCT00484263.xml")
+driver_data = read_xml(gdata_path)
+
+```

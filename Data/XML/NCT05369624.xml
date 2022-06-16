@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="21">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 14, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT05369624</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SCHNR15</org_study_id>
+    <nct_id>NCT05369624</nct_id>
+  </id_info>
+  <brief_title>Exercise Capacity in Non-cystic Fibrosis Bronchiectasis After a Pulmonary Rehabilitation Home-based Program</brief_title>
+  <official_title>Relationship Between the Severity of Bronchiectasis and Exercise Capacity in a Pilot Home Pulmonary Rehabilitation Program at the Virgen Macarena University Hospital</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hospital Universitario Virgen Macarena</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hospital Universitario Virgen Macarena</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      A number of studies have described low exercise capacity and physical activity in patients&#xD;
+      with non-cystic fibrosis bronchiectasis (non-CF Bronchiectasis), although little research&#xD;
+      exists on using the cardiopulmonary exercise test (CPET) to evaluate exercise capacity and&#xD;
+      its most relevant changes after a pulmonary rehabilitation home-based program (PRHP). In&#xD;
+      addition, few studies have addressed tolerance to exercise and physical activity in severe&#xD;
+      cases of the disease.&#xD;
+&#xD;
+      Aims:&#xD;
+&#xD;
+      To evaluate the exercise capacity of non-CF BQ patients using CPET and physical activity&#xD;
+      after a pulmonary rehabilitation home-based program.&#xD;
+&#xD;
+      Methodology:&#xD;
+&#xD;
+      Our study describes a non-pharmacological clinical trial in non-CF BQ patients at the Virgen&#xD;
+      Macarena University Hospital (Seville, Spain). The patients were randomized into two groups:&#xD;
+      the control group (who were provided with training instructions) and the intervention group&#xD;
+      (who took part in a specific pulmonary rehabilitation home-based program).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      A signed informed consent form was provided prior to inclusion in the study. The data&#xD;
+      evaluated was obtained under strict confidentiality rules. All patients passed an initial&#xD;
+      assessment of the degree of physical activity by means of accelerometers, as well as&#xD;
+      pulmonary function tests and exercise tolerance (CPET) and 6MWT, stratification severity&#xD;
+      according to the E-FACED scales, quality of life using the saint george respiratory&#xD;
+      questionnaire.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 8, 2018</start_date>
+  <completion_date type="Actual">March 14, 2020</completion_date>
+  <primary_completion_date type="Actual">March 14, 2019</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <intervention_model_description>Clinical trial with parallel groups (Parallel treatment design):&#xD;
+Clinical trial in which one group of patients is assigned to receive the home pulmonary rehabilitation program (PHRP), while another group (control) does not receive PHRP</intervention_model_description>
+    <primary_purpose>Other</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Exercise capacity of Non-cystic Fibrosis Bronchiectasis ( Non-CF bronchiectasis) after pulmonary rehabilitation home-based program (PRHP). Change in VO2 (oxygen consumption, ml/min)</measure>
+    <time_frame>Baseline and week 8</time_frame>
+    <description>A measurement by cardiopulmonary exercise test (CPET) with oxygen consumption was performed at baseline and week 8 of the program.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Level of physical activity (METS) of Non-CF bronchiectasis and its changes after PRHP</measure>
+    <time_frame>Baseline and week 8</time_frame>
+    <description>Change in level of physical activity assessed using a Multisensor ArmBand accelerometer (METS).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Impact of quality of life before and after PRHP</measure>
+    <time_frame>Baseline and week 8</time_frame>
+    <description>Change in St. George's Respiratory Questionnaire (SGRQ) after PRHP: Have 50 items with 3 components Symptoms, Activities, Impact ant total score. Scores range from 0 to 100, with higher scores indicating more limitations.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dyspnoea</measure>
+    <time_frame>Baseline and week 8</time_frame>
+    <description>Change in dyspnoea by modified Medical Research Council (MRC)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Exacerbations</measure>
+    <time_frame>Baseline, week 4 and week8</time_frame>
+    <description>Numbers of Hospital admissions in previous month</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Level of physical activity (number of steps) of Non-CF bronchiectasis and its changes after PRHP</measure>
+    <time_frame>Baseline and week 8</time_frame>
+    <description>Change in level of physical activity assessed using a Multisensor ArmBand accelerometer (number of steps).</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">34</enrollment>
+  <condition>Non-cystic Fibrosis Bronchiectasis</condition>
+  <condition>Pulmonary Rehabilitation</condition>
+  <arm_group>
+    <arm_group_label>Pulmonary rehabilitation home-based program intervention group (PRHP)(IG)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants were given two hospital sessions: in the first session the physiotherapist explained the exercises to be performed at home and there was a reminder session at 4 weeks. Reminder call was carried out weekly for 8 weeks. The patients were advised to do the exercises at least 3 times a week. The number of times they performed physical activity and its duration were recorded in a questionnaire</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Participants received general written advice and recommendations for physical activity</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Pulmonary rehabilitation home-based program intervention group (PRHP)(IG)</intervention_name>
+    <description>The strength training program included upper and lower limb exercises, initially with no weights but progressively adding weights once a week depending on symptoms, in 2 sets with 6-8 repetitions, for at least 5 days a week. The exercises recommended were the 'hanger' (which exercises the latissimus dorsi muscle), 'butterfly' (pectoralis major muscle), 'neck press' (triceps brachii and deltoids), leg flexion (biceps femoris and gastrocnemius) and leg extension (quadriceps femoris).&#xD;
+As resistance training, patients could choose between walking or cycling 3 to 5 days per week, for at least 20 minutes, increasing the duration of the exercise weekly, depending on their symptoms</description>
+    <arm_group_label>Pulmonary rehabilitation home-based program intervention group (PRHP)(IG)</arm_group_label>
+    <other_name>Intervention group</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Certain diagnosis of non-CF bronchiectasis (chest HRCT)&#xD;
+&#xD;
+          -  Over 18 years old, clinically stable in the previous 6 weeks (no need for antibiotic&#xD;
+             therapy due to exacerbations) and a dyspnea score over 1 according to the modified&#xD;
+             Medical Research Council (mMRC) dyspnea scale&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Less of 18 years&#xD;
+&#xD;
+          -  Other airway disease ( Asthma or COPD)&#xD;
+&#xD;
+          -  Physical inability to perform a physical training program (neuromuscular pathology or&#xD;
+             residual injuries).&#xD;
+&#xD;
+          -  Smokers or former smokers of less than 6 months or with a history of consumption of 15&#xD;
+             packs/year.&#xD;
+&#xD;
+          -  Cystic fibrosis.&#xD;
+&#xD;
+          -  Active infections (bronchopulmonary aspergillosis, pulmonary tuberculosis).&#xD;
+&#xD;
+          -  Active tuberculosis.&#xD;
+&#xD;
+          -  Medical illnesses that put the individual at risk of a decompensation due to the&#xD;
+             performance of any physical activity or cardiopulmonary stress test (unstable ischemic&#xD;
+             heart disease, acute myocardial infarction less than 1 month).&#xD;
+&#xD;
+          -  Pregnancy&#xD;
+&#xD;
+          -  Mental disorder that prevents the adequate interpretation of the indications or&#xD;
+             performance of the tests.&#xD;
+&#xD;
+          -  Attended pulmonary rehabilitation within 1 year.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Virginia Almadana, PhD</last_name>
+    <role>Study Director</role>
+    <affiliation>Virgen Macarena University Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Virginia Almadana Pacheco</name>
+      <address>
+        <city>Seville</city>
+        <zip>41009</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Spain</country>
+  </location_countries>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>April 27, 2022</study_first_submitted>
+  <study_first_submitted_qc>May 6, 2022</study_first_submitted_qc>
+  <study_first_posted type="Actual">May 11, 2022</study_first_posted>
+  <last_update_submitted>May 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchiectasis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>It will be available in the repository of the Virgen Macarena University Hospital</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_info_type>Informed Consent Form (ICF)</ipd_info_type>
+    <ipd_time_frame>May 07, 2018 to march 14, 2020</ipd_time_frame>
+    <ipd_access_criteria>Upon request from the database, the data will be provided with the prior consent of the hospital ethics committee.</ipd_access_criteria>
+    <ipd_url>https://www.hospitalmacarena.es/</ipd_url>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>May 7, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/24/NCT05369624/Prot_SAP_002.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>May 7, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/24/NCT05369624/ICF_003.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

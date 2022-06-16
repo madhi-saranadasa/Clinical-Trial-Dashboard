@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="31">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 14, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04538859</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ProBronchiectasis/2019</org_study_id>
+    <nct_id>NCT04538859</nct_id>
+  </id_info>
+  <brief_title>A Prospective Study of Factors Related to Exacerbation and Mortality of Non-cystic Fibrosis Bronchiectasis in Hong Kong</brief_title>
+  <official_title>A Prospective Study of Factors Related to Exacerbation and Mortality of Non-cystic Fibrosis Bronchiectasis in Hong Kong</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Chinese University of Hong Kong</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Chinese University of Hong Kong</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Bronchiectasis is associated with repeated exacerbations which occurs at rates of 1.5-6.5 per&#xD;
+      patients per year, and are associated with an increased risk of admission and readmission to&#xD;
+      hospital, and high health care costs. In a local study carried out more than 10 years ago,&#xD;
+      idiopathic disease dominates and patients with bronchiectasis are mainly female with high&#xD;
+      hospitalization and mortality rates; 21.9 cases per 100,000 and 2.7 cases per 100,000&#xD;
+      respectively. Moreover, exacerbation characterized by increases in symptoms requiring&#xD;
+      antibiotic treatment is associated with disease progression and significant mortality.&#xD;
+      Updated prevalence of this disease with the characteristics of etiology, clinical&#xD;
+      presentation and outcomes are needed to guide further management plan.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">August 30, 2020</start_date>
+  <completion_date type="Anticipated">August 29, 2027</completion_date>
+  <primary_completion_date type="Anticipated">August 29, 2027</primary_completion_date>
+  <study_type>Observational [Patient Registry]</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <target_duration>5 Years</target_duration>
+  <primary_outcome>
+    <measure>Number of bronchiectasis exacerbation</measure>
+    <time_frame>5 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality rate</measure>
+    <time_frame>5 years</time_frame>
+  </secondary_outcome>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Bronchiectasis Adult</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        This is a prospective observational study of patients. We propose to recruit consecutive&#xD;
+        patients who are under care of the Respiratory Clinic at the Prince of Wales Hospital with&#xD;
+        the diagnosis of bronchiectasis defined by high-resolution Computed Tomography scan.&#xD;
+        Patients who recover from a recent admission the Prince of Wales Hospital with exacerbation&#xD;
+        of bronchiectasis will also be recruited.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. Patients aged 18 years or older&#xD;
+&#xD;
+          2. Clinically stable for at least 4 weeks prior to enrollment (defined as no symptoms of&#xD;
+             exacerbation, no requirement for supplemental antibiotic therapy)&#xD;
+&#xD;
+          3. Diagnosis of bronchiectasis defined by high-resolution computed tomography scan&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. History of cystic fibrosis; hypogammaglobulinemia; allergic bronchopulmonary&#xD;
+             aspergilosis&#xD;
+&#xD;
+          2. Those who are unable to give consent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>Chinese University of Hong</name>
+      <address>
+        <city>Hong Kong</city>
+        <state>Please Select</state>
+        <country>Hong Kong</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susanna SS Ng, MBChB</last_name>
+      <phone>(852) 35053493</phone>
+      <email>ssng@cuhk.edu.hk</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Hong Kong</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>August 31, 2020</study_first_submitted>
+  <study_first_submitted_qc>August 31, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">September 4, 2020</study_first_posted>
+  <last_update_submitted>August 31, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 31, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 4, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Chinese University of Hong Kong</investigator_affiliation>
+    <investigator_full_name>Susanna SS Ng</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchiectasis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

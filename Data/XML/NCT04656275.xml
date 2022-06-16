@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="6">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 14, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04656275</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1405-0008</org_study_id>
+    <secondary_id>2019-003853-27</secondary_id>
+    <nct_id>NCT04656275</nct_id>
+  </id_info>
+  <brief_title>A Study in Patients With Non-cystic Fibrosis Bronchiectasis to Test How Well Different Doses of BI 1323495 Are Tolerated and How BI 1323495 Affects Biomarkers of Inflammation</brief_title>
+  <official_title>Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of Different Oral Doses of BI 1323495 Bid Versus Placebo in Patients With Non-cystic Fibrosis Bronchiectasis (Randomised, Double-blind, Placebo-controlled, Parallel Group Trial)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Boehringer Ingelheim</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Boehringer Ingelheim</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is open to adults with non-cystic fibrosis bronchiectasis. The main purpose of&#xD;
+      this study is to find out how a medicine called BI 1323495 is tolerated by people with&#xD;
+      non-cystic bronchiectasis.&#xD;
+&#xD;
+      The study tests 2 different doses of BI 1323495. Some of the participants get placebo. It is&#xD;
+      decided by chance who gets BI 1323495 and who gets placebo. Participants take BI 1323495 or&#xD;
+      placebo as tablets twice a day for 3 months. Placebo tablets look like BI 1323495 tablets but&#xD;
+      do not contain any medicine. Participants can also continue taking standard medicines for&#xD;
+      noncystic bronchiectasis throughout the study.&#xD;
+&#xD;
+      Participants are in the study for about 4 months. During this time, the participants visit&#xD;
+      the study site about 11 times and get about 2 phone calls. At the visits, doctors check the&#xD;
+      health of the participants and note any health problems that could have been caused by BI&#xD;
+      1323495.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    recruitment in 2021 was not according to plan&#xD;
+  </why_stopped>
+  <start_date type="Actual">March 4, 2021</start_date>
+  <completion_date type="Actual">December 20, 2021</completion_date>
+  <primary_completion_date type="Actual">December 20, 2021</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double (Participant, Investigator)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Occurrence of drug-related adverse events</measure>
+    <time_frame>Up to week 13</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to week 12 in absolute neutrophil elastase (NE) activity in sputum</measure>
+    <time_frame>Up to week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to week 12 in neutrophil cell count in sputum</measure>
+    <time_frame>Up to week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to week 12 in NE activity in whole blood after stimulation with zymosan, normalized to neutrophil counts</measure>
+    <time_frame>Up to week 12</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline to week 12 in absolute post-bronchodilator forced expiratory volume in one second (FEV1)</measure>
+    <time_frame>Up to week 12</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">7</enrollment>
+  <condition>Non-cystic Fibrosis Bronchiectasis</condition>
+  <arm_group>
+    <arm_group_label>BI 1323495 treatment group (part 1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 1</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BI 1323495 treatment group (part 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Part 2</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo group</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BI 1323495</intervention_name>
+    <description>BI 1323495</description>
+    <arm_group_label>BI 1323495 treatment group (part 1)</arm_group_label>
+    <arm_group_label>BI 1323495 treatment group (part 2)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo</description>
+    <arm_group_label>Placebo group</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  18 years to 80 years (inclusive) at the time of informed consent signature, male and&#xD;
+             female (not of childbearing potential) subjects&#xD;
+&#xD;
+             --For 'female not of childbearing potential' at least one of the following criteria&#xD;
+             must be fulfilled:&#xD;
+&#xD;
+               -  Permanently sterile (permanent sterilisation methods include hysterectomy,&#xD;
+                  bilateral salpingectomy, and bilateral oophorectomy; tubal ligation is not a&#xD;
+                  method of permanent sterilisation)&#xD;
+&#xD;
+               -  Postmenopausal, defined as at least 1 year of spontaneous amenorrhea without an&#xD;
+                  alternative medical cause (in questionable cases a blood sample with Follicle&#xD;
+                  Stimulating Hormone (FSH) above 40 U/L and estradiol below 30 ng/L is&#xD;
+                  confirmatory).&#xD;
+&#xD;
+               -  Men must be vasectomised with documented absence of sperm or use male&#xD;
+                  contraception (condom or sexual abstinence) from the first administration of&#xD;
+                  trial medication until 30 days after the last administration of trial medication&#xD;
+                  if their sexual partner is a woman of childbearing potential (WOCBP)&#xD;
+&#xD;
+          -  Clinical history consistent with non cystic fibrosis bronchiectasis (nCFB) (cough,&#xD;
+             chronic sputum production and/or recurrent respiratory infections) and proven and&#xD;
+             documented diagnosis of bronchiectasis by computed tomography (CT) scan including&#xD;
+             dilated airways compatible with bronchiectasis at initial diagnosis. Bronchiectasis of&#xD;
+             various etiologies will be allowed, with exclusion criteria as below.&#xD;
+&#xD;
+          -  Vaccination against Streptococcus pneumoniae in accordance with national vaccination&#xD;
+             recommendations&#xD;
+&#xD;
+          -  Signed and dated written informed consent prior to admission to the study, in&#xD;
+             accordance with Good Clinical Practice (GCP) and local legislation.&#xD;
+&#xD;
+          -  FEV1 ≥ 30 % predicted (post-bronchodilator) at Screening Visit 1.&#xD;
+&#xD;
+          -  Stable (i.e., no dose change) regimen of standard nCFB treatment (including - but not&#xD;
+             limited to - hypertonic inhalation solutions, mucolytics, Long Acting Muscarinic&#xD;
+             Agonists (LAMA)/ Long Acting Beta Agonists (LABA) / inhaled corticosteriods (iCS),&#xD;
+             oral antibiotic maintenance regimen, and physiotherapy), if applicable, administered&#xD;
+             at least for 4 weeks prior to Screening Visit 1 and throughout the run-in period.&#xD;
+&#xD;
+          -  Regular daily sputum producers with a history of chronic expectoration who are able to&#xD;
+             provide a typical bronchiectasis sputum sample at Screening Visit 1.&#xD;
+&#xD;
+          -  Sputum neutrophil elastase positive based on point of care test (NEATstik® score ≥ 6)&#xD;
+             assessment at Visit 2a and Visit 2b.&#xD;
+&#xD;
+          -  Subjects genotyped as UDP-Glucuronosyltransferase-2B17 (UGT2B17) extensive&#xD;
+             metabolizers prior to randomisation, i.e., carrying at least one functional allele of&#xD;
+             the UGT2B17 gene (*1/*1 or *1/*2)&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Any finding in the medical examination (including BP, pulse rate (PR), or ECG) and/or&#xD;
+             laboratory value and/or any evidence of a concomitant disease assessed as clinically&#xD;
+             relevant by the investigator.&#xD;
+&#xD;
+          -  Concomitant diagnosis of pulmonary disease other than bronchiectasis, chronic&#xD;
+             obstructive pulmonary disease (COPD), or asthma.&#xD;
+&#xD;
+          -  A current diagnosis of cystic fibrosis (CF), primary immunodeficiency, active Allergic&#xD;
+             Bronchopulmonary Aspergillosis (ABPA) (defined by receipt of corticosteroids,&#xD;
+             anti-fungal treatment or monoclonal antibody treatment), or alpha-1 antitrypsin (A1AT)&#xD;
+             deficiency as underlying disease.&#xD;
+&#xD;
+          -  A history or current immunodeficiency or are currently being treated (or are planned&#xD;
+             to be treated) with immunomodulatory drugs (except for iCS or low-dose oral&#xD;
+             corticosteroids), including disease-modifying anti-rheumatic drugs (DMARDs), and/or&#xD;
+             Immunglobulin G (IgG) treatments. Other medication that is excluded will be provided&#xD;
+             in the investigator site file (ISF). On the day of the site visit with lung function&#xD;
+             measurement, no bronchodilators should be used until after completion of lung function&#xD;
+             assessment&#xD;
+&#xD;
+          -  Any acute infections defined as infections requiring antibiotic therapy, or Upper&#xD;
+             Respiratory Tract Infection (URTI). Are currently being treated (or are planned to be&#xD;
+             treated) for a nontuberculous mycobacterial (NTM) lung infection or tuberculosis.&#xD;
+&#xD;
+          -  A history of invasive pneumococcal disease.&#xD;
+&#xD;
+          -  Inhaled antibiotic treatment or cycling oral antibiotic treatment with changed dose&#xD;
+             regimen 4 weeks prior to Screening Visit 1.&#xD;
+&#xD;
+          -  A treatment for a pulmonary exacerbation 4 weeks prior to Screening Visit 1.&#xD;
+&#xD;
+          -  Laboratory confirmed severe acute respiratory syndrome (SARS)-coronavisurs (CoV)-2&#xD;
+             infection (PCR positive) within 4 weeks prior to Screening Visit 1.&#xD;
+&#xD;
+          -  Household contact with an individual with confirmed SARS-CoV-2 infection within 4&#xD;
+             weeks prior to Screening Visit 1.&#xD;
+&#xD;
+          -  Further exclusion criteria apply&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>IKF Pneumologie GmbH &amp; Co. KG</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60596</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pneumologisches Forschungsinstitut an der LungenClinic Grosshansdorf GmbH</name>
+      <address>
+        <city>Großhansdorf</city>
+        <zip>22927</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>KLB Gesundheitsforschung Lübeck GmbH</name>
+      <address>
+        <city>Lübeck</city>
+        <zip>23552</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ninewells Hospital &amp; Medical School</name>
+      <address>
+        <city>Dundee</city>
+        <zip>DD1 9SY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Liverpool Heart &amp; Chest Hospital</name>
+      <address>
+        <city>Liverpool</city>
+        <zip>L14 3PE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medicines Evaluation Unit</name>
+      <address>
+        <city>Manchester</city>
+        <zip>M23 9QZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>https://www.mystudywindow.com/</url>
+    <description>Related Info</description>
+  </link>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>December 1, 2020</study_first_submitted>
+  <study_first_submitted_qc>December 1, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">December 7, 2020</study_first_posted>
+  <last_update_submitted>March 22, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 22, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 23, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchiectasis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+    <ipd_description>Clinical studies sponsored by Boehringer Ingelheim, phases I to IV, interventional and non-interventional, are in scope for sharing of the raw clinical study data and clinical study documents, except for the following exclusions:1. studies in products where Boehringer Ingelheim is not the license holder; 2. studies regarding pharmaceutical formulations and associated analytical methods, and studies pertinent to pharmacokinetics using human biomaterials; 3. studies conducted in a single center or targeting rare diseases (because of limitations with anonymization).&#xD;
+For more details refer to: https://www.mystudywindow.com/msw/datasharing</ipd_description>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

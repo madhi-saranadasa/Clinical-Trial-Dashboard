@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="8">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 14, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT03460704</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Z7224L02</org_study_id>
+    <nct_id>NCT03460704</nct_id>
+  </id_info>
+  <brief_title>Trial in Non-cystic Fibrosis Bronchiectasis Patients With Chronic Lung Infections Treated With Colistimethate Sodium (PROMIS II)</brief_title>
+  <official_title>A Double-blind, Placebo-controlled, Multi-centre, Clinical Trial to Investigate the Efficacy and Safety of 12 Months of Therapy With Inhaled Colistimethate Sodium in the Treatment of Subjects With Non-cystic Fibrosis Bronchiectasis Chronically Infected With Pseudomonas Aeruginosa (P. Aeruginosa)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Zambon SpA</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Zambon SpA</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of the trial is to investigate the effect of the use of inhaled&#xD;
+      colistimethate sodium, administered twice daily via the I-neb for 12 months, compared to&#xD;
+      placebo in subjects with non-cystic fibrosis bronchiectasis (NCFB) chronically infected with&#xD;
+      P. aeruginosa on the frequency of pulmonary exacerbations.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 29, 2018</start_date>
+  <completion_date type="Actual">March 15, 2022</completion_date>
+  <primary_completion_date type="Actual">March 15, 2022</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Annualized Pulmonary Exacerbation rate</measure>
+    <time_frame>12 months</time_frame>
+    <description>Annual mean NCFB pulmonary exacerbation rate.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to first pulmonary exacerbation</measure>
+    <time_frame>12 months</time_frame>
+    <description>Time (in days) from the first dose of IMP until the first pulmonary exacerbation;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Annualised number of pulmonary exacerbation-free days</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of exacerbation-free days</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of severe NCFB pulmonary exacerbations,</measure>
+    <time_frame>12 months</time_frame>
+    <description>severe NCFB pulmonary exacerbations are defined as those requiring intravenous antibiotics and/or hospitalisation;</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to first severe pulmonary exacerbation</measure>
+    <time_frame>12 months</time_frame>
+    <description>Time (in days) from first dose of IMP until the first severe pulmonary exacerbation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life (SGRQ)</measure>
+    <time_frame>12 Months</time_frame>
+    <description>Quality of life (QoL) as measured by the total score of the Saint George's Respiratory Questionnaire (SGRQ)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of Life (Qol-B)</measure>
+    <time_frame>12 months</time_frame>
+    <description>Quality of Life - Bronchiectasis (QOL B) as measured by the total score of the ) and Quality of Life - Bronchiectasis (QOL B) questionnaire</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Days of work absence</measure>
+    <time_frame>12 months</time_frame>
+    <description>Number of days of work absence due to NCFB pulmonary exacerbations</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>P. aeruginosa density</measure>
+    <time_frame>12 months</time_frame>
+    <description>mean change in log10 colony forming units (CFU)/g sputum from baseline (Visit 2) to Day 28 of treatment (Visit 3) as well as to Visits 5 (6 months) to 11 (24 months) inclusive.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">287</enrollment>
+  <condition>Non Cystic Fibrosis Bronchiectasis</condition>
+  <arm_group>
+    <arm_group_label>Drug: Colistimethate Sodium</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>1 M units equivalent to 80 mg colistimethate sodium diluted in 1 mL saline solution 0.45% Other Name: Promixin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Drug: Saline Solution</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>1 ml saline solution 0.45%</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Colistimethate sodium</intervention_name>
+    <description>Inhaled colistimethate sodium twice daily</description>
+    <arm_group_label>Drug: Colistimethate Sodium</arm_group_label>
+    <other_name>Promixin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Saline Solution</intervention_name>
+    <description>Inhaled placebo twice daily</description>
+    <arm_group_label>Drug: Saline Solution</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          1. able and willing to give informed consent&#xD;
+&#xD;
+          2. aged 18 years or older of either gender&#xD;
+&#xD;
+          3. diagnosed with NCFB by computerised tomography (CT) or high-resolution CT(HRCT) as&#xD;
+             recorded in the subject's notes and this is their predominant condition being treated.&#xD;
+&#xD;
+          4. had at least 2 NCFB pulmonary exacerbations requiring oral or inhaled antibiotics or 1&#xD;
+             NCFB pulmonary exacerbation requiring intravenous antibiotics in the 12 months&#xD;
+             preceding the Screening Visit (V1) and had no pulmonary exacerbation with or without&#xD;
+             treatment during the period between Visit 1 and Visit 2&#xD;
+&#xD;
+          5. have a documented history of P. aeruginosa infection;&#xD;
+&#xD;
+          6. are clinically stable and have not required a change in pulmonary treatment for at&#xD;
+             least 30 days before the Screening Visit&#xD;
+&#xD;
+          7. have pre-bronchodilator FEV1 ≥25% of predicted&#xD;
+&#xD;
+          8. had a positive sputum culture for P. aeruginosa from an adequate sample taken at the&#xD;
+             Screening Visit or during the screening period.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          1. known bronchiectasis as a consequence of cystic fibrosis (CF)&#xD;
+&#xD;
+          2. known history of hypogammaglobulinaemia requiring treatment with immunoglobulin,&#xD;
+             unless fully replaced and considered immuno-competent by the Investigator;&#xD;
+&#xD;
+          3. myasthenia gravis or porphyria,&#xD;
+&#xD;
+          4. severe cardiovascular disease such as severe uncontrolled hypertension, ischaemic&#xD;
+             heart disease or cardiac arrhythmia and any other conditions that would confound the&#xD;
+             evaluation of safety, in the opinion of the Investigator;&#xD;
+&#xD;
+          5. had major surgery in the 3 months prior to the Screening Visit (Visit 1) or planned&#xD;
+             inpatient major surgery during the study period;&#xD;
+&#xD;
+          6. receiving treatment for ABPA;&#xD;
+&#xD;
+          7. massive haemoptysis (greater than or equal to 300 mL or requiring blood transfusion)&#xD;
+             in the preceding 4 weeks before Screening Visit (Visit 1) or between Visit 1 and Visit&#xD;
+             2;&#xD;
+&#xD;
+          8. respiratory failure that would compromise patient safety or confound the evaluation of&#xD;
+             safety or efficacy of the study in the opinion of the Investigator;;&#xD;
+&#xD;
+          9. current active malignancy, except for basal cell carcinoma or squamous cell carcinoma&#xD;
+             of the skin without metastases;&#xD;
+&#xD;
+         10. taking immunosuppressive medications (such as azathioprine, cyclosporine, tacrolimus,&#xD;
+             sirolimus, mycophenolate, rituximab), and/or anti cytokine medications (such as&#xD;
+             anti-IL-6 and anti-tumour alpha necrosis factor products) in the preceding year before&#xD;
+             the Screening Visit (Visit 1);&#xD;
+&#xD;
+         11. known history of human immunodeficiency virus (HIV);&#xD;
+&#xD;
+         12. current treatment for non-tuberculous mycobacterial (NTM) lung disease or&#xD;
+             tuberculosis;&#xD;
+&#xD;
+         13. known or suspected to be allergic or unable to tolerate colistimethate sodium&#xD;
+             (intravenous or inhaled) or other polymixins, including evidence of bronchial&#xD;
+             hyper-reactivity following inhaled colistimethate sodium;&#xD;
+&#xD;
+         14. treatment with long term (≥ 30 days) prednisone at a dose of greater than 15 mg a day&#xD;
+             (or equivalent dose of any other corticosteroid) (e.g.&#xD;
+             azithromycin/erythromycin/clarithromycin) started within six months of the Screening&#xD;
+             Visit (Visit 1);&#xD;
+&#xD;
+         15. new maintenance treatment with any oral macrolides within 30 days of the Screening&#xD;
+             Visit (Visit 1) or started between Visit 1 and Visit 2;&#xD;
+&#xD;
+         16. use of any intravenous or intramuscular or oral or inhaled anti-pseudomonal antibiotic&#xD;
+             (except chronic macrolides with a stable dose) within 30 days prior to the Screening&#xD;
+             Visit (Visit 1) and between Visit 1 and Visit 2;&#xD;
+&#xD;
+         17. pregnant or breast-feeding or plan to become pregnant over the next two years or of&#xD;
+             child-bearing potential and unwilling to use a reliable method of contraception for at&#xD;
+             least one month before randomisation and throughout their involvement in the trial;&#xD;
+&#xD;
+         18. significant abnormality in clinical evaluations and/or laboratory tests (physical&#xD;
+             examination, vital signs, haematology, clinical chemistry, clinically relevant&#xD;
+             impaired renal function, defined as serum creatinine levels ≥2.0x upper limit of&#xD;
+             normal, ECG) endangering the safe participation of the patient in the study at the&#xD;
+             Screening Visit (Visit 1) and during the study;&#xD;
+&#xD;
+         19. participated in another investigational, interventional trial within 30 days prior to&#xD;
+             the Screening Visit (Visit 1);&#xD;
+&#xD;
+         20. in the opinion of the Investigator not suitable for inclusion for whatever reason.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Dearbhla Hull, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Zambon SpA</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Newport Beach</city>
+        <state>California</state>
+        <zip>92663</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Palm Springs</city>
+        <state>California</state>
+        <zip>92262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Reseda</city>
+        <state>California</state>
+        <zip>91324</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investgative Site</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92120-5241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Centennial</city>
+        <state>Colorado</state>
+        <zip>80112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Kissimmee</city>
+        <state>Florida</state>
+        <zip>34741</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon investigative Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33707</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Weston</city>
+        <state>Florida</state>
+        <zip>33331</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Michigan City</city>
+        <state>Indiana</state>
+        <zip>46360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Chesterfield</city>
+        <state>Missouri</state>
+        <zip>63017-3625</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756-1000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ZambonInvestigative Site</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Tyler</city>
+        <state>Texas</state>
+        <zip>75708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>ZambonInvestigative Site</name>
+      <address>
+        <city>Abingdon</city>
+        <state>Virginia</state>
+        <zip>24210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Northwest</city>
+        <state>Washington</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1704</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1842</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1888</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>1900</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>B1602DQD</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1120AAF</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <zip>1425</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Ciudad Autónoma de Buenos Aires</city>
+        <zip>1426</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Quilmes</city>
+        <zip>B1878FNR</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Santa Fe</city>
+        <zip>3000</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Tucumán</city>
+        <zip>T4000IAR</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Adelaide</city>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Brisbane</city>
+        <zip>4064</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Kent Town</city>
+        <zip>5067</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Murdoch</city>
+        <zip>6150</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>South Brisbane</city>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Sydney</city>
+        <zip>2134</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon investigative Site</name>
+      <address>
+        <city>Burlington</city>
+        <zip>L7N 3V2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Kelowna</city>
+        <zip>V1W 1V3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>London</city>
+        <zip>N6A 5W9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Montréal</city>
+        <zip>H2X3E4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Ottawa</city>
+        <zip>K1H8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Quebec City</city>
+        <zip>G1V 4G5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Winnipeg</city>
+        <zip>R2H 2A6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Amiens</city>
+        <zip>80054</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Brest</city>
+        <zip>29609</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Créteil</city>
+        <zip>94010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Grenoble</city>
+        <zip>38043</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Lyon</city>
+        <zip>69002</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Montpellier</city>
+        <zip>34295</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Nice</city>
+        <zip>6100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Pessac</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Reims</city>
+        <zip>51100</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Toulouse</city>
+        <zip>31059</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60596</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Hanover</city>
+        <zip>30625</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Athens</city>
+        <zip>11527</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Haifa</city>
+        <zip>34362</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Jerusalem</city>
+        <zip>91031</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Kfar Saba</city>
+        <zip>4428164</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Milano</city>
+        <zip>20122</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Monza</city>
+        <zip>20900</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Christchurch</city>
+        <zip>8140</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Havelock North</city>
+        <zip>4130</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Mount Cook</city>
+        <zip>6242</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Tauranga</city>
+        <zip>3110</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Białystok</city>
+        <zip>15-044</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Bielsko-Biala</city>
+        <zip>43-300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Cracovia</city>
+        <zip>30-066</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Grudziądz</city>
+        <zip>86300</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Legnica</city>
+        <zip>59220</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Lublin</city>
+        <zip>20-089</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Ostrowiec Świętokrzyski</city>
+        <zip>27-400</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Piaseczno</city>
+        <zip>05-500</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Proszowice</city>
+        <zip>32-100</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Rzeszów</city>
+        <zip>35-205</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Sosnowiec</city>
+        <zip>41-200</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Warszawa</city>
+        <zip>01-456</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Wrocław</city>
+        <zip>51-162</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Łódź</city>
+        <zip>94-048</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Guimarães</city>
+        <zip>4835-044</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Zambon Investigative Site</name>
+      <address>
+        <city>Lisboa</city>
+        <zip>1649035</zip>
+        <country>Portugal</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>New Zealand</country>
+    <country>Poland</country>
+    <country>Portugal</country>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2022</verification_date>
+  <study_first_submitted>February 14, 2018</study_first_submitted>
+  <study_first_submitted_qc>March 7, 2018</study_first_submitted_qc>
+  <study_first_posted type="Actual">March 9, 2018</study_first_posted>
+  <last_update_submitted>May 31, 2022</last_update_submitted>
+  <last_update_submitted_qc>May 31, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 1, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchiectasis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,116 @@
+,id,intervention_type,intervention_name,description
+0,NCT00484263,Drug,Hypertonic saline 6% -,Hypertonic saline (6%) - 5mls twice a day via a nebuliser for 12 months
+1,NCT00728715,Drug,budesonide-formoterol single inhaler,"High dose budesonide:Budesonide (Pulmocort turbuhaler) 400 mcg (2 inhalations bid) Medium dose budesonide plus formoterol (Rilast turbuhaler) 4,5 mcg of formoterol plus 400 mcg of budesonide: 2 inhalations bid"
+2,NCT00728715,Drug,High dose of budesonide,1600 mcg/d of budesonide
+3,NCT00728715,Drug,A,medium dose of budesonide-formoterol
+4,NCT00728715,Drug,B,High Dose Inhaled Budesonide
+5,NCT00749866,Drug,Gentamicin,Nebulised 80mg twice daily
+6,NCT00749866,Drug,Saline,Nebulised 4mls 0.9% Saline twice daily
+7,NCT00816309,Device,Acapella Physiotherapy,twice daily- around 20 minutes
+8,NCT00868075,Procedure,Chest physiotherapy,Twice daily for 8 weeks
+9,NCT00868075,Procedure,Chest Physiotherapy + Exercise Program,Twice daily chest physiotherapy and Three times weekly exercise program (two sessions supervised)for 8 weeks
+10,NCT00885521,Other,Exercise,"8 week, twice weekly exercise program with endurance and upper and lower limb strength training"
+11,NCT00889967,Drug,Ciprofloxacin for Inhalation,100 mg once daily by inhalation for 28 days
+12,NCT00889967,Drug,Ciprofloxacin for Inhalation,150 mg once daily by inhalation for 28 days
+13,NCT00889967,Drug,Placebo,Placebo once daily by inhalation for 28 days
+14,NCT00930982,Drug,"Ciprofloxacin (Cipro, BAYQ3939)","Inhalation of 32,5mg Ciprofloxacin inhaled twice a day"
+15,NCT00930982,Drug,Placebo,Inhalation of matching placebo twice a day
+16,NCT01299181,Drug,Atorvastatin,80mg once daily orally
+17,NCT01299194,Drug,ATORVASTATIN,80mg once daily for 3 months
+18,NCT01313624,Drug,AZLI,AZLI 75 mg reconstituted with diluent and administered via nebulizer three times daily
+19,NCT01313624,Drug,Placebo,Placebo to match AZLI administered via nebulizer three times daily
+20,NCT01314716,Drug,AZLI,AZLI 75 mg reconstituted with diluent and administered via nebulizer three times daily
+21,NCT01314716,Drug,Placebo,Placebo to match AZLI administered via nebulizer three times daily
+22,NCT01463371,Drug,Azithromycin,250 mg three times a week during three months
+23,NCT01515007,Drug,Ciprofloxacin dispersion for inhalation,
+24,NCT01515007,Drug,Placebo,
+25,NCT01684683,Drug,Theophylline,Theophylline 0.1 bid
+26,NCT01684683,Drug,Placebo(for Theophylline),Starch tablet manufactured to Theophylline 100mg (Theophylline Stained-Release Tablet)
+27,NCT01764841,Drug,Ciprofloxacin DPI (BAYQ3939),Participants received 32.5 mg ciprofloxacin hydrated (corresponding to 50 mg dry powder) administered BID (every 12 hours) using T-326 powder inhaler device.
+28,NCT01764841,Drug,Placebo,Participants received placebo matched to ciprofloxacin 32.5 mg powder (containing 40 mg dry powder) administered BID (every 12 hours) using T-326 powder inhaler device.
+29,NCT01818544,Drug,BAY85-8501,"BAY85-8501 (1.0 mg, 2 tablets each 0.5 mg) will be administered orally once daily in the morning"
+30,NCT01818544,Drug,Placebo,"Placebo (1.0 mg, 2 tablets each 0.5 mg) will be administered orally once daily in the morning"
+31,NCT01854788,Other,Autogenic drainage,It was performed following J. Chevallier recommendations.In this trial it was considered a self-administrated technique because physiotherapist only gave oral advice in order to ensure a correct performance of the technique.
+32,NCT01854788,Other,Slow expiration with glottis opened in lateral posture,It was performed following Postiaux´s recommendations. In this trial the technique was considered active-assisted because the physiotherapy played a role important in their execution.
+33,NCT01854788,Other,Temporary-positive expiratory pressure,The diaphragmatic breathing was required for this technique whereas patients remain seated in front of the device with a nose clip. The inspiratory /expiratory ratio was 1:2.It was taken into account as a device-administrated technique for this trial.
+34,NCT02035488,Drug,Tobramycin,"Tobramycin dry powder 30 mg inhalation per dose; Dose escalation: 30-60-120 and 240 mg, each one time. One dose per week."
+35,NCT02081963,Drug,Amikacin,Nebulized 0.2g of amikacin and 2 mL of normal saline twice a day for 14 days in combination with standard treatment.
+36,NCT02081963,Drug,Normal saline,Nebulized 3 mL of normal saline twice a day for 14 days in combination with standard treatment.
+37,NCT02088216,Drug,N-acetylcysteine,600mg po twice a day for 12 months
+38,NCT02088216,Other,On-demand treatment,receive as-needed therapy
+39,NCT02096315,Drug,POL7080,Intravenous infusion
+40,NCT02104245,Drug,Ciprofloxacin dispersion for inhalation,
+41,NCT02104245,Drug,Placebo,
+42,NCT02106832,Drug,Ciprofloxacin (BAYQ3939) dry powder for inhalation,Ciprofloxacin dry powder for inhalation (DPI) 32.5 mg inhaled twice daily in cycles of 28 days on-treatment and 28 days off-treatment.
+43,NCT02106832,Drug,Ciprofloxacin (BAYQ3939) dry powder for inhalation,Ciprofloxacin DPI 32.5 mg inhaled twice daily in cycles of 14 days on-treatment and 14 days off-treatment.
+44,NCT02106832,Drug,Placebo,Matching placebo inhaled twice daily intermittently for 28 days on / 28 days off
+45,NCT02106832,Drug,Placebo,Matching placebo inhaled twice daily intermittently for 14 days on / 14 days off
+46,NCT02163642,Device,Cyranose® 320,Detection of patterns of specific Volatile Organic Compounds in exhaled air
+47,NCT02324855,Other,Chest physiotherapy plus usual care,"Subjects will perform daily chest physiotherapy during at least 30 minutes. Patients will perform a slow expiratory airway clearance technique combined with positive expiratory pressure device (Acapella device, Murray et al.) Each patient will receive 12 supervised professional sessions (once a month)."
+48,NCT02392663,Other,Hypertonic saline solution,"All patients will perform 4 sessions during the same week. Each session will be include: inhalation period + bronchial drainage period. 20 minutes will be spent to perform the inhalation period. Moreover, 30 minutes will be spent to complete the bronchial drainage session post-inhalation."
+49,NCT02392663,Other,Hyaneb solution,"All patients will perform 4 sessions during the same week. Each session will be include: inhalation period + bronchial drainage period. 20 minutes will be spent to perform the inhalation period. Moreover, 30 minutes will be spent to complete the bronchial drainage session post-inhalation."
+50,NCT02392663,Other,Isotonic saline solution,"All patients will perform 4 sessions during the same week. Each session will be include: inhalation period + bronchial drainage period. 20 minutes will be spent to perform the inhalation period. Moreover, 30 minutes will be spent to complete the bronchial drainage session post-inhalation."
+51,NCT02411981,Other,Autogenic drainage,
+52,NCT02507843,Drug,Cholecalciferol,Oral Cholecalciferol(100000 IU) will be administered in Vitamin D group monthly for 6 months.
+53,NCT02507843,Drug,Placebo,Placebo will be administered in placebo group monthly for 6 months.
+54,NCT02531984,Drug,Azithromycin,
+55,NCT02563197,Device,T-326 Inhaler,"No drug dosing,three test inhalations through the inhaler device filled with an empty capsule."
+56,NCT02614300,Other,Pulmonary Rehabilitation and Chest Physiotherapy,The patient will come 3 times per week during 12 weeks Each session 1h15min
+57,NCT02614300,Other,Pulmonary Rehabilitation,The patient will come 3 times per week during 12 weeks Each session 45min
+58,NCT02614300,Other,Chest Physiotherapy,The patient will come 3 times per week during 12 weeks Each session 30min
+59,NCT02625246,Biological,hMSCs,intravenous infusion of bone marrow-derived allogeneic stem cells
+60,NCT02657473,Drug,tobramycin inhalation solution,
+61,NCT02657473,Drug,Saline 0.9% inhalation solution,
+62,NCT02661438,Drug,Placebo to Ciprofloxacin DPI (BAYQ3939),"Placebo to Ciprofloxacin DPI, 3 doses during test session, 1 additional dose for patients during device training"
+63,NCT02712983,Drug,TIP,TIP dose regimen
+64,NCT02712983,Drug,TIP and placebo,TIP and inhaled placebo dose regimen
+65,NCT02712983,Drug,Placebo,Inhaled placebo dose regimen
+66,NCT02782312,Drug,ICS+LABA,Seretide is inhaled for one year
+67,NCT02782312,Other,routine therapy,routine therapy for one year
+68,NCT02823587,Other,Pulmonary Rehabilitation,"The exercise program will consist of an individual exercise prescription on the treadmill or bike, the initial intensity of 85% VO2max and active exercises or active-resistance for upper and lower limbs according to the capacity of each volunteer."
+69,NCT02823587,Other,Control,"No supervised exercise session, only will be informed at the beginning of the study to perform thirty minutes of physical activity of moderate intensity several days a week is associated with health benefits"
+70,NCT02883101,Behavioral,Pulmonary Rehabilitation,"The Rehabilitation Programme will include the following :
+i. Patient education ii. Exercise training iii. Ventilator and breathing exercises"
+71,NCT03056326,Drug,CHF6333 (Part 1 - SAD),Single doses of CHF6333 at each period
+72,NCT03056326,Drug,Placebo (Part 1 - SAD),Single doses of placebo matching CHF6333 at each period
+73,NCT03056326,Drug,CHF6333 (Part 2 - MAD),once daily multiple doses of CHF6333 for 14 days
+74,NCT03056326,Drug,Placebo (Part 2 - MAD),once daily multiple doses of placebo matching CHF6333 for 14 days
+75,NCT03093974,Drug,Colistimethate Sodium,1 M units equivalent to 80 mg colistimethate sodium diluted in 1 mL saline solution 0.45%
+76,NCT03093974,Drug,Saline Solution,1 ml saline solution 0.45%
+77,NCT03218917,Drug,INS1007 10 mg oral tablet,Administered once per day for 24 weeks
+78,NCT03218917,Drug,INS1007 25 mg oral tablet,Administered once per day for 24 weeks
+79,NCT03218917,Drug,Placebo Oral Tablet,Administered once per day for 24 weeks
+80,NCT03428334,Drug,Oral roflumilast,"Roflumilast, a phosphodiesterase 4 (PDE4) inhibitor is approved worldwide (including Hong Kong) for treatment of severe chronic obstructive pulmonary disease (COPD) with frequent exacerbations. Roflumilast has been shown to have anti-inflammatory effect in patients with COPD, with significant reduction of sputum absolute neutrophil count, IL-8 and neutrophil elastase compared with placebo treatment. Roflumilast can also improve the lung function parameters in patients with COPD and reduce the rate of moderate-to-severe exacerbations."
+81,NCT03460704,Drug,Colistimethate sodium,Inhaled colistimethate sodium twice daily
+82,NCT03460704,Drug,Saline Solution,Inhaled placebo twice daily
+83,NCT03818646,Diagnostic Test,Functional Respiratory Imaging,Functional Respiratory Imaging (FRI) is a novel image based functional diagnostic tool that combines high-resolution CT scans (HRCT) at TLC and FRC with flow simulations (computational fluid dynamics - CFD) providing a 3D visualization and quantification of lung structure and function.
+84,NCT03988816,Drug,Roflumilast,"500Mcg Tab, once daily"
+85,NCT03988816,Drug,Placebo oral tablet,once daily
+86,NCT04010799,Drug,CHF 6333,CHF 6333 - Part I - SAD CHF 6333 - Part II - MD
+87,NCT04010799,Drug,Placebo,Placebo - Part I - SAD Placebo Part II - MAD
+88,NCT04017312,Device,High Frequency Chest Wall Oscillation,"High frequency chest wall oscillation (HFCWO) therapy (also known as high-frequency chest-wall compression or HFCWC) is commonly prescribed to provide routine airway clearance in patients with bronchiectasis as well as other patients with a need for regular airway clearance therapy. HFCWO generates high velocity expiratory airflow. This airflow is thought to mobilize secretions by the sheer force created, effecting changes in rheology and moving mucus in a cephalad direction during the oscillation. The Vest® Airway Clearance System, a commonly used device, generates HFCWO using an air pulse generator and an inflatable garment that delivers pressure pulses to the thorax. These pressure pulses within the garment create HFCWO."
+89,NCT04017312,Device,Oscillating Positive Expiratory Pressure (OPEP),"Oscillating PEP is an airway clearance technique, where the person blows all the way out many times through a device. These types of oscillating PEP devices work in two ways. Firstly, they use resistance to make it more difficult during the breath out, like non-oscillating PEP devices. Oscillating PEP devices also create vibrations when breathing out. The vibrations move mucus from the surface of the airways. After blowing through the device several times, the person will huff and cough to clear the mucus from the lungs."
+90,NCT04090294,Drug,Roflumilast,"Roflumilast is a phosphodiesterase (PDE) type 4 inhibitor will be prescribed for three month for the study group. the patients will then be assessed for improvement regarding exacerbation frequency , performance and pulmonary function test.
+patients will receive Roflumilast 500 Mcg. Tablet once daily for three months"
+91,NCT04122547,Drug,Roflumilast,Active drug
+92,NCT04122547,Drug,Placebo,Placebo one tablet oral od
+93,NCT04170114,Other,Comprehensive Respiratory Physiotherapy,"All patients will receive comprehensive respiratory physiotherapy training by the physiotherapist. All patients will undergo comprehensive respiratory physiotherapy techniques twice daily for 8 weeks.
+Comprehensive respiratory physiotherapy programme will include diaphragmatic breathing exercise, thoracic expansion exercises, incentive spirometer exercise (Triflo), oscillatory PEP (Flutter), postural drainage, coughing techniques and teaching respiratory control."
+94,NCT04278040,Drug,Melphalan,Inhalations with low doses of Melphalan for 5 consequent days
+95,NCT04322929,Drug,Roflumilast Oral Tablet,"Roflumilast, a phosphodiesterase 4 (PDE4) inhibitor is approved worldwide (including Hong Kong) for treatment of severe chronic obstructive pulmonary disease (COPD) with frequent exacerbations. Roflumilast has been shown to have anti-inflammatory effect in patients with COPD, with significant reduction of sputum absolute neutrophil count, IL-8 and neutrophil elastase compared with placebo treatment. Roflumilast can also improve the lung function parameters in patients with COPD and reduce the rate of moderate-to-severe exacerbations."
+96,NCT04509661,Drug,LABA/LAMA or Placebo inhalation,Inhaled LABA/LAMA for one year.
+97,NCT04594369,Drug,Brensocatib 10 mg,Oral tablet.
+98,NCT04594369,Drug,Brensocatib 25 mg,Oral tablet.
+99,NCT04594369,Drug,Placebo,Brensocatib-matching oral tablet.
+100,NCT04643587,Biological,CSL787,Human plasma-derived polyvalent immunoglobulin G (IgG) administered via inhalation of an aerosol produced using a nebulizer
+101,NCT04643587,Drug,Placebo,Normal saline (0.9% NaCl)
+102,NCT04656275,Drug,BI 1323495,BI 1323495
+103,NCT04656275,Drug,Placebo,Placebo
+104,NCT04658277,Drug,Clarithromycin,Patients in the intervention arm will take Clarithromycin 250mg daily.
+105,NCT04658277,Other,Usual care,Patients will receive usual medical care
+106,NCT04884308,Biological,BCG TICE Vaccine,Intradermal vaccination with BCG TICE
+107,NCT05006573,Biological,Benralizumab,"Benralizumab active solution in a single accessorized prefilled syringe (APFS) will be administered subcutaneously (SC), 1 mL fill volume"
+108,NCT05006573,Biological,Placebo to Benralizumab,"Matching placebo solution in a single accessorized prefilled syringe (APFS) will be administered subcutaneously (SC), 1 mL fill volume"
+109,NCT05344508,Drug,Brensocatib,Brensocatib tablets
+110,NCT05369624,Other,Pulmonary rehabilitation home-based program intervention group (PRHP)(IG),"The strength training program included upper and lower limb exercises, initially with no weights but progressively adding weights once a week depending on symptoms, in 2 sets with 6-8 repetitions, for at least 5 days a week. The exercises recommended were the 'hanger' (which exercises the latissimus dorsi muscle), 'butterfly' (pectoralis major muscle), 'neck press' (triceps brachii and deltoids), leg flexion (biceps femoris and gastrocnemius) and leg extension (quadriceps femoris).
+As resistance training, patients could choose between walking or cycling 3 to 5 days per week, for at least 20 minutes, increasing the duration of the exercise weekly, depending on their symptoms"

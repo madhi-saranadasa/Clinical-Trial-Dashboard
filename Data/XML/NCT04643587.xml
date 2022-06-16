@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="11">
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on June 14, 2022</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT04643587</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CSL787_1001</org_study_id>
+    <secondary_id>2020-002684-66</secondary_id>
+    <nct_id>NCT04643587</nct_id>
+  </id_info>
+  <brief_title>Study to Assess CSL787 in Non-cystic Fibrosis Bronchiectasis (NCFB)</brief_title>
+  <official_title>A Phase 1, Multicenter, Randomized, Double-Blind, Placebo-Controlled, Single and Multiple Ascending Dose Study to Investigate the Safety, Tolerability, Pharmacokinetics, Pharmacodynamics and Exploratory Efficacy of Nebulized CSL787 in Healthy Subjects and Subjects With Non-Cystic Fibrosis Bronchiectasis (NCFB)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>CSL Behring</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>CSL Behring</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is a prospective, multicenter, randomized, double-blind, placebo-controlled study&#xD;
+      to investigate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD) and&#xD;
+      exploratory efficacy of nebulized CSL787 after administrations of single (SAD) ascending&#xD;
+      doses in healthy subjects and multiple (MAD) ascending doses in subjects with NCFB.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">December 7, 2020</start_date>
+  <completion_date type="Anticipated">November 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Prevention</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of subjects with treatment emergent adverse events (TEAEs) - overall, severity and causality</measure>
+    <time_frame>Up to 8 days (healthy volunteers); Up to 21 days (NCFB patients)</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percent of subjects with TEAEs - overall, severity and causality</measure>
+    <time_frame>Up to 8 days (healthy volunteers); Up to 21 days (NCFB patients)</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Maximum concentration (Cmax) of CSL787 in sputum and serum in healthy subjects</measure>
+    <time_frame>Up to 8 days from inhalation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time of maximum concentration (Tmax) of CSL787 in sputum and serum in healthy subjects</measure>
+    <time_frame>Up to 8 days from inhalation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve from time 0 to 24 hours (AUC0-24h) of CSL787 in sputum and serum in healthy subjects</measure>
+    <time_frame>Up to 8 days from inhalation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve from time 0 to last quantifiable time point (AUC0-last) of CSL787 in sputum and serum in healthy subjects</measure>
+    <time_frame>Up to 8 days from inhalation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Area under the concentration-time curve from time 0 extrapolated to infinity (AUC0-inf) of CSL787 in sputum and serum in healthy subjects</measure>
+    <time_frame>Up to 8 days from inhalation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent total clearance of the drug (CL/F) of CSL787 in sputum and serum in healthy subjects</measure>
+    <time_frame>Up to 8 days from inhalation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Apparent volume of distribution during the elimination phase (V/F) of CSL787 in sputum and serum in healthy subjects</measure>
+    <time_frame>Up to 8 days from inhalation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Terminal elimination half-life (T1/2) of CSL787 in sputum and serum in healthy subjects</measure>
+    <time_frame>Up to 8 days from inhalation</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 1, after dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 1, after dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ctrough of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 1, after dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUCtau of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 1, after dosing</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tmax of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ctrough of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AUCtau of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>T1/2 of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CL/F of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>V/F of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Accumulation Ratio (AR) for Cmax of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AR for Ctrough of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>AR for AUCtau of CSL787 in sputum and serum of NCFB subjects</measure>
+    <time_frame>On Day 14, after last dose</time_frame>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">64</enrollment>
+  <condition>Noncystic Fibrosis Bronchiectasis (NCFB)</condition>
+  <arm_group>
+    <arm_group_label>CSL787 (SAD dose 1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhalation by mouth of a nebulized aerosol in healthy subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSL787 (SAD dose 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhalation by mouth of a nebulized aerosol in healthy subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSL787 (SAD dose 3)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhalation by mouth of a nebulized aerosol in healthy subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSL787 (SAD dose 4)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhalation by mouth of a nebulized aerosol in healthy subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSL787 (MAD dose 1)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhalation by mouth of a nebulized aerosol in NCFB subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSL787 (MAD dose 2)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhalation by mouth of a nebulized aerosol in NCFB subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CSL787 (MAD dose 3)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Inhalation by mouth of a nebulized aerosol in NCFB subjects</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Inhalation by mouth of a nebulized aerosol</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>CSL787</intervention_name>
+    <description>Human plasma-derived polyvalent immunoglobulin G (IgG) administered via inhalation of an aerosol produced using a nebulizer</description>
+    <arm_group_label>CSL787 (MAD dose 1)</arm_group_label>
+    <arm_group_label>CSL787 (MAD dose 2)</arm_group_label>
+    <arm_group_label>CSL787 (MAD dose 3)</arm_group_label>
+    <arm_group_label>CSL787 (SAD dose 1)</arm_group_label>
+    <arm_group_label>CSL787 (SAD dose 2)</arm_group_label>
+    <arm_group_label>CSL787 (SAD dose 3)</arm_group_label>
+    <arm_group_label>CSL787 (SAD dose 4)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Normal saline (0.9% NaCl)</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Male or female, aged ≥ 18 years at the time of providing written informed consent&#xD;
+&#xD;
+        For Part A (SAD) Only:&#xD;
+&#xD;
+          -  Healthy and free of medical conditions that could in the opinion of the investigator&#xD;
+             affect's the subject's participation in the study or the interpretation of results.&#xD;
+&#xD;
+        For Part B (MAD) Only:&#xD;
+&#xD;
+          -  Diagnosis of NCFB made by a respiratory physician, confirmed per CT showing bronchial&#xD;
+             wall dilatation with or without bronchial wall thickening, with a FEV1 ≥ 65% of the&#xD;
+             predicted value regarding age, height, gender, ethnicity, and FEV1 ≥ 1.5 L at the&#xD;
+             Screening Visit.&#xD;
+&#xD;
+          -  No antibiotic use for respiratory infection within last 3 months before the Screening&#xD;
+             Visit.&#xD;
+&#xD;
+          -  Presence of one or more of the following bacteria (H. influenzae, P. aeruginosa, M.&#xD;
+             catarrhalis, S. pneumoniae, members of Enterobacterales family or S. aureus) in the&#xD;
+             sputum culture at the Screening Visit.&#xD;
+&#xD;
+          -  Has been fully vaccinated against COVID-19 (as per country recommendations) at least 7&#xD;
+             days prior to Day 1&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Evidence of a clinically significant medical condition, disorder, or disease,&#xD;
+             including but not limited to any of the following: hepatic (hepatitis, cirrhosis);&#xD;
+             biliary; renal; cardiac; bronchopulmonary; vascular; hematologic; gastrointestinal;&#xD;
+             allergy; endocrine / metabolic (diabetes, thyroid disorders, adrenal disease);&#xD;
+             neurologic; psychiatric; immunodeficiency; cancer.&#xD;
+&#xD;
+          -  History of chronic respiratory disease (eg, COPD or bronchiectasis) or current asthma&#xD;
+             with regular treatment including occasional use of an inhaler for exercise induced&#xD;
+             asthma.&#xD;
+&#xD;
+          -  Current moderate-severe allergic disease (eg, allergic rhinitis) with regular&#xD;
+             treatment.&#xD;
+&#xD;
+          -  Diagnosis of cystic fibrosis, mycobacterial disease, connective tissue disease,&#xD;
+             alpha-1 antitrypsin deficiency or asthma as underlying disease for bronchiectasis.&#xD;
+&#xD;
+          -  Inhaled therapy or oral corticosteroid 28 days before the Screening Visit until EOS&#xD;
+             Visit. Use of long acting bronchodilators (long acting muscarinic antagonists (LAMA)&#xD;
+             and / or long acting beta2 agonists (LABA) that have been at a stable dose for at&#xD;
+             least 3 months before the Screening Visit is permitted; inhalation with hypertonic&#xD;
+             saline solution is permitted up to and including Day -1.&#xD;
+&#xD;
+          -  Any systemic antibiotic for acute exacerbation within 3 months before the Screening&#xD;
+             Visit until EOS Visit.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Study Director</last_name>
+    <role>Study Director</role>
+    <affiliation>CSL Behring</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Trial Registration Coordinator</last_name>
+    <phone>610-878-4000</phone>
+    <email>clinicaltrials@cslbehring.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Medicines Evaluation Unit (MEU)</name>
+      <address>
+        <city>Manchester</city>
+        <state>England</state>
+        <zip>M23 9QZ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Celerion</name>
+      <address>
+        <city>Belfast</city>
+        <state>Northern Ireland</state>
+        <zip>BT9 6AD</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>June 2022</verification_date>
+  <study_first_submitted>November 19, 2020</study_first_submitted>
+  <study_first_submitted_qc>November 19, 2020</study_first_submitted_qc>
+  <study_first_posted type="Actual">November 25, 2020</study_first_posted>
+  <last_update_submitted>June 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>June 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bronchiectasis</mesh_term>
+    <mesh_term>Fibrosis</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>CSL will consider requests to share Individual Patient Data (IPD) from systematic review groups or bona-fide researchers. For information on the process and requirements for submitting a voluntary data sharing request for IPD, please contact CSL at clinicaltrials@cslbehring.com.&#xD;
+Applicable country specific privacy and other laws and regulations will be considered and may prevent sharing of IPD.&#xD;
+If the request is approved and the researcher has executed an appropriate data sharing agreement, IPD that has been appropriately anonymized will be available.</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>IPD requests may be submitted to CSL no earlier than 12 months after publication of the results of this study via an article made available on a public website.</ipd_time_frame>
+    <ipd_access_criteria>Requests may only be made by systematic review groups or bona-fide researchers whose proposed use of the IPD is non-commercial in nature and has been approved by an internal review committee.&#xD;
+An IPD request will not be considered by CSL unless the proposed research question seeks to answer a significant and unknown medical science or patient care question as determined by CSL's internal review committee.&#xD;
+The requesting party must execute an appropriate data sharing agreement before IPD will be made available.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
