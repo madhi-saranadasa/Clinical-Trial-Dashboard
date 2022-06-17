@@ -8,24 +8,95 @@ output: html_document
 ```{r}
 
 library(tidyverse)
-library(xml2)
+library(ggmap)
+library(leaflet)
+library(lubridate)
+
+register_google(key = 'AIzaSyCBWs3C3m6xv36WH3ZLYyMigr7jecT5p00')
 
 projectfolder <- dirname(getwd())
+datafolder <- file.path(projectfolder, "Data")
 
 ```
+
+# Load data
 
 ```{r}
 
-gdata_path <- file.path(projectfolder, "Data", "SearchResults.csv")
-gdata <- read_csv(gdata_path)
+filenames <- list.files(datafolder)
+filenames <- filenames[str_detect(filenames, "CTD")]
+filenames <- str_remove(filenames, ".csv")
+
+filepaths <- list.files(datafolder, full.names = TRUE)
+filepaths <- filepaths[str_detect(filepaths, "CTD")]
+
+for (i in 1:length(filepaths)) {
+  temp <- read_csv(filepaths[i])
+  assign(filenames[i], temp)
+}
 
 ```
 
+# Geocode cities (if needed)
+
+```{r}
+
+location_info <- CTD_Location %>%
+  mutate(locstring = paste(city, state, country)) %>%
+  mutate(combined = str_remove(locstring, "NA")) 
+
+#CTD_LocationAdded <- mutate_geocode(location_info, locstring)
+
+CTD_LocationAdded <- CTD_LocationAdded %>%
+  select(id, city, state, country, lon, lat)
+
+datafolder <- file.path(projectfolder, "Data", "CTD_LocationAdded.csv")
+write_csv(CTD_LocationAdded, datafolder)
+
+```
+
+# Clean up CTD_Details 
+
+```{r}
+
+date_vars <- c("start_date",
+               "completion_date",
+               "primary_completion_date")
+
+convertDate <- function(x) {
+  temp = case_when(str_detect(x, ",") ~ x,
+                   !is.na(x) ~ paste0(word(x, 1), " 1, ", word(x, 2)))
+  
+  temp = mdy(temp)
+}
+
+CTD_Details[date_vars] <- lapply(CTD_Details[date_vars], convertDate)
+
+CTD_DetailsClean <- CTD_Details
+
+datapath <- file.path(projectfolder, "Data", "CTD_DetailsClean.csv")
+write_csv(CTD_DetailsClean, datapath)
+
+```
 
 
 ```{r}
 
-gdata_path <- file.path(projectfolder, "Data", "XML", "NCT00484263.xml")
-driver_data = read_xml(gdata_path)
+test <- CTD_Details %>% 
+  filter(year(start_date) == 2009)
 
 ```
+
+# Leaflet
+
+```{r}
+
+m <- leaflet() %>%
+  addTiles() %>%
+  addMarkers(data = CTD_LocationAdded, ~lon, ~lat)
+
+m
+
+
+```
+
