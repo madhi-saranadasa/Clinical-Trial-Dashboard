@@ -11,6 +11,8 @@ library(tidyverse)
 library(ggmap)
 library(leaflet)
 library(lubridate)
+library(htmltools)
+library(RColorBrewer)
 
 register_google(key = 'AIzaSyCBWs3C3m6xv36WH3ZLYyMigr7jecT5p00')
 
@@ -37,7 +39,7 @@ for (i in 1:length(filepaths)) {
 
 ```
 
-# Geocode cities (if needed)
+# CTD_LocationAdded: Geocode cities (if needed)
 
 ```{r}
 
@@ -48,14 +50,15 @@ location_info <- CTD_Location %>%
 #CTD_LocationAdded <- mutate_geocode(location_info, locstring)
 
 CTD_LocationAdded <- CTD_LocationAdded %>%
-  select(id, city, state, country, lon, lat)
+  mutate(markerID = row_number()) %>%
+  select(markerID, id, city, state, country, lon, lat)
 
 datafolder <- file.path(projectfolder, "Data", "CTD_LocationAdded.csv")
 write_csv(CTD_LocationAdded, datafolder)
 
 ```
 
-# Clean up CTD_Details 
+# CTD_DetailsClaim: Clean up CTD_Details 
 
 ```{r}
 
@@ -79,24 +82,34 @@ write_csv(CTD_DetailsClean, datapath)
 
 ```
 
+# Add more context to locations
 
 ```{r}
 
-test <- CTD_Details %>% 
-  filter(year(start_date) == 2009)
+markercolors <- c('red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'purple', 'darkpurple', 'cadetblue')
 
+study_list <- CTD_DetailsClean %>%
+      filter(year(start_date) == 2014) %>%
+      distinct(id)
+    
+if(nrow(study_list) == 0) {
+  
+  locations <- CTD_LocationAdded %>%
+    inner_join(study_list, by = "id") %>%
+    mutate(label = paste0(id))
+} else {
+  
+  idmapping <- tibble(id = study_list$id,
+                      color = brewer.pal(length(study_list$id), "Paired"))
+  
+  locations <- CTD_LocationAdded %>%
+    inner_join(study_list, by = "id") %>%
+    inner_join(idmapping, by = "id") %>%
+    mutate(label = paste0(id))
+  
+}
+
+locations
 ```
 
-# Leaflet
-
-```{r}
-
-m <- leaflet() %>%
-  addTiles() %>%
-  addMarkers(data = CTD_LocationAdded, ~lon, ~lat)
-
-m
-
-
-```
 
