@@ -49,7 +49,7 @@ ui <- fluidPage(
     ),
     
     mainPanel(
-      tableOutput(outputId = "stats")
+      fluidRow(p(textOutput(outputId = "rightside")))
     )
   )
 
@@ -57,29 +57,9 @@ ui <- fluidPage(
   
 
 server <- function(input, output) {
-
-  icons <- awesomeIcons(
-    icon = 'ios-close',
-    iconColor = 'black',
-    library = 'ion',
-    markerColor = "green"
-  )
   
-  # --- reactive expression for year selection ---
-  filterForMap <- reactive({
-
-    study_list <- CTD_DetailsClean %>%
-      filter(year(start_date) == input$year) %>%
-      distinct(id) 
-    
-    locations <- CTD_LocationAdded %>%
-      inner_join(study_list, by = "id") %>%
-      mutate(label = paste0(id))
-    
-  })
-  
-  # --- reactive expression for map ---
-  mapProcessing <- reactive({
+  # ----- observe for map updating -----
+  observe({
     
     study_list <- CTD_DetailsClean %>%
       filter(year(start_date) == input$year) %>%
@@ -102,16 +82,6 @@ server <- function(input, output) {
       
     }
     
-    locations
-    
-  })
-  
-  
-  # --- observe for map updating ---
-  observe({
-    
-    locations <- mapProcessing()
-    
     icons2 <- awesomeIcons(
       icon = 'home',
       iconColor = 'white',
@@ -132,26 +102,30 @@ server <- function(input, output) {
   })
   
   
-  # --- observe for map clicking ---
-  observe({
-      click<-input$mymap_marker_click
-      if(is.null(click))
-        return()
-      
-      text2<-paste("You've selected point ", click$id)
-      print(text2)
-    })
+  # ----- reactive to fetch study details on click -----
+  onClickGetStudy <- reactive({
+    click<-input$mymap_marker_click
     
+    if(is.null(click))
+      return()
+    
+    study <- CTD_LocationAdded %>%
+      filter(markerID == click$id) %>%
+      distinct(id) %>%
+      inner_join(CTD_DetailsClean, by = "id")
+  })
   
-  # --- render table ---
-  output$stats <- renderTable({
+  
+  # ----- render right side -----
+  output$rightside <- renderText({
     
-    locations <- filterForMap()
+    study <- onClickGetStudy()
+    text<-study$title
     
   })
   
   
-  # --- render the base map ---
+  # ----- render the base map -----
   output$mymap <- renderLeaflet({
     
     basemap <- leaflet() %>%
