@@ -110,6 +110,11 @@ if(nrow(study_list) == 0) {
 }
 
 locations
+
+test <- CTD_DetailsClean %>%
+  mutate(year = year(start_date)) %>%
+  group_by(year) %>%
+  summarise(n = n())
 ```
 
 

@@ -10,7 +10,8 @@ markercolors <- c('red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'pur
 projectfolder <- dirname(getwd())
 
 datapath <- file.path(projectfolder, "Data", "CTD_DetailsClean.csv")
-CTD_DetailsClean <- read_csv(datapath)
+CTD_DetailsClean <- read_csv(datapath) %>%
+  filter()
 
 datapath <- file.path(projectfolder, "Data", "CTD_LocationAdded.csv")
 CTD_LocationAdded <- read_csv(datapath) 
@@ -28,31 +29,40 @@ ui <- fluidPage(
     
   splitLayout(
     
-    wellPanel(
+    wellPanel(width = 8,
       
       fluidRow(
-        p("Scrub through years and select trial of interest:"
-        )
+        p("Scrub through years and select trial of interest:")
       ),
       
       fluidRow(
-        column(12, 
+        column(width = 12, 
                sliderInput(inputId = "year", label = "Year:",
                            min = 2000, max = 2022, step = 1, value = 2000, width = "100vh", sep = "", animate = TRUE)
                )
       ),
       fluidRow(
-        column(12,
+        column(width = 12,
                leafletOutput(outputId = "mymap", height="70vh", width = "90vh")
                )
       )
     ),
     
-    mainPanel(
-      fluidRow(p(textOutput(outputId = "rightside")))
+    mainPanel(width = 12, 
+      fluidRow(
+        column(width = 12, align = "center", 
+               textOutput(outputId = "rightside")
+        )
+      ),
+      
+      fluidRow(align = "center",
+        column(width = 8, align = "center",
+               leafletOutput(outputId = "studymap"))
+      )
     )
+    
+    
   )
-
 )
   
 
@@ -127,6 +137,17 @@ server <- function(input, output) {
   
   # ----- render the base map -----
   output$mymap <- renderLeaflet({
+    
+    basemap <- leaflet() %>%
+      addTiles() %>%
+      setView(-96, 37.8, 4) 
+    
+    basemap
+    
+  })
+  
+  # ----- render the study map -----
+  output$studymap <- renderLeaflet({
     
     basemap <- leaflet() %>%
       addTiles() %>%
