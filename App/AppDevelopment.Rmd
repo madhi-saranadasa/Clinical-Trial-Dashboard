@@ -117,4 +117,15 @@ test <- CTD_DetailsClean %>%
   summarise(n = n())
 ```
 
+```{r}
+
+ggplot() +
+  geom_line(data = test,
+            aes(x = year,
+                y = n)) +
+  scale_y_continuous(limits = c(0, NA))
+
+
+
+```
 

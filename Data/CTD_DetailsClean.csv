@@ -1,69 +1,783 @@
-...1,id,agency,allocation,title,status,PI,phase,study_type,primary_outcome_measure,acronym,start_date,completion_date,primary_completion_date,gender,minimum_age,maximum_age,number_of_arms,enrollment
-0,NCT00484263,The Alfred,Randomized,The Long Term Effect of Inhaled Hypertonic Saline (6%) in Patients With Non Cystic Fibrosis Bronchiectasis,Completed,NA,Phase 3,Interventional,Number of pulmonary exacerbations,NA,2007-12-01,2009-10-01,2009-10-01,All,18 Years,N/A,1,40
-1,NCT00728715,Hospital General de Requena,Randomized,Efficacy of Budesonide-Formoterol in Bronchiectasis,Completed,NA,N/A,Interventional,Health related quality of life (measured by St Gorge Respiratory Questionnaire),NA,2004-01-01,2005-01-01,2005-01-01,All,18 Years,80 Years,2,40
-2,NCT00749866,University of Edinburgh,Randomized,Long Term Nebulised Gentamicin in Patients With Bronchiectasis,Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,Reduction in bacterial load,NA,2007-05-01,2009-08-01,2009-08-01,All,18 Years,70 Years,2,60
-3,NCT00816309,NHS Lothian,Randomized,"Is Regular Chest Physiotherapy an Effective Treatment in Severe, Non Cystic Fibrosis Bronchiectasis?",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,24 hour sputum volume and assessment of cough severity (Leicester Cough Questionnaire),NA,2007-10-01,2009-03-01,2008-12-01,All,60 Years,85 Years,2,20
-4,NCT00868075,NHS Lothian,Randomized,Pulmonary Rehabilitation in Non Cystic Fibrosis Bronchiectasis,Completed,"Adam T Hill, MD, FRCPE",Phase 4,Interventional,The primary endpoint of this study is improvement in exercise tolerance from an incremental walk test.,NA,2009-03-01,2011-08-01,2011-08-01,All,18 Years,75 Years,2,27
-5,NCT00885521,Bayside Health,Randomized,Exercise Training in Patients With Non-cystic Fibrosis (CF) Bronchiectasis,Completed,"Annemarie L Lee, PhD",Phase 1,Interventional,Incremental Shuttle Walk Test Chronic Respiratory Disease questionnaire,NA,2009-02-01,2013-02-01,2013-02-01,All,20 Years,80 Years,2,39
-6,NCT00889967,Aradigm Corporation,Randomized,"Safety and Efficacy Study of Ciprofloxacin for Inhalation in Patients With Non-Cystic Fibrosis Bronchiectasis ""ORBIT-1""",Completed,"Paul Bruinenberg, MBChB, MBA",Phase 2,Interventional,The primary efficacy endpoint is defined as the mean change in P. aeruginosa density in sputum (log10) CFU/gram of sputum from Baseline to Day 28.,NA,2010-02-01,2011-06-01,2011-04-01,All,18 Years,80 Years,3,95
-7,NCT00930982,Bayer,Randomized,Evaluation of Cipro Inhale in Patients With Non-cystic Fibrosis Bronchiectasis,Completed,Bayer Study Director,Phase 2,Interventional,Change From Baseline in Total Bacterial Load in the Sputum at End of Treatment (Day 29).,NA,2009-06-01,2010-09-01,2010-09-01,All,18 Years,N/A,2,124
-8,NCT01299181,University of Edinburgh,Randomized,A Trial of Atorvastatin as an Anti-Inflammatory Agent in Non-Cystic Fibrosis Bronchiectasis,Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,The primary endpoint of this study is a reduction in cough at 6 months compared to baseline as measured by the Leicester Cough Questionnaire score.,NA,2010-11-01,2013-08-01,2013-08-01,All,18 Years,75 Years,2,60
-9,NCT01299194,University of Edinburgh,Randomized,Atorvastatin in Bronchiectasis in Patients With Pseudomonas Aeruginosa,Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,The primary endpoint of this study is a reduction in cough at 3 months compared to baseline as measured by the Leicester Cough Questionnaire score.,NA,2010-11-01,2017-05-01,2015-06-01,All,18 Years,80 Years,2,32
-10,NCT01313624,Gilead Sciences,Randomized,Safety and Effectiveness of AZLI (an Inhaled Antibiotic) in Adults With Non-Cystic Fibrosis Bronchiectasis,Completed,"Alan Barker, MD",Phase 3,Interventional,Change in QOL-B Respiratory Symptoms Score at Day 28,AIR-BX1,2011-04-01,2013-06-01,2013-03-01,All,18 Years,N/A,2,266
-11,NCT01314716,Gilead Sciences,Randomized,Safety and Effectiveness of AZLI (an Inhaled Antibiotic) in Adults With Non-Cystic Fibrosis Bronchiectasis,Completed,"Anne O'Donnell, MD",Phase 3,Interventional,Change in QOL-B Respiratory Symptoms Score at Day 28,AIR-BX2,2011-04-01,2013-07-01,2013-04-01,All,18 Years,N/A,2,274
-12,NCT01463371,Instituto de Investigacion Sanitaria La Fe,Randomized,Effects of Azithromycin on Airway Oxidative Stress Markers in Patients With Bronchiectasis,Completed,"Alfredo De Diego Damia, MD",N/A,Interventional,"Changes in Nitric oxide,8-isoprostane, pH, nitrites (NO2) and nitrates(NO3) in exhaled breath condensate.",NA,2006-10-01,2007-09-01,2007-04-01,All,16 Years,80 Years,2,30
-13,NCT01515007,Aradigm Corporation,Randomized,Phase 3 Study With Ciprofloxacin Dispersion for Inhalation in Non-CF Bronchiectasis (ORBIT-3),Completed,NA,Phase 3,Interventional,Time to first exacerbation,NA,2014-03-31,2016-10-01,2016-08-17,All,18 Years,N/A,2,278
-14,NCT01684683,The First Affiliated Hospital of Guangzhou Medical University,Randomized,The Effect of Theophylline in the Treatment of Bronchiectasis,Completed,NA,Phase 4,Interventional,Scores of the St.George's Respiratory Questionnaire,NA,2012-11-01,2014-09-01,2014-04-01,All,18 Years,70 Years,2,100
-15,NCT01764841,Bayer,Randomized,Ciprofloxacin Dry Powder for Inhalation in Non-cystic Fibrosis Bronchiectasis (Non-CF BE),Completed,Bayer Study Director,Phase 3,Interventional,Time to First Exacerbation Event Within 48 Weeks,RESPIRE 1,2013-05-02,2016-03-09,2016-03-09,All,18 Years,N/A,4,416
-16,NCT01792427,Universitaire Ziekenhuizen Leuven,NA,Mortality in Non-cystic Fibrosis Bronchiectasis,Completed,"Pieter Goeminne, MD",NA,Observational,overall survival,NA,2006-06-01,2012-12-01,2012-10-01,All,18 Years,N/A,NA,253
-17,NCT01792440,Universitaire Ziekenhuizen Leuven,NA,The Sputum Colour Chart as a Predictor of Lung Inflammation and Proteolysis in Non-cystic Fibrosis Bronchiectasis,Completed,"Pieter Goeminne, MD",NA,Observational,Assess predictive value of sputum colour chart to evaluate airway inflammation,NA,2009-09-01,2012-12-01,2010-07-01,All,18 Years,N/A,NA,80
-18,NCT01801657,The First Affiliated Hospital of Guangzhou Medical University,NA,The Role of Viral Infection in Acute Exacerbations of Non-cystic Fibrosis Bronchiectasis in Adults,Unknown status,NA,NA,Observational,The prevalence of respiratory virus infection in adults with bronchiectasis during a pulmonary exacerbation and when clinically stable.,NA,2013-02-01,2014-04-01,2014-04-01,All,18 Years,80 Years,NA,100
-19,NCT01818544,Bayer,Randomized,Safety and Efficacy of Oral BAY85-8501 in Patients With Non-CF (Cystic Fibrosis) Bronchiectasis,Completed,Bayer Study Director,Phase 2,Interventional,NA,NA,2013-04-01,2014-06-01,2014-06-01,All,18 Years,N/A,2,94
-20,NCT01854788,Hospital Clinic of Barcelona,Randomized,3 Airway Clearance Techniques in Non Cystic Fibrosis Bronchiectasis,Completed,NA,N/A,Interventional,NA,NA,2010-09-01,2012-08-01,2012-06-01,All,18 Years,N/A,3,31
-21,NCT01906047,Universitaire Ziekenhuizen Leuven,NA,Impact of Chronic Air Pollution on Non-cystic Fibrosis Bronchiectasis,Completed,NA,NA,Observational [Patient Registry],Death,NA,2006-06-01,2013-04-01,2012-10-01,All,18 Years,65 Years,NA,189
-22,NCT02035488,University Medical Center Groningen,N/A,Pharmacokinetic Evaluation and Tolerability of Dry Powder Tobramycin by a Novel Device in Patients With Non Cystic Fibrosis Bronchiectasis,Completed,"Huib Kerstjens, MD, PhD",Phase 1/Phase 2,Interventional,NA,NA,2013-10-01,2014-12-01,2014-12-01,All,18 Years,N/A,1,8
-23,NCT02081963,Qilu Hospital of Shandong University,Randomized,Combined Administration of Nebulized Amikacin in Patients With Acute Exacerbation of Non-Cystic Fibrosis Bronchiectasis,Completed,"Yu Li, Professor",Phase 4,Interventional,Bacterial Clearance Rate of Sputum,NA,2014-03-01,2016-12-01,2016-03-01,All,18 Years,80 Years,2,178
-24,NCT02088216,Qilu Hospital of Shandong University,Randomized,"Effect of Long-term, High-dose N-acetylcysteine on Exacerbations of Bronchiectaisis",Completed,"Yu Li, Professor",N/A,Interventional,Median Number of Exacerbations,BENE,2014-04-01,2018-03-30,2017-12-01,All,18 Years,80 Years,2,161
-25,NCT02096315,Polyphor Ltd.,N/A,"Safety, Efficacy and PK/PD of POL7080 in Patients With Exacerbation of Non-cystic Fibrosis Bronchiectasis.",Terminated,NA,Phase 2,Interventional,Sputum bacterial clearance,NA,2013-12-01,2015-11-01,2015-11-01,All,18 Years,79 Years,1,20
-26,NCT02104245,Aradigm Corporation,Randomized,Phase 3 Study With Ciprofloxacin Dispersion for Inhalation in Non-CF Bronchiectasis (ORBIT-4),Completed,NA,Phase 3,Interventional,Time to first pulmonary exacerbation (from baseline),NA,2014-05-28,2016-10-01,2016-08-11,All,18 Years,N/A,2,304
-27,NCT02106832,Bayer,Randomized,Ciprofloxacin Dry Powder for Inhalation (DPI) in Non-cystic Fibrosis Bronchiectasis (Non-CF BE),Completed,Bayer Study Director,Phase 3,Interventional,NA,RESPIRE 2,2014-04-30,2016-10-19,2016-09-13,All,18 Years,N/A,4,521
-28,NCT02163642,Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,NA,Role of Innate Immunity in Non-Cystic Fibrosis Bronchiectasis,Unknown status,"Oriol Sibila, MD PhD",NA,Observational,Change from baseline in sputum mucin levels at 12 months,NA,2014-04-01,2018-04-01,2018-04-01,All,18 Years,N/A,NA,50
-29,NCT02324855,Universidad San Jorge,Randomized,Long-term Airway Clearance Therapy in Non-cystic Fibrosis Bronchiectasis,Completed,"Beatriz Herrero, Msc",N/A,Interventional,Cough severity (Auto-administered questionnaire: Leicester Cough Questionnaire),NA,2015-10-01,2020-06-01,2020-06-01,All,18 Years,N/A,2,26
-30,NCT02392663,Hospital Clinic of Barcelona,Randomized,Sputum Clearance Effects of Hypertonic Saline in Non-cystic Fibrosis Bronchiectasis,Completed,"Eva Polverino, Dr.",N/A,Interventional,Wet sputum production,NA,2015-03-01,2016-01-01,2015-12-01,All,18 Years,N/A,3,24
-31,NCT02411981,Cliniques universitaires Saint-Luc- Université Catholique de Louvain,N/A,Effects of Chest Physiotherapy (CPT) on Lung Clearance Index (LCI) in Non Cystic Fibrosis (CF) Bronchiectasis,Completed,NA,N/A,Interventional,Change of Lung Clearance Index (LCI),NA,2015-04-01,2016-02-01,2015-10-01,All,18 Years,N/A,1,24
-32,NCT02507843,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Vitamin D as an Adjunctive Treatment in Patients With Non-Cystic Fibrosis Bronchiectasis,Unknown status,JinFu Xu,Phase 4,Interventional,Time to first acute exacerbation,VIDB,2015-01-01,2017-06-01,2016-12-01,All,18 Years,N/A,2,200
-33,NCT02531984,Assistance Publique Hopitaux De Marseille,Randomized,The Efficacy of Azithromycin in Treating Children With Non Cystic Fibrosis Bronchiectasis,Unknown status,Urielle DESALBRES,Phase 3,Interventional,Time of onset of the first respiratory exacerbation in the two groups of patients: those who continued treatment with azithromycin and those who stopped the treatment,AZI-STOP,2015-08-01,2018-08-01,2017-08-01,All,3 Years,17 Years,2,100
-34,NCT02563197,Bayer,N/A,Inhalation Flow Rate-study,Completed,Bayer Study Director,Phase 1,Interventional,Peak inspiratory flow (L/min),NA,2015-11-23,2016-04-29,2016-02-17,All,18 Years,N/A,1,33
-35,NCT02614300,Hospital Clinic of Barcelona,Randomized,The Role of Pulmonary Rehabilitation and Airways Clearance Techniques in the Multidisciplinary Management of Non CF Bronchiectasis,Unknown status,NA,N/A,Interventional,Change from Baseline Exercise tolerance capacity measured as the distance walked in meters during the shuttle test at constant speed (ESWT) at 12 weeks.,NA,2015-11-01,NA,2017-12-01,All,50 Years,80 Years,4,120
-36,NCT02625246,Marilyn Glassberg,Non-Randomized,Safety and Potential Efficacy of Human Mesenchymal Stem Cells in Non-Cystic Fibrosis Bronchiectasis,Completed,"Glassberg K Marilyn, MD",Phase 1,Interventional,Number of Participant with treatment emergent serious adverse events,CELEB,2016-02-04,2019-05-15,2019-05-15,All,30 Years,87 Years,2,6
-37,NCT02657473,Medical Center Alkmaar,Randomized,Inhaled Nebulized Tobramycin in Non-cystic Fibrosis Bronchiectasis,Completed,"Wim G. Boersma, Dr.MD",Phase 2/Phase 3,Interventional,Number of exacerbations,BATTLE,2016-08-13,2019-12-13,2019-12-13,All,18 Years,N/A,2,58
-38,NCT02661438,Bayer,N/A,Summative Usability Study of Ciprofloxacin Dry Powder for Inhalation Using Placebo,Completed,Bayer Study Director,N/A,Interventional,NA,NA,2016-01-12,2016-03-17,2016-03-17,All,40 Years,N/A,1,46
-39,NCT02712983,Novartis Pharmaceuticals,Randomized,"Dose-finding Study to Assess the Efficacy, Safety and Tolerability of Tobramycin Inhalation Powder in Patients With Non-Cystic Fibrosis Bronchiectasis and Pulmonary P. Aeruginosa Infection",Completed,Novartis Pharma,Phase 2,Interventional,Change From Baseline to Day 29 in Pseudomonas Aeruginosa (P. Aeruginosa) Density in Sputum (log10 CFUs),iBEST-1,2017-02-08,2019-03-20,2019-03-20,All,18 Years,N/A,9,107
-40,NCT02782312,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Salmeterol-Fluticasone Combined Inhaled Therapy for Non-cystic Fibrosis Bronchiectasis,Completed,Jin-Fu Xu,Phase 4,Interventional,NA,NA,2011-06-01,2013-06-01,2012-06-01,All,18 Years,N/A,2,120
-41,NCT02823587,University of Sao Paulo,Randomized,Pulmonary Rehabilitation in Non-Cystic Fibrosis Bronchiectasis,Unknown status,"Ada C Gastaldi, PhD",N/A,Interventional,Mucociliary transport in vivo,NA,2016-07-01,2019-12-01,2018-07-01,All,18 Years,60 Years,4,60
-42,NCT02883101,"All India Institute of Medical Sciences, New Delhi",Randomized,The Effects of Pulmonary Rehabilitation in Patients With Non-cystic Fibrosis Bronchiectasis,Completed,NA,N/A,Interventional,Exercise capacity,NA,2015-06-01,2016-12-01,2016-10-01,All,18 Years,N/A,2,60
-43,NCT03056326,Chiesi Farmaceutici S.p.A.,Randomized,"A Study to Investigate Safety, Tolerability and Pharmacokinetics of Single and Repeat Doses of CHF6333 in Healthy Subjects",Completed,Frédéric Vanhoutte,Phase 1,Interventional,NA,CHF6333 FIH,2016-11-01,2017-07-01,2017-07-01,Male,18 Years,55 Years,2,72
-44,NCT03093974,Zambon SpA,Randomized,Long Term Efficacy and Safety of Inhaled Colistimethate Sodium in Bronchiectasis Subjects With Chronic Pseudomonas Aeruginosa Infection.,Completed,"Dearbhla Hull, MD",Phase 3,Interventional,Annualized Pulmonary Exacerbation rate,PROMIS-I,2017-06-06,2021-04-09,2021-04-09,All,18 Years,N/A,2,377
-45,NCT03147651,Rambam Health Care Campus,NA,Exercise Capacity in Patients With Cystic Fibrosis vs. Non-cystic Fibrosis Bronchiectasis,Unknown status,"Lea Bentur, Prof.",NA,Observational,Oxygen Uptake (VO2),NA,2015-10-01,2017-12-01,2017-09-01,All,7 Years,N/A,NA,119
-46,NCT03218917,Insmed Incorporated,Randomized,Assessment of INS1007 in Subjects With Non-Cystic Fibrosis Bronchiectasis,Completed,"Carlos Fernandez, MD",Phase 2,Interventional,Time to first pulmonary exacerbation,NA,2017-12-01,2019-12-12,2019-12-12,All,18 Years,85 Years,3,256
-47,NCT03428334,The University of Hong Kong,N/A,Roflumilast in Non-CF Bronchiectasis Study,Completed,"James CM Ho, MD",Phase 2,Interventional,sputum leukocyte density,NA,2018-05-10,2019-08-31,2019-08-31,All,18 Years,N/A,1,20
-48,NCT03460704,Zambon SpA,Randomized,Trial in Non-cystic Fibrosis Bronchiectasis Patients With Chronic Lung Infections Treated With Colistimethate Sodium (PROMIS II),Completed,"Dearbhla Hull, MD",Phase 3,Interventional,Annualized Pulmonary Exacerbation rate,NA,2018-01-29,2022-03-15,2022-03-15,All,18 Years,90 Years,2,287
-49,NCT03818646,Papworth Hospital NHS Foundation Trust,NA,Functional Respiratory Imaging in Bronchiectasis,Unknown status,"Ian Smith, MD",NA,Observational,NA,FRIBE,2019-01-01,2019-04-01,2019-04-01,All,18 Years,80 Years,NA,10
-50,NCT03988816,University of Sao Paulo General Hospital,Randomized,"Effect of Roflumilast on Quality of Life, Lung Function and Mucus Properties in Patients With Bronchiectasis",Unknown status,"Rodrigo A Athanazio, MD, PhD",Phase 2,Interventional,Quality of life questionnaire,NA,2019-12-06,2020-12-01,2020-12-01,All,18 Years,N/A,2,30
-51,NCT04010799,Chiesi Farmaceutici S.p.A.,Randomized,"A Clinical Study to Investigate Safety, Tolerability and Distribution of CHF 6333 After One or After Repeated Inhalation in Patients With Cystic Fibrosis (CF) and in Patients With Non Cystic Fibrosis (NCFB) Bronchiectasis",Completed,NA,Phase 1,Interventional,NA,NA,2019-05-27,2021-03-08,2021-03-08,All,18 Years,N/A,2,68
-52,NCT04017312,Hill-Rom,Randomized,A Pilot Study to Evaluate the Use of the Vest® System for Treatment of Bronchiectasis Patients in the Home Setting,Unknown status,"Mark Jennings, MD",N/A,Interventional,Frequency of acute exacerbations of bronchiectasis,NA,2019-08-23,2020-11-01,2020-11-01,All,18 Years,80 Years,2,70
-53,NCT04090294,Assiut University,N/A,Assessment of Early Outcomes of Roflumilast in Patients With Non Cystic Fibrosis Bronchiectasis,Unknown status,"Ahmad Shaddad, Lecturer",Early Phase 1,Interventional,NA,NA,2019-10-01,2020-11-01,2020-09-01,All,18 Years,75 Years,1,35
-54,NCT04122547,Prince of Songkla University,Randomized,Efficacy of Roflumilast on Exacerbations in Patients With Non-cystic Fibrosis Bronchiectasis,Completed,"Kanung Saejiam, MS",Phase 3,Interventional,acute deterioration of of bronchiectasis symptoms,NA,2015-01-01,2015-12-01,2015-12-01,All,18 Years,80 Years,2,40
-55,NCT04170114,Bezmialem Vakif University,Randomized,Comparison of the Efficacy of Comprehensive Respiratory Physiotherapy in Children With Cystic Fibrosis and Non-Cystic Fibrosis Bronchiectasis,Completed,NA,N/A,Interventional,NA,NA,2020-01-01,2020-11-01,2020-11-01,All,6 Years,18 Years,2,60
-56,NCT04278040,"Federal State Budgetary Institution, Pulmonology Scientific Research Institute",N/A,Inhalations of Ultra-low Doses of Melphalan for the Treatment of Non-cystic Fibrosis Bronchiectasis,Unknown status,"Kirill Zykov, Prof",Phase 2,Interventional,Frequency of drug-related side effects.,SEADIB1,2018-06-20,2021-12-30,2021-12-01,All,18 Years,70 Years,1,7
-57,NCT04322929,The University of Hong Kong,N/A,Roflumilast in Non-CF Bronchiectasis Study (2019),Recruiting,NA,Phase 2,Interventional,24-hour sputum volume,NA,2020-11-12,2022-06-30,2022-02-28,All,18 Years,N/A,1,27
-58,NCT04509661,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Efficacy and Safety of Inhaled Bronchodilator in Non-CF Bronchiectasis With Airflow Limitation,Not yet recruiting,"Jin-fu Xu, MD",Phase 4,Interventional,Actue exacerbation,NA,2020-09-01,2024-06-01,2024-06-01,All,18 Years,N/A,2,200
-59,NCT04538859,Chinese University of Hong Kong,NA,A Prospective Study of Factors Related to Exacerbation and Mortality of Non-cystic Fibrosis Bronchiectasis in Hong Kong,Recruiting,NA,NA,Observational [Patient Registry],Number of bronchiectasis exacerbation,NA,2020-08-30,2027-08-29,2027-08-29,All,18 Years,N/A,NA,400
-60,NCT04594369,Insmed Incorporated,Randomized,"A Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib in Participants With Non-Cystic Fibrosis Bronchiectasis",Recruiting,NA,Phase 3,Interventional,Rate of Adjudicated Pulmonary Exacerbations (PEs),ASPEN,2020-12-01,2024-03-22,2024-03-22,All,12 Years,85 Years,3,1620
-61,NCT04643587,CSL Behring,Randomized,Study to Assess CSL787 in Non-cystic Fibrosis Bronchiectasis (NCFB),Recruiting,Study Director,Phase 1,Interventional,NA,NA,2020-12-07,2022-11-01,2022-11-01,All,18 Years,N/A,8,64
-62,NCT04656275,Boehringer Ingelheim,Randomized,A Study in Patients With Non-cystic Fibrosis Bronchiectasis to Test How Well Different Doses of BI 1323495 Are Tolerated and How BI 1323495 Affects Biomarkers of Inflammation,Terminated,NA,Phase 1,Interventional,Occurrence of drug-related adverse events,NA,2021-03-04,2021-12-20,2021-12-20,All,18 Years,80 Years,3,7
-63,NCT04658277,Chinese University of Hong Kong,Randomized,Effect of Long Term Clarithromycin for Prevention of Exacerbations in Non-cystic Fibrosis Bronchiectasis in Asian Populations,Recruiting,NA,N/A,Interventional,number of infectious exacerbations,NA,2020-10-01,2023-09-30,2023-09-30,All,50 Years,N/A,2,40
-64,NCT04884308,Johns Hopkins University,Non-Randomized,Bacille Calmette-Guerin (BCG) Vaccine for Immune Protection Against Infections,Recruiting,"Noah Lecthzin, MD, MHS",Phase 2,Interventional,BCG Uptake,NA,2021-04-28,2023-06-30,2023-06-30,All,18 Years,65 Years,3,180
-65,NCT05006573,AstraZeneca,Randomized,Efficacy and Safety of Benralizumab in Patients With Non-cystic Fibrosis Bronchiectasis,Recruiting,"James D. Chalmers, MD",Phase 3,Interventional,Annualised exacerbation rate,MAHALE,2021-07-21,2026-01-05,2024-06-10,All,18 Years,130 Years,2,420
-66,NCT05344508,Insmed Incorporated,NA,An Expanded Access Study to Assess Brensocatib for Participants With Non-Cystic Fibrosis Bronchiectasis,Available,NA,NA,Expanded Access,NA,NA,NA,NA,NA,All,18 Years,85 Years,NA,NA
-67,NCT05369624,Hospital Universitario Virgen Macarena,Randomized,Exercise Capacity in Non-cystic Fibrosis Bronchiectasis After a Pulmonary Rehabilitation Home-based Program,Completed,"Virginia Almadana, PhD",N/A,Interventional,"Exercise capacity of Non-cystic Fibrosis Bronchiectasis ( Non-CF bronchiectasis) after pulmonary rehabilitation home-based program (PRHP). Change in VO2 (oxygen consumption, ml/min)",NA,2018-05-08,2020-03-14,2019-03-14,All,18 Years,N/A,2,34
+...1,id,agency,allocation,title,brief_summary,status,PI,phase,study_type,primary_outcome_measure,acronym,start_date,completion_date,primary_completion_date,gender,minimum_age,maximum_age,number_of_arms,enrollment
+0,NCT00484263,The Alfred,Randomized,The Long Term Effect of Inhaled Hypertonic Saline (6%) in Patients With Non Cystic Fibrosis Bronchiectasis,"
+      The purpose of this study is to determine whether the daily inhalation of nebulised
+      hypertonic saline (6%) will decrease the incidence of pulmonary exacerbations and increase
+      the quality of life for people with non cystic fibrosis bronchiectasis.
+",Completed,NA,Phase 3,Interventional,Number of pulmonary exacerbations,NA,2007-12-01,2009-10-01,2009-10-01,All,18 Years,N/A,1,40
+1,NCT00728715,Hospital General de Requena,Randomized,Efficacy of Budesonide-Formoterol in Bronchiectasis,"
+      Some studies have concluded that high-dose inhaled steroids (IS) are effective in the
+      clinical control of patients with bronchiectasis, however the high doses needed provokes some
+      adverse effects and lower doses are not effective. Combined treatment with budesonide and
+      formoterol have demostrated to be effective in patients with asthma and COPD achieving the
+      reduction of steroid dose thanks to the adition of a long-acting beta 2 agonists. There are
+      no studies in the literature analysing the effect of combined treatment in patients with
+      bronchiectasis. The objective of this study is to compare the efficacy and safety of
+      formoterol-medium dose of budesonide in a single inhaler versus high-dose of budesonide in
+      the clinical control of patientes with non-cystic fibrosis bronchiectasis.
+
+      Study Design:
+
+      Randomized (3 months) parallel groups study.
+
+      Patients:
+
+      Patients with bronchiectasis diagnosed by high-resolution CT scan and chronic obstructive
+      airway obstruction.
+
+      Exclusion:
+
+      Asthma and current or past smokers.
+
+      Methods:
+
+      Run in period in all patients with high dose of budesonide (1600 mcg/day) for 3 months. After
+      that, randomization into two groups: 1. The same treatment (1600 mcg/day of budesonide) or
+      combined treatment with lower dose of budesonide (18 mcg/day of formoterol and 800 mcg of
+      budesonide) in a single turbuhaler inhaler during 3 months.
+
+      Studied variables:
+
+      Clinical, functional, quality of life, microbiological and number of side effects.
+",Completed,NA,N/A,Interventional,Health related quality of life (measured by St Gorge Respiratory Questionnaire),NA,2004-01-01,2005-01-01,2005-01-01,All,18 Years,80 Years,2,40
+2,NCT00749866,University of Edinburgh,Randomized,Long Term Nebulised Gentamicin in Patients With Bronchiectasis,"
+      The hypothesis of this randomized placebo controlled trial is that targeted nebulized
+      gentamicin to the airways will reduce bacterial burden and limit neutrophil airways
+      inflammation. If given long term this will improve symptoms, pulmonary physiology, exercise
+      capacity and health related quality of life with a reduction in exacerbation frequency and
+      health care utilization.
+",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,Reduction in bacterial load,NA,2007-05-01,2009-08-01,2009-08-01,All,18 Years,70 Years,2,60
+3,NCT00816309,NHS Lothian,Randomized,"Is Regular Chest Physiotherapy an Effective Treatment in Severe, Non Cystic Fibrosis Bronchiectasis?","
+      Bronchiectasis is a chronic chest condition which causes a persistent cough and frequent
+      chest infections. One of the main forms of treatment is chest physiotherapy. Physiotherapy is
+      thought to improve cough and help clear the airways of sticky sputum. Traditionally,
+      physiotherapy techniques can be awkward, but recently a new device (a simple mouthpiece,
+      called the Acapella device) has been developed to make physiotherapy practise easier. This
+      study aims to assess how helpful regular physiotherapy using a new mouthpiece is in patients
+      with severe bronchiectasis.
+",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,24 hour sputum volume and assessment of cough severity (Leicester Cough Questionnaire),NA,2007-10-01,2009-03-01,2008-12-01,All,60 Years,85 Years,2,20
+4,NCT00868075,NHS Lothian,Randomized,Pulmonary Rehabilitation in Non Cystic Fibrosis Bronchiectasis,"
+      The aim of our study is to ascertain whether chest physiotherapy + pulmonary rehabilitation
+      is more efficacious than chest physiotherapy alone. The outcomes that will be used to assess
+      effectiveness are relevant in terms of the direct benefit on the patient's health related
+      quality of life.
+
+      PLANNED STUDY: This randomized study will compare 8 weeks chest physiotherapy with 8 weeks
+      chest physiotherapy plus pulmonary rehabilitation.
+",Completed,"Adam T Hill, MD, FRCPE",Phase 4,Interventional,The primary endpoint of this study is improvement in exercise tolerance from an incremental walk test.,NA,2009-03-01,2011-08-01,2011-08-01,All,18 Years,75 Years,2,27
+5,NCT00885521,Bayside Health,Randomized,Exercise Training in Patients With Non-cystic Fibrosis (CF) Bronchiectasis,"
+      The aim of this project is to examine the short and long term effects of an 8 week, twice
+      weekly, outpatient exercise training program for people with bronchiectasis. Participants
+      will be randomly allocated to undergo a supervised exercise training program at The Alfred,
+      Austin Hospital or Sir Charles Gairdner Hospital.
+
+      The hypotheses of this study are:
+
+        1. Patients with bronchiectasis who complete an exercise program will have a higher
+           exercise capacity and better quality of life and these improvements will be sustained
+           for up to 12 months after completion
+
+        2. Exercise training will significantly reduce the incidence of pulmonary exacerbations,
+           use of antibiotics and rate of hospitalisation
+",Completed,"Annemarie L Lee, PhD",Phase 1,Interventional,Incremental Shuttle Walk Test Chronic Respiratory Disease questionnaire,NA,2009-02-01,2013-02-01,2013-02-01,All,20 Years,80 Years,2,39
+6,NCT00889967,Aradigm Corporation,Randomized,"Safety and Efficacy Study of Ciprofloxacin for Inhalation in Patients With Non-Cystic Fibrosis Bronchiectasis ""ORBIT-1""","
+      The purpose of this study is to evaluate the safety and efficacy of Ciprofloxacin for
+      Inhalation in the treatment of patients with non-cystic fibrosis (CF) bronchiectasis.
+",Completed,"Paul Bruinenberg, MBChB, MBA",Phase 2,Interventional,The primary efficacy endpoint is defined as the mean change in P. aeruginosa density in sputum (log10) CFU/gram of sputum from Baseline to Day 28.,NA,2010-02-01,2011-06-01,2011-04-01,All,18 Years,80 Years,3,95
+7,NCT00930982,Bayer,Randomized,Evaluation of Cipro Inhale in Patients With Non-cystic Fibrosis Bronchiectasis,"
+      The purpose of this study is to find out if bacterial load in the airways can be reduced
+      after inhalation of ciprofloxacin for 28 days.
+",Completed,Bayer Study Director,Phase 2,Interventional,Change From Baseline in Total Bacterial Load in the Sputum at End of Treatment (Day 29).,NA,2009-06-01,2010-09-01,2010-09-01,All,18 Years,N/A,2,124
+8,NCT01299181,University of Edinburgh,Randomized,A Trial of Atorvastatin as an Anti-Inflammatory Agent in Non-Cystic Fibrosis Bronchiectasis,"
+      The investigators hypothesise that long term statin treatment will improve patients' symptoms
+      through its anti-inflammatory effect. The beneficial effects on patient symptoms (cough,
+      sputum volume, bacterial load, airway function, exercise tolerance, exacerbation frequency
+      and health related quality of life) will be consequent on reduced neutrophilic airways
+      inflammation.
+",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,The primary endpoint of this study is a reduction in cough at 6 months compared to baseline as measured by the Leicester Cough Questionnaire score.,NA,2010-11-01,2013-08-01,2013-08-01,All,18 Years,75 Years,2,60
+9,NCT01299194,University of Edinburgh,Randomized,Atorvastatin in Bronchiectasis in Patients With Pseudomonas Aeruginosa,"
+      Statins are a class of drug used to prevent heart attacks and strokes by lowering blood
+      cholesterol levels. They have also been found to have a beneficial ""side effect"" of lowering
+      the level of inflammation in the body. This is thought to be one of the reasons they are
+      effective in treating heart attacks and strokes. Laboratory experiments have shown that
+      statins reduce lung inflammation in response to bacteria and this is a promising development
+      for the treatment of chest infections.
+
+      Bronchiectasis is a chronic disabling lung disease characterised by chronic sputum production
+      and recurrent chest infections. 2/3 of patients are chronically colonised with bacteria
+      (normally the lungs are sterile) and this leads inflammation in the lung and in the rest of
+      the body.
+
+      There are no effective treatments for bronchiectasis other than antibiotics for chest
+      infections. With increasing antibiotic use, there is increasing antibiotic resistance and new
+      treatments for this disease are needed.
+
+      The investigators intend to study Atorvastatin in patients with bronchiectasis with
+      colonization with pseudomonas aeruginosa. The investigators will give Atorvastatin to 16
+      patients with this disease while 16 patients will receive placebo. This will be a crossover
+      study where patients will receive atorvastatin or placebo for 3 months, followed by a statin
+      wash out period of 6 weeks. Thereafter the groups will cross over and the group receiving
+      atorvastatin will now receive placebo and those receiving placebo will receive atorvastatin
+      for 3 months. The investigators will measure inflammation in their lungs and in the rest of
+      their body before and after treatment with atorvastatin. The investigators will also assess
+      their quality of life and number of chest infections over a 7.5 month period.
+
+      This pilot study will determine if there is any role for statins are an anti-inflammatory
+      agent in patients with bronchiectasis.
+",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,The primary endpoint of this study is a reduction in cough at 3 months compared to baseline as measured by the Leicester Cough Questionnaire score.,NA,2010-11-01,2017-05-01,2015-06-01,All,18 Years,80 Years,2,32
+10,NCT01313624,Gilead Sciences,Randomized,Safety and Effectiveness of AZLI (an Inhaled Antibiotic) in Adults With Non-Cystic Fibrosis Bronchiectasis,"
+      The AIR-BX1 study enrolled people with non-cystic fibrosis (non-CF) bronchiectasis and
+      gram-negative airway infection. Participants received two 28-day courses of either Aztreonam
+      for Inhalation Solution (AZLI) or placebo taken 3 times a day. Each course was followed by a
+      28-day off-drug period. Following the two blinded courses, all participants received a 28-day
+      course of open-label AZLI then were followed for an additional 56 days.
+",Completed,"Alan Barker, MD",Phase 3,Interventional,Change in QOL-B Respiratory Symptoms Score at Day 28,AIR-BX1,2011-04-01,2013-06-01,2013-03-01,All,18 Years,N/A,2,266
+11,NCT01314716,Gilead Sciences,Randomized,Safety and Effectiveness of AZLI (an Inhaled Antibiotic) in Adults With Non-Cystic Fibrosis Bronchiectasis,"
+      The AIR-BX2 study enrolled people with non-cystic fibrosis (non-CF) bronchiectasis and
+      gram-negative airway infection. Participants received two 28-day courses of either Aztreonam
+      for Inhalation Solution (AZLI) or placebo taken 3 times a day. Each course was followed by a
+      28-day off-drug period. Following the two blinded courses, all participants received a 28-day
+      course of open-label AZLI then were followed for an additional 56 days.
+",Completed,"Anne O'Donnell, MD",Phase 3,Interventional,Change in QOL-B Respiratory Symptoms Score at Day 28,AIR-BX2,2011-04-01,2013-07-01,2013-04-01,All,18 Years,N/A,2,274
+12,NCT01463371,Instituto de Investigacion Sanitaria La Fe,Randomized,Effects of Azithromycin on Airway Oxidative Stress Markers in Patients With Bronchiectasis,"
+      The mechanism by which macrolide antibiotics have immune modifying effects independent from
+      its antibacterial activity has not been well established. In the present work, the
+      investigators will analyze the effect of long-term treatment with azithromycin (250 mg three
+      times per week during three months) on airway oxidative stress markers in exhaled breath
+      condensate of adult patients with stable non-CF bronchiectasis.
+",Completed,"Alfredo De Diego Damia, MD",N/A,Interventional,"Changes in Nitric oxide,8-isoprostane, pH, nitrites (NO2) and nitrates(NO3) in exhaled breath condensate.",NA,2006-10-01,2007-09-01,2007-04-01,All,16 Years,80 Years,2,30
+13,NCT01515007,Aradigm Corporation,Randomized,Phase 3 Study With Ciprofloxacin Dispersion for Inhalation in Non-CF Bronchiectasis (ORBIT-3),"
+      This study (ARD-3150-1201, ORBIT-3) will evaluate the safety and efficacy of inhaled
+      Pulmaquin (ciprofloxacin dispersion for inhalation) compared to inhaled placebo in subjects
+      who have a confirmed diagnosis of non-cystic fibrosis (non-CF) bronchiectasis with a history
+      of pulmonary exacerbations and chronic P. aeruginosa infections.
+",Completed,NA,Phase 3,Interventional,Time to first exacerbation,NA,2014-03-31,2016-10-01,2016-08-17,All,18 Years,N/A,2,278
+14,NCT01684683,The First Affiliated Hospital of Guangzhou Medical University,Randomized,The Effect of Theophylline in the Treatment of Bronchiectasis,"
+      Theophylline was well recommended in the treatment of chronic obstructive pulmonary disease
+      (COPD) and asthma. However, there is no supporting evidence for their efficacy in the
+      treatment of bronchiectasis. Our hypothesis is that theophylline will play a role in
+      bronchiectasis. Our purpose is to examine the efficacy and safety of 24 weeks treatment with
+      theophylline in subjects with non-cystic fibrosis bronchiectasis.
+",Completed,NA,Phase 4,Interventional,Scores of the St.George's Respiratory Questionnaire,NA,2012-11-01,2014-09-01,2014-04-01,All,18 Years,70 Years,2,100
+15,NCT01764841,Bayer,Randomized,Ciprofloxacin Dry Powder for Inhalation in Non-cystic Fibrosis Bronchiectasis (Non-CF BE),"
+      The purpose of this study is to evaluate if the time to first pulmonary exacerbation of
+      bronchiectasis or its frequency can be prolonged by inhalation of ciprofloxacin for 28 days
+      every other 28 days or for 14 days every other 14 days over 48 weeks.
+",Completed,Bayer Study Director,Phase 3,Interventional,Time to First Exacerbation Event Within 48 Weeks,RESPIRE 1,2013-05-02,2016-03-09,2016-03-09,All,18 Years,N/A,4,416
+16,NCT01792427,Universitaire Ziekenhuizen Leuven,NA,Mortality in Non-cystic Fibrosis Bronchiectasis,"
+      In this study we analyzed the overall survival for all newly diagnosed patients with
+      non-cystic fibrosis bronchiectasis from June 2006 onwards. The investigators wanted to
+      confirm the known risk factors such as age, gender, smoking history and Pseudomonas
+      aeruginosa and evaluate the impact on survival of etiology, number of different
+      bacteriological species in retrospective and prospective sputa, azithromycin use and
+      presence/development of pulmonary hypertension.
+",Completed,"Pieter Goeminne, MD",NA,Observational,overall survival,NA,2006-06-01,2012-12-01,2012-10-01,All,18 Years,N/A,NA,253
+17,NCT01792440,Universitaire Ziekenhuizen Leuven,NA,The Sputum Colour Chart as a Predictor of Lung Inflammation and Proteolysis in Non-cystic Fibrosis Bronchiectasis,"
+      Non-cystic fibrosis bronchiectasis patients (and controls) were recruited for the study. The
+      investigators' aim was to study the relevance of clinical parameters in terms of underlying
+      disease severity, proteolysis and inflammation in a diverse non-cystic fibrosis
+      bronchiectasis population.
+",Completed,"Pieter Goeminne, MD",NA,Observational,Assess predictive value of sputum colour chart to evaluate airway inflammation,NA,2009-09-01,2012-12-01,2010-07-01,All,18 Years,N/A,NA,80
+18,NCT01801657,The First Affiliated Hospital of Guangzhou Medical University,NA,The Role of Viral Infection in Acute Exacerbations of Non-cystic Fibrosis Bronchiectasis in Adults,"
+      Bronchiectasis is clinically characterized by irreversible dilation of the bronchi and
+      bronchioles leading to persistent cough, purulent sputum, and airway ﬂow limitation, which
+      may be accompanied by recurrent exacerbations.It has been increasingly recognized that
+      respiratory viruses are mainly responsible for acute exacerbation of chronic pulmonary
+      diseases, i.e. asthma, chronic obstructive pulmonary disease and cystic fibrosis.
+      However,little is known about the roles of viral infection in driving exacerbations of
+      bronchiectasis.This study aims to identify the frequency of common viral infections and
+      determine the roles that viruses play in acute exacerbations of bronchiectasis.
+",Unknown status,NA,NA,Observational,The prevalence of respiratory virus infection in adults with bronchiectasis during a pulmonary exacerbation and when clinically stable.,NA,2013-02-01,2014-04-01,2014-04-01,All,18 Years,80 Years,NA,100
+19,NCT01818544,Bayer,Randomized,Safety and Efficacy of Oral BAY85-8501 in Patients With Non-CF (Cystic Fibrosis) Bronchiectasis,"
+      The primary objective of this study is to assess the safety and tolerability of 28 day oral
+      administration of BAY85-8501 versus placebo in subjects with non-CF Bronchiectasis (BE).
+
+      The secondary objectives are to examine the effect of BAY85-8501 on pulmonary function,
+      biomarkers of inflammation and tissue damage, and the impact on overall health and perceived
+      well-being and to evaluate the pharmacokinetics of BAY85-8501.
+",Completed,Bayer Study Director,Phase 2,Interventional,NA,NA,2013-04-01,2014-06-01,2014-06-01,All,18 Years,N/A,2,94
+20,NCT01854788,Hospital Clinic of Barcelona,Randomized,3 Airway Clearance Techniques in Non Cystic Fibrosis Bronchiectasis,"
+      Study design: a randomized, crossover trial. Each patient performed three different airway
+      clearance techniques (Autogenic drainage, slow expiratory with glottis opened in lateral
+      posture [ELTGOL], temporary- positive expiratory pressure [T-PEP] with not similar autonomy
+      degree in a randomized order. Each technique were applied in 3 sessions during one week at
+      alternate days (Monday /Wednesday/Friday or Tuesday/Thursday/Saturday). The time spent in
+      each bronchial session was 40 minutes. Seven days were the wash-out time period between the
+      different techniques.
+",Completed,NA,N/A,Interventional,NA,NA,2010-09-01,2012-08-01,2012-06-01,All,18 Years,N/A,3,31
+21,NCT01906047,Universitaire Ziekenhuizen Leuven,NA,Impact of Chronic Air Pollution on Non-cystic Fibrosis Bronchiectasis,"
+      We aim at investigation the impact of chronic air pollution exposure on non-cystic fibrosis
+      bronchiectasis outcome.
+",Completed,NA,NA,Observational [Patient Registry],Death,NA,2006-06-01,2013-04-01,2012-10-01,All,18 Years,65 Years,NA,189
+22,NCT02035488,University Medical Center Groningen,N/A,Pharmacokinetic Evaluation and Tolerability of Dry Powder Tobramycin by a Novel Device in Patients With Non Cystic Fibrosis Bronchiectasis,"
+      Bronchiectasis is a persistent and frequently progressive condition characterized by dilated
+      and thick-walled bronchi retaining sputum. The main symptoms of bronchiectasis are cough and
+      chronic sputum production. Until now, most patients with non-CF bronchiectasis receive
+      inhaled tobramycin every other month, by use of a nebulizer. However, this delivery system
+      has several disadvantages, like a low lung deposition and pollution with tobramycin in the
+      surrounding environment. With an efficient dry powder inhaler (DPI), a three to six fold
+      higher lung deposition compared to a nebulizer can be obtained. Therapy with a DPI is also
+      less time consuming compared to nebulisation. We will investigate dry powder tobramycin (DP
+      tobramycin) in a novel device in patients with non-CF bronchiectasis. The main objectives of
+      this study are to investigate the pharmacokinetic properties of DP tobramycin at different
+      dosages together with the local tolerability of DP tobramycin via the Cyclops® at different
+      dosages.
+",Completed,"Huib Kerstjens, MD, PhD",Phase 1/Phase 2,Interventional,NA,NA,2013-10-01,2014-12-01,2014-12-01,All,18 Years,N/A,1,8
+23,NCT02081963,Qilu Hospital of Shandong University,Randomized,Combined Administration of Nebulized Amikacin in Patients With Acute Exacerbation of Non-Cystic Fibrosis Bronchiectasis,"
+      This is a multi-centered, randomized, controlled study to assess the efficacy, indications
+      and adverse reactions of combined administration of nebulized amikacin in patients with acute
+      exacerbation of non-cystic fibrosis bronchiectasis and to evaluate whether inhaled
+      antibiotics are more likely to cause bacterial resistance.
+",Completed,"Yu Li, Professor",Phase 4,Interventional,Bacterial Clearance Rate of Sputum,NA,2014-03-01,2016-12-01,2016-03-01,All,18 Years,80 Years,2,178
+24,NCT02088216,Qilu Hospital of Shandong University,Randomized,"Effect of Long-term, High-dose N-acetylcysteine on Exacerbations of Bronchiectaisis","
+      Objective: To evaluate whether long-term oral N-acetylcysteine as an expectorant drug can
+      reduce the frequency of acute exacerbations of patients with non-cystic fibrosis
+      bronchiectasis and improve their quality of life.
+
+      Methods: Patients with non-cystic fibrosis bronchiectasis will be randomly assigned to the
+      observer group (participants receive 600 mg of oral N-acetylcysteine BID for 12 months) or
+      the control group (participants receive oral tablet BID for 12 months). The primary endpoint
+      was the frequency of acute exacerbations.
+
+      Expected results: Compared with the control group, the frequency of acute exacerbations of
+      the observer Group will decrease significantly.
+
+      Hypothesis: Long-term oral N-acetylcysteine can reduce the frequency of acute exacerbations
+      of patients with non-cystic fibrosis bronchiectasis and improve their quality of life.
+",Completed,"Yu Li, Professor",N/A,Interventional,Median Number of Exacerbations,BENE,2014-04-01,2018-03-30,2017-12-01,All,18 Years,80 Years,2,161
+25,NCT02096315,Polyphor Ltd.,N/A,"Safety, Efficacy and PK/PD of POL7080 in Patients With Exacerbation of Non-cystic Fibrosis Bronchiectasis.","
+      To test whether POL7080 is effective in patients with exacerbation of non-cystic fibrosis
+      bronchiectasis caused by Pseudomonas aeruginosa infection.
+",Terminated,NA,Phase 2,Interventional,Sputum bacterial clearance,NA,2013-12-01,2015-11-01,2015-11-01,All,18 Years,79 Years,1,20
+26,NCT02104245,Aradigm Corporation,Randomized,Phase 3 Study With Ciprofloxacin Dispersion for Inhalation in Non-CF Bronchiectasis (ORBIT-4),"
+      This study (ARD-3150-1202, ORBIT-4) will evaluate the safety and efficacy of inhaled
+      Pulmaquin (ciprofloxacin dispersion for inhalation) compared to inhaled placebo in subjects
+      who have a confirmed diagnosis of non-cystic fibrosis (non-CF) bronchiectasis with a history
+      of pulmonary exacerbations and chronic P. aeruginosa infections.
+",Completed,NA,Phase 3,Interventional,Time to first pulmonary exacerbation (from baseline),NA,2014-05-28,2016-10-01,2016-08-11,All,18 Years,N/A,2,304
+27,NCT02106832,Bayer,Randomized,Ciprofloxacin Dry Powder for Inhalation (DPI) in Non-cystic Fibrosis Bronchiectasis (Non-CF BE),"
+      The purpose of this study is to evaluate if the time to first pulmonary exacerbation of
+      bronchiectasis or its frequency can be prolonged by inhalation of ciprofloxacin for 28 days
+      every other 28 days or for 14 days every other 14 days over 48 weeks.
+",Completed,Bayer Study Director,Phase 3,Interventional,NA,RESPIRE 2,2014-04-30,2016-10-19,2016-09-13,All,18 Years,N/A,4,521
+28,NCT02163642,Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,NA,Role of Innate Immunity in Non-Cystic Fibrosis Bronchiectasis,"
+      The purpose of this study is to demonstrate that 1) the secretion of mucins, antimicrobial
+      peptides and Toll-like receptors is altered in certain patients with non-CF bronchiectasis,
+      which makes them more susceptible to be infected by potentially pathogenic bacteria (PPB);
+      and 2) the electronic nose is able to detect patterns of specific Volatile Organic Compounds
+      (VOC) for patients with non-CF bronchiectasis colonized by PPB.
+",Unknown status,"Oriol Sibila, MD PhD",NA,Observational,Change from baseline in sputum mucin levels at 12 months,NA,2014-04-01,2018-04-01,2018-04-01,All,18 Years,N/A,NA,50
+29,NCT02324855,Universidad San Jorge,Randomized,Long-term Airway Clearance Therapy in Non-cystic Fibrosis Bronchiectasis,"
+      The main aim is to analyze whether the routine use of chest physiotherapy in non cystic
+      fibrosis bronchiectasis (NCFB) improves the cough severity and the quality of life in this
+      population. In addition, the secondary end-points include incidences of exacerbations,
+      changes in lung function, exercise capacity, airways inflammation, sputum analysis and
+      eventual adverse events.
+",Completed,"Beatriz Herrero, Msc",N/A,Interventional,Cough severity (Auto-administered questionnaire: Leicester Cough Questionnaire),NA,2015-10-01,2020-06-01,2020-06-01,All,18 Years,N/A,2,26
+30,NCT02392663,Hospital Clinic of Barcelona,Randomized,Sputum Clearance Effects of Hypertonic Saline in Non-cystic Fibrosis Bronchiectasis,"
+      This study aims to analyze whether the hypertonic saline nebulization enhances sputum
+      clearance effects, reduces the impact on cough severity and their level of safety and
+      tolerability in a population with non-cystic fibrosis bronchiectasis (NCFBE). In addition,
+      this trial aims to compare these health outcomes among 3 nebulized solutions: hypertonic
+      saline (7%); hyaluronic acid + hypertonic saline (7%); isotonic saline (0,9%).
+",Completed,"Eva Polverino, Dr.",N/A,Interventional,Wet sputum production,NA,2015-03-01,2016-01-01,2015-12-01,All,18 Years,N/A,3,24
+31,NCT02411981,Cliniques universitaires Saint-Luc- Université Catholique de Louvain,N/A,Effects of Chest Physiotherapy (CPT) on Lung Clearance Index (LCI) in Non Cystic Fibrosis (CF) Bronchiectasis,"
+      This study will investigate the effects of on technique of chest physiotherapy on pulmonary
+      function. Effects of pulmonary function will be measured by the spirometry, body
+      plethysmography and by the multiple breath nitrogen washout technique.
+",Completed,NA,N/A,Interventional,Change of Lung Clearance Index (LCI),NA,2015-04-01,2016-02-01,2015-10-01,All,18 Years,N/A,1,24
+32,NCT02507843,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Vitamin D as an Adjunctive Treatment in Patients With Non-Cystic Fibrosis Bronchiectasis,"
+      This study evaluates vitamin D as an adjunctive treatment in patients with non-Cystic
+      Fibrosis bronchiectasis, which are combined with vitamin D deficiency. Half of participants
+      will receive vitamin D supplementation, while the other half will receive placebo.
+",Unknown status,JinFu Xu,Phase 4,Interventional,Time to first acute exacerbation,VIDB,2015-01-01,2017-06-01,2016-12-01,All,18 Years,N/A,2,200
+33,NCT02531984,Assistance Publique Hopitaux De Marseille,Randomized,The Efficacy of Azithromycin in Treating Children With Non Cystic Fibrosis Bronchiectasis,"
+      Bronchiectasis is characterized by a permanent and abnormal dilatation of a part of the
+      bronchial tree. An accumulation of mucus in the respiratory tract ensues, resulting in
+      frequent bacterial infections and eventual destruction of the lungs. Clinically, patients
+      present with a chronic productive cough and episodes of acute respiratory exacerbations.
+      Chronic respiratory failure can follow. Although its prevalence is largely unknown,
+      bronchiectasis is considered to be a rare and orphan disease. There are numerous causes for
+      this disease: sequelae of respiratory infections, immunodeficiency, genetic diseases like
+      cystic fibrosis, primary ciliary dyskinesia….The focus of this study will be on non cystic
+      fibrosis bronchiectasis in children.
+
+      Due to a lack of pediatric clinical trials, the management of children with this disease is
+      widely based on the management of adults or patients with cystic fibrosis or
+      pan-bronchiolitis. The treatment is based on respiratory physiotherapy, prevention of
+      infections, administration of inhaled corticosteroids and anti biotherapy for acute
+      exacerbations.
+
+      Recently, some studies have demonstrated the efficacy of a family of antibiotics, the
+      macrolides, in the treatment of cystic fibrosis or pan-bronchiolitis in children. Indeed,
+      taken 3 times a week during a long period of time, the macrolides, and specifically the
+      azithromycin have shown some anti-inflammatory and tissue repairing properties, in addition
+      to their antimicrobial properties.
+
+      Moreover, several studies conducted in the adult population have shown that the use of
+      azithromycin has led to significant reduction in the frequency of respiratory exacerbations
+      as well as an improvement in the quality of life.
+
+      The efficacy of azithromycin in these respiratory diseases has led to enlarge its use for the
+      long term treatment of bronchiectasis. Yet, this type of treatment has no marketing
+      authorization application.
+
+      No studies have been conducted in children, but individual examination of patients with
+      bronchiectasis treated with azithromycin suggests an improvement of their symptoms.
+
+      Thus, the use of azithromycin in the treatment of bronchiectasis in children seems to be a
+      promising therapy. However, its efficacy needs to be demonstrated by clinical trials led on a
+      pediatric population with an adequate number of patients and a strong methodology in order to
+      ensure validity and reliability of the results.
+
+      Therefore the investigators decided to conduct a comparative, prospective multicenter
+      randomized study in this population.
+
+      This study intends to include 100 patients already treated by azithromycin for at least 6
+      months. After inclusion, they will be randomized in two groups of 50 patients each. The first
+      group will continue the treatment and the other one will discontinue it.
+
+      The patients will be followed from the inclusion period (M0) until the onset of the first
+      exacerbation for a maximum of 6 months (M6), with an intermediate health care visit after 3
+      months (M3).
+
+      In case of exacerbation, a health care visit will be scheduled; the patient will receive the
+      appropriate treatment and he will be suspended from the study.
+
+      The duration of follow up for each patient is dictated by the occurrence of the first
+      respiratory exacerbation, a maximum of 6 months .The total inclusion period is 12 months and
+      the total duration of the study is 18 months.
+",Unknown status,Urielle DESALBRES,Phase 3,Interventional,Time of onset of the first respiratory exacerbation in the two groups of patients: those who continued treatment with azithromycin and those who stopped the treatment,AZI-STOP,2015-08-01,2018-08-01,2017-08-01,All,3 Years,17 Years,2,100
+34,NCT02563197,Bayer,N/A,Inhalation Flow Rate-study,"
+      Study should show feasibility of the device for drug delivery into the lung independently of
+      the severity of impaired lung function.
+",Completed,Bayer Study Director,Phase 1,Interventional,Peak inspiratory flow (L/min),NA,2015-11-23,2016-04-29,2016-02-17,All,18 Years,N/A,1,33
+35,NCT02614300,Hospital Clinic of Barcelona,Randomized,The Role of Pulmonary Rehabilitation and Airways Clearance Techniques in the Multidisciplinary Management of Non CF Bronchiectasis,"
+      Pulmonary rehabilitation programs are part of the multidisciplinary treatment of some chronic
+      respiratory diseases such as COPD (chronic obstructive pulmonary disease). Although clinical
+      guidelines of other diseases such as non-cystic fibrosis bronchiectasis (nCFBE) discuss the
+      benefits of these programs in quality of life and exercise tolerance, evidence of such
+      intervention in nCFBE patients is insufficient. Longer studies are needed with larger sample
+      sizes and optimized to maximize the response and maintain long-term benefits. The present
+      study aims to examine the effects in exercise tolerance of a pulmonary rehabilitation program
+      combined with respiratory physiotherapy in patients with nCFBE. It is a randomized controlled
+      clinical trial with a total duration of 24 months. The intervention will be performed during
+      12 weeks and then will be a period of 12 months of maintenance. This is a multicenter study
+      involving the following Hospitals: Hospital Clinic, Hospital la Plató and Hospital del Mar of
+      Barcelona, Hospital Josep Trueta of Girona, Royal Infirmary of Edinburgh and Fondazione
+      Maugeri di Lumezzane of Italy. Subjects will be randomized into three groups in a ratio (1:
+      1: 1) (1) Pulmonary Rehabilitation (2) Chest Physiotherapy and (3) Pulmonary Rehabilitation +
+      Chest Physiotherapy. Hospital la Plató from Barcelona will be responsible for carrying out
+      the Control Group. The primary endpoint will be the test of ""endurance shuttle walk test"".
+",Unknown status,NA,N/A,Interventional,Change from Baseline Exercise tolerance capacity measured as the distance walked in meters during the shuttle test at constant speed (ESWT) at 12 weeks.,NA,2015-11-01,NA,2017-12-01,All,50 Years,80 Years,4,120
+36,NCT02625246,Marilyn Glassberg,Non-Randomized,Safety and Potential Efficacy of Human Mesenchymal Stem Cells in Non-Cystic Fibrosis Bronchiectasis,"
+      To demonstrate the safety of bone marrow-derived allogeneic human Mesenchymal Stem Cells
+      (hMSCs) in patients with bronchiectasis receiving standard of care therapy, and to explore
+      treatment efficacy
+",Completed,"Glassberg K Marilyn, MD",Phase 1,Interventional,Number of Participant with treatment emergent serious adverse events,CELEB,2016-02-04,2019-05-15,2019-05-15,All,30 Years,87 Years,2,6
+37,NCT02657473,Medical Center Alkmaar,Randomized,Inhaled Nebulized Tobramycin in Non-cystic Fibrosis Bronchiectasis,"
+      The purpose of this study is to evaluate the effect of tobramycin inhalation solution (TIS)
+      once daily compared tot placebo in patients with non-CF bronchiectasis. The primary endpoint
+      is a reduction of exacerbations of the disease during the treatment period. Next to this
+      parameter the investigators expect to show a significant beneficial effect on lung function
+      parameters, QoL, bacterial load of pathogens in sputum and tobramycin resistance.
+",Completed,"Wim G. Boersma, Dr.MD",Phase 2/Phase 3,Interventional,Number of exacerbations,BATTLE,2016-08-13,2019-12-13,2019-12-13,All,18 Years,N/A,2,58
+38,NCT02661438,Bayer,N/A,Summative Usability Study of Ciprofloxacin Dry Powder for Inhalation Using Placebo,"
+      The rationale of this study is to conduct a summative (i.e., validation) usability test of
+      Ciprofloxacin Dry Powder for Inhalation (DPI) and the associated Instructions for Use.
+",Completed,Bayer Study Director,N/A,Interventional,NA,NA,2016-01-12,2016-03-17,2016-03-17,All,40 Years,N/A,1,46
+39,NCT02712983,Novartis Pharmaceuticals,Randomized,"Dose-finding Study to Assess the Efficacy, Safety and Tolerability of Tobramycin Inhalation Powder in Patients With Non-Cystic Fibrosis Bronchiectasis and Pulmonary P. Aeruginosa Infection","
+      The purpose of this study was to support the selection of a safe and tolerable tobramycin
+      inhalation powder (TIP) dose, and regimen that exhibits effective bacterial reduction of P.
+      aeruginosa in non-cystic fibrosis bronchiectasis (BE) patients with P. aeruginosa
+      colonization.
+",Completed,Novartis Pharma,Phase 2,Interventional,Change From Baseline to Day 29 in Pseudomonas Aeruginosa (P. Aeruginosa) Density in Sputum (log10 CFUs),iBEST-1,2017-02-08,2019-03-20,2019-03-20,All,18 Years,N/A,9,107
+40,NCT02782312,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Salmeterol-Fluticasone Combined Inhaled Therapy for Non-cystic Fibrosis Bronchiectasis,"
+      The objective of this study is to assess the efficacy and safety of Salmeterol-Fluticasone
+      （ICS and LABA）combined inhaled therapy for non-cystic fibrosis（non-CF）bronchiectasis patients
+      with chronic airflow obstruction. Moreover, subgroup analysis is performed to explore which
+      populations of bronchiectasis patients this treatment is suitable for.
+",Completed,Jin-Fu Xu,Phase 4,Interventional,NA,NA,2011-06-01,2013-06-01,2012-06-01,All,18 Years,N/A,2,120
+41,NCT02823587,University of Sao Paulo,Randomized,Pulmonary Rehabilitation in Non-Cystic Fibrosis Bronchiectasis,"
+      The purpose of this study is to assess the effect of pulmonary rehabilitation on the
+      transport of secretions, inflammation and respiratory resistance, and its repercussions on
+      the quality of life in patients with bronchiectasis.
+",Unknown status,"Ada C Gastaldi, PhD",N/A,Interventional,Mucociliary transport in vivo,NA,2016-07-01,2019-12-01,2018-07-01,All,18 Years,60 Years,4,60
+42,NCT02883101,"All India Institute of Medical Sciences, New Delhi",Randomized,The Effects of Pulmonary Rehabilitation in Patients With Non-cystic Fibrosis Bronchiectasis,"
+      Number of Patients:
+
+      Study group - Bronchiectasis that is not attributable to Cystic fibrosis
+
+        -  Group 1 - Pulmonary Rehabilitation
+
+        -  Group 2 - Standard care
+
+      Sample size - 20 in each arm
+
+      Study Design:
+
+        -  Randomised controlled trial (RCT)
+
+      All patients who qualify for the study will undergo a detailed evaluation. Baseline
+      assessment will include the following parameters:
+
+        -  Anthropometry
+
+        -  Pulmonary Function Tests and Respiratory muscle strength
+
+        -  Cardiopulmonary Exercise Testing (CPET)
+
+        -  Six Minute Walk Test (6MWT)
+
+        -  Severity of dyspnoea (Dyspnoea scale)
+
+        -  Limb muscle strength
+
+        -  Inflammatory markers in the serum - C-reactive protein
+
+        -  Quality of Life
+
+      Patients will then be randomized (using table of random numbers) to either the pulmonary
+      rehabilitation group or the standard arm group. After 8 weeks of pulmonary rehabilitation,
+      patients will again be reassessed by the aforementioned tools.
+",Completed,NA,N/A,Interventional,Exercise capacity,NA,2015-06-01,2016-12-01,2016-10-01,All,18 Years,N/A,2,60
+43,NCT03056326,Chiesi Farmaceutici S.p.A.,Randomized,"A Study to Investigate Safety, Tolerability and Pharmacokinetics of Single and Repeat Doses of CHF6333 in Healthy Subjects","
+      Human Neutrophil Elastase (HNE) plays a pivotal role in innate immunity and in neutrophilic
+      lung inflammation that characterized many diseases. CHF 6333 is a potent and 24h-durable
+      inhibitor of HNE, developed as Dry Powder Inhaler (DPI) formulation. This study is designed
+      to investigate the tolerability, safety and pharmacokinetics of inhaled CHF6333 DPI in
+      healthy male subjects.
+
+      The study will comprise two parts:
+
+      Part 1 will consist of two alternated cohorts of healthy male subjects to assess the safety,
+      tolerability and pharmacokinetics of Single Ascending Dose (SAD) of CHF6333.
+
+      Part 2 will consist of four sequential cohorts of healthy male subjects to assess the safety,
+      tolerability and pharmacokinetics of Multiple Ascending Dose (MAD) of CHF6333
+",Completed,Frédéric Vanhoutte,Phase 1,Interventional,NA,CHF6333 FIH,2016-11-01,2017-07-01,2017-07-01,Male,18 Years,55 Years,2,72
+44,NCT03093974,Zambon SpA,Randomized,Long Term Efficacy and Safety of Inhaled Colistimethate Sodium in Bronchiectasis Subjects With Chronic Pseudomonas Aeruginosa Infection.,"
+      The primary objective of the trial is to investigate the effect of the use of inhaled
+      colistimethate sodium, administered twice daily via the I-neb for 12 months, compared to
+      placebo in subjects with non-cystic fibrosis bronchiectasis (NCFB) chronically infected with
+      P. aeruginosa on the frequency of pulmonary exacerbations.
+",Completed,"Dearbhla Hull, MD",Phase 3,Interventional,Annualized Pulmonary Exacerbation rate,PROMIS-I,2017-06-06,2021-04-09,2021-04-09,All,18 Years,N/A,2,377
+45,NCT03147651,Rambam Health Care Campus,NA,Exercise Capacity in Patients With Cystic Fibrosis vs. Non-cystic Fibrosis Bronchiectasis,"
+      Introduction: Bronchiectasis is a chronic lung disease in which the underlying condition
+      causes permanent damage to the conducting airways. Bronchiectasis is associated with
+      considerable morbidity and poor quality of life. While cystic fibrosis (CF) is the most
+      common cause of bronchiectasis in childhood, non-CF bronchiectasis is associated with a wide
+      variety of disorders. CF bronchiectasis patients show reduced daily habitual physical
+      activity and exercise capacity. Cardiopulmonary exercise test (CPET) is increasingly gaining
+      importance in clinical medicine and considered the gold standard exercise test for assessing
+      aerobic exercise capacity. The test objectively evaluates exercise physiological functions,
+      may help assess morbidity and predict the outcome and mortality in different clinical
+      circumstances and may serve as a basis for individualized exercise prescription within the
+      limitation of the disease. Unlike CPET in CF, there is a paucity of data on exercise capacity
+      using CPET in non- CF bronchiectasis patients, and on the implications of physical activity
+      on non- CF bronchiectasis morbidity and mortality.
+
+      Aim: To evaluate and compare exercise capacity in CF and non-CF bronchiectasis patients.
+
+      Methods: This will be a cross-sectional retrospective/prospective study population. The
+      retrospective study will include data analysis of patients that preformed CPET as part of
+      their clinical evaluation. In the prospective study, patients that are scheduled to perform
+      CPET as part of their clinical evaluation will sign (or legal guardian) informed consent
+      prior to participation. Patients will be recruited from the exercise clinic at the Pediatric
+      Pulmonary Institute at the Rappaport Children's Hospital. Inclusion criteria: 1. Children and
+      adults (age >7 years, height >125cm), with CF and non CF bronchiectasis. 2. Completed a
+      maximal CPET test according to accepted criteria; (maximal VO2 > 80% predicted, maximal heart
+      rate > 80% predicted, acceptable RER (RER > 1.0 in children (under 18 years), RER > 1.05 for
+      adults) or reaching a VO2 plateau..3. Evidence of bronchiectasis in computed tomography (CT).
+
+      Exclusions criteria: preforming submaximal CPET, lack of data from the exercise test,
+      exacerbation of patient's condition within three days before the exercise evaluation,
+      relevant related chronic diseases that affecting test results.
+",Unknown status,"Lea Bentur, Prof.",NA,Observational,Oxygen Uptake (VO2),NA,2015-10-01,2017-12-01,2017-09-01,All,7 Years,N/A,NA,119
+46,NCT03218917,Insmed Incorporated,Randomized,Assessment of INS1007 in Subjects With Non-Cystic Fibrosis Bronchiectasis,"
+      The purpose of the study is to evaluate if INS1007 can reduce pulmonary exacerbations over a
+      24-week treatment period in patients with non-cystic fibrosis bronchiectasis.
+",Completed,"Carlos Fernandez, MD",Phase 2,Interventional,Time to first pulmonary exacerbation,NA,2017-12-01,2019-12-12,2019-12-12,All,18 Years,85 Years,3,256
+47,NCT03428334,The University of Hong Kong,N/A,Roflumilast in Non-CF Bronchiectasis Study,"
+      This is a single-arm, open label, Phase II study of Roflumilast in stable-state non-cystic
+      fibrosis bronchiectasis subjects.
+
+      Bronchiectasis refers to a suppurative lung condition characterized by pathological
+      dilatation of bronchi. The predominant aetiology of bronchiectasis in the Western population
+      is related to cystic fibrosis (CF), which is genetically determined. Bronchiectasis due to
+      other causes are generally grouped under the term ""non-CF bronchiectasis"", which accounts for
+      practically all cases that are seen commonly in Hong Kong and many other Chinese populations.
+
+      The main pathogenesis of non-CF bronchiectasis involves airway inflammation, abnormal mucus
+      clearance and bacterial colonization, resulting in progressive airway destruction and
+      distortion. The current treatment strategies mainly focus on targeting the key elements in
+      the pathogenesis of non-CF bronchiectasis.
+
+      In patients with bronchiectasis, there is also neutrophilic inflammation as in COPD. It is
+      hypothesized that roflumilast can improve airway inflammation, sputum volume and sputum
+      inflammatory markers in patients with bronchiectasis.
+
+      This study aims to investigate the effect of short-term (4-week) treatment with roflumilast
+      on neutrophilic airway inflammation in stable-state non-CF bronchiectasis.
+",Completed,"James CM Ho, MD",Phase 2,Interventional,sputum leukocyte density,NA,2018-05-10,2019-08-31,2019-08-31,All,18 Years,N/A,1,20
+48,NCT03460704,Zambon SpA,Randomized,Trial in Non-cystic Fibrosis Bronchiectasis Patients With Chronic Lung Infections Treated With Colistimethate Sodium (PROMIS II),"
+      The primary objective of the trial is to investigate the effect of the use of inhaled
+      colistimethate sodium, administered twice daily via the I-neb for 12 months, compared to
+      placebo in subjects with non-cystic fibrosis bronchiectasis (NCFB) chronically infected with
+      P. aeruginosa on the frequency of pulmonary exacerbations.
+",Completed,"Dearbhla Hull, MD",Phase 3,Interventional,Annualized Pulmonary Exacerbation rate,NA,2018-01-29,2022-03-15,2022-03-15,All,18 Years,90 Years,2,287
+49,NCT03818646,Papworth Hospital NHS Foundation Trust,NA,Functional Respiratory Imaging in Bronchiectasis,"
+      Four-week prospective single centre exploratory study in adults with bronchiectasis suffering
+      a pulmonary exacerbation (defined as a change in one or more of the following: cough; sputum
+      amount; sputum colour; breathlessness; fevers; and malaise).
+
+      The study will recruit ten adult subjects (male and female) who attend the Cambridge Centre
+      for Lung Infection (CCLI) at the Royal Papworth Hospital, Cambridge, United Kingdom. The
+      study will include individuals with a known diagnosis of bronchiectasis suffering a current
+      pulmonary exacerbation. Participants seen during their usual clinic review with an
+      exacerbation will be invited to participate and enrolled to commence the study that same day
+      (day 0). Participants enrolled will undergo clinical review and a series of standard-of-care
+      testing including sputum culture, lung function tests and blood analysis. Additional to these
+      standard investigations, participants will also undertake a series of patient reported
+      outcomes via validated respiratory questionnaires (Quality of Life - Bronchiectasis - QOL-B;
+      & Leicester Cough Questionnaire - LCQ) and functional respiratory imaging (FRI). FRI consists
+      of low dose high-resolution CT at full inspiration and expiration, combined with
+      computational fluid dynamic testing.
+
+      Participants will be treated without delay according to standard of care treatment as per
+      current international guidelines. Participants may be treated as either an inpatient or
+      outpatient determined by the treating respiratory physician.
+
+      Follow up will occur on day 7, 14 and 28 post enrolment with serial CT imaging on days 0, 14
+      and 28. No scheduled follow up testing will be required beyond the day 28 visit, however all
+      participants will receive a follow-up phone call at day 35.
+
+      The investigators hypothesize that changes in FRI parameters will be seen pre and post
+      exacerbation treatment and will correlate with changes in lung function and patient reported
+      outcomes. This will confirm FRI as a surrogate biomarker for assessing therapeutic response
+      in future clinical trials in bronchiectasis.
+",Unknown status,"Ian Smith, MD",NA,Observational,NA,FRIBE,2019-01-01,2019-04-01,2019-04-01,All,18 Years,80 Years,NA,10
+50,NCT03988816,University of Sao Paulo General Hospital,Randomized,"Effect of Roflumilast on Quality of Life, Lung Function and Mucus Properties in Patients With Bronchiectasis","
+      Although relatively common, bronchiectasis is considered an orphan disease as there is little
+      evidence for adequate treatment, most of the therapeutic options are extrapolated from
+      studies with patients with chronic obstructive pulmonary disease (COPD) or cystic fibrosis
+      (CF). Inhaled bronchodilators and corticosteroids should be used as a therapeutic test and
+      maintained if there is improvement of symptoms or lung function. There is no evidence to
+      justify the use of mucolytic agents for these patients. The treatment with greater evidence
+      is the use of macrolides, especially azithromycin. A meta-analysis published in 2014 showed
+      that there was a reduction in the number of exacerbations, an improvement in the quality of
+      life and a reduction in the decrease in FEV1. However, studies have shown conflicting results
+      regarding quality of life and pulmonary function.
+
+      Roflumilast is a phosphodiesterase-4 inhibitor with an anti-inflammatory effect in vitro and
+      in vivo due to the inhibition of cyclic adenosine monopostat breakdown (cAMP) to its inactive
+      phosphodiesterase form. As this enzyme is expressed in high concentrations in leukocytes and
+      other inflammatory cells responsible for the pathogenesis of pulmonary diseases such as COPD,
+      it has been studied and used for this disease. COPD is characterized by a chronic
+      inflammatory process of the airways, predominantly neutrophils and high levels of
+      proinflammatory cytokines related to this cell, such as interleukin-8, neutrophil elastase,
+      tumor necrosis factor (TNF) alpha and E-selectin. The REACT study showed that roflumilast
+      prevents moderate and severe infectious exacerbations in addition to improved lung function
+      in patients with COPD who continue to exacerbate despite the use of combined bronchodilator
+      and inhaled corticosteroid therapy.
+
+      Since bronchiectasis and COPD are chronic inflammatory diseases, they present similar
+      inflammatory processes, with neutrophil as the main inflammatory cell, it is expected that
+      the use of roflumilast also has an anti-inflammatory effect in bronchiectasis. In addition,
+      since bronchiectasis is a disease with poor evidence for pharmacological treatment, it is
+      necessary to search for new therapeutic possibilities.
+",Unknown status,"Rodrigo A Athanazio, MD, PhD",Phase 2,Interventional,Quality of life questionnaire,NA,2019-12-06,2020-12-01,2020-12-01,All,18 Years,N/A,2,30
+51,NCT04010799,Chiesi Farmaceutici S.p.A.,Randomized,"A Clinical Study to Investigate Safety, Tolerability and Distribution of CHF 6333 After One or After Repeated Inhalation in Patients With Cystic Fibrosis (CF) and in Patients With Non Cystic Fibrosis (NCFB) Bronchiectasis","
+      CHF 6333 is a medicinal product on development for the treatment of cystic fibrosis and
+      non-CF bronchiectasis and undergoing clinical testing. It has not yet been approved by the
+      authorities for the treatment of these diseases.
+
+      CHF6333 is an inhaled anti-inflammatory which mechanism of action is based on the inhibition
+      of Human Neutrofil Elastase.
+
+      The safety and tolerability of single and repeated ascending doses of inhaled CHF 6333 was
+      previously investigated in healthy subjects: information was gathered on the uptake,
+      distribution and excretion of the medicinal product being tested (pharmacokinetics). In this
+      current clinical trial CHF 6333 will be tested in patients(CF and NCFB) for the first time.
+
+      Three dose level will be tested during the first part of the study, as single administration.
+      One repeated dose will be administered in the second part of the study.
+",Completed,NA,Phase 1,Interventional,NA,NA,2019-05-27,2021-03-08,2021-03-08,All,18 Years,N/A,2,68
+52,NCT04017312,Hill-Rom,Randomized,A Pilot Study to Evaluate the Use of the Vest® System for Treatment of Bronchiectasis Patients in the Home Setting,"
+      This a 70 patient multi-site non blinded randomized control trial evaluating the use of the
+      Vest® System for treatment of Non-Cystic Fibrosis Bronchiectasis (NCFBE) patients in the home
+      setting. The study will assess outcomes in subjects requiring airway clearance therapy
+      randomized to Oscillating Positive Expiratory Pressure (OPEP) therapy as the control group
+      and High Frequency Chest Wall Oscillation (HFCWO) therapy as the intervention group
+",Unknown status,"Mark Jennings, MD",N/A,Interventional,Frequency of acute exacerbations of bronchiectasis,NA,2019-08-23,2020-11-01,2020-11-01,All,18 Years,80 Years,2,70
+53,NCT04090294,Assiut University,N/A,Assessment of Early Outcomes of Roflumilast in Patients With Non Cystic Fibrosis Bronchiectasis,"
+      Aim of the work
+
+      Assessment of early outcome of using Roflumilast in patients with bronchiectasis regarding:
+
+        -  Severity of symptoms
+
+        -  Frequency of exacerbations
+
+        -  Change in pulmonary function
+
+        -  Systemic inflammation
+",Unknown status,"Ahmad Shaddad, Lecturer",Early Phase 1,Interventional,NA,NA,2019-10-01,2020-11-01,2020-09-01,All,18 Years,75 Years,1,35
+54,NCT04122547,Prince of Songkla University,Randomized,Efficacy of Roflumilast on Exacerbations in Patients With Non-cystic Fibrosis Bronchiectasis,"
+      Roflumilast compare with placebo for decrease infected exacerbation in non-cystic
+      Bronchiectasis
+",Completed,"Kanung Saejiam, MS",Phase 3,Interventional,acute deterioration of of bronchiectasis symptoms,NA,2015-01-01,2015-12-01,2015-12-01,All,18 Years,80 Years,2,40
+55,NCT04170114,Bezmialem Vakif University,Randomized,Comparison of the Efficacy of Comprehensive Respiratory Physiotherapy in Children With Cystic Fibrosis and Non-Cystic Fibrosis Bronchiectasis,"
+      The effect of comprehensive respiratory physiotherapy applications on respiratory function,
+      functional capacity and peripheral muscle strength in children with cystic fibrosis and
+      non-cystic fibrosis will be compared.
+",Completed,NA,N/A,Interventional,NA,NA,2020-01-01,2020-11-01,2020-11-01,All,6 Years,18 Years,2,60
+56,NCT04278040,"Federal State Budgetary Institution, Pulmonology Scientific Research Institute",N/A,Inhalations of Ultra-low Doses of Melphalan for the Treatment of Non-cystic Fibrosis Bronchiectasis,"
+      This non-randomised open-label prospective pilot study evaluates the safety and efficacy of
+      inhalations of ultra-low doses of alkylating drug melphalan for the treatment of non-cystic
+      fibrosis bronchiectasis. All patients will receive 0,1 mg of melphalan in 5 daily inhalations
+      1 time per day.
+",Unknown status,"Kirill Zykov, Prof",Phase 2,Interventional,Frequency of drug-related side effects.,SEADIB1,2018-06-20,2021-12-30,2021-12-01,All,18 Years,70 Years,1,7
+57,NCT04322929,The University of Hong Kong,N/A,Roflumilast in Non-CF Bronchiectasis Study (2019),"
+      This is a single-arm, open label, Phase II study of 12-week use of Roflumilast in
+      stable-state non-cystic fibrosis bronchiectasis subjects.
+
+      Bronchiectasis refers to a suppurative lung condition characterized by pathological
+      dilatation of bronchi. The predominant aetiology of bronchiectasis in the Western population
+      is related to cystic fibrosis (CF), which is genetically determined. Bronchiectasis due to
+      other causes are generally grouped under the term ""non-CF bronchiectasis"", which accounts for
+      practically all cases that are seen commonly in Hong Kong and many other Chinese populations.
+
+      The main pathogenesis of non-CF bronchiectasis involves airway inflammation, abnormal mucus
+      clearance and bacterial colonization, resulting in progressive airway destruction and
+      distortion. This destructive process perpetuates in a vicious circle even when the initial
+      insult has subsided, which is commonly due to an infective process like tuberculosis in Hong
+      Kong. Patients with extensive bronchiectasis present with chronic cough, copious purulent
+      sputum, haemoptysis, progressive lung function loss, and episodes of infective exacerbations.
+
+      The current treatment strategies mainly focus on targeting the key elements in the
+      pathogenesis of non-CF bronchiectasis. Apart from regular chest physiotherapy and postural
+      drainage to help clearing mucus from bronchiectatic airways, inhalational and parenteral
+      antibiotics have also been used to reduce the bacterial load in destroyed airways, thus
+      controlling and preventing infective exacerbations. In recent years, accumulated evidence has
+      suggested a central role of airway inflammation and immune dysregulation in the evolution of
+      non-CF bronchiectasis.
+
+      Chronic obstructive pulmonary disease (COPD) is a progressive destructive process on exposure
+      to noxious environmental agents (e.g. tobacco smoke) that affects both the airways (chronic
+      bronchitis) and lung parenchyma (emphysema), leading to loss of lung function and exercise
+      capacity. Both COPD and bronchiectasis share similarities in clinical presentation and
+      pathogenetic mechanisms. Neutrophilic inflammation and bacterial colonization are also the
+      cornerstone in the airways of patients with COPD. Roflumilast, a phosphodiesterase 4 (PDE4)
+      inhibitor, has demonstrated anti-inflammatory activity in COPD resulting in reduction in
+      exacerbation frequency. This is the first-in-class and the only one clinically available PDE4
+      inhibitor that is approved worldwide (including Hong Kong) for treatment of severe COPD with
+      frequent exacerbations.
+
+      At the time of writing, the exact role and clinical evidence for roflumilast in dampening
+      airway inflammation in non-CF bronchiectasis is still lacking. Given the common pathogenetic
+      mechanism via neutrophilic inflammation between non-CF bronchiectasis and COPD, as well as
+      the robust clinical activity of roflumilast in COPD, this study is designed to provide
+      initial scientific evidence on the activity of roflumilast on neutrophilic airway
+      inflammation in patients with stable-state non-CF bronchiectasis.
+
+      This study aims to investigate the effect of 12-week treatment with roflumilast on
+      neutrophilic airway inflammation in stable-state non-CF bronchiectasis.
+",Recruiting,NA,Phase 2,Interventional,24-hour sputum volume,NA,2020-11-12,2022-06-30,2022-02-28,All,18 Years,N/A,1,27
+58,NCT04509661,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Efficacy and Safety of Inhaled Bronchodilator in Non-CF Bronchiectasis With Airflow Limitation,"
+      Airflow limitation is common exist in idiopathic bronchiectasis patients. However, there are
+      few evidence on the treatment of bronchodilator in bronchiectasis with airflow limitation.
+      The efficacy and safety of dual bronchodilator in idiopathic bronchiectasis with airflow
+      limitation are still unclear. Thus, the investigators conduct a multicenter, open-label
+      randomized controlled trial to investigate the efficacy and safety of dual bronchodilator in
+      idiopathic bronchiectasis with airflow limitation.
+",Not yet recruiting,"Jin-fu Xu, MD",Phase 4,Interventional,Actue exacerbation,NA,2020-09-01,2024-06-01,2024-06-01,All,18 Years,N/A,2,200
+59,NCT04538859,Chinese University of Hong Kong,NA,A Prospective Study of Factors Related to Exacerbation and Mortality of Non-cystic Fibrosis Bronchiectasis in Hong Kong,"
+      Bronchiectasis is associated with repeated exacerbations which occurs at rates of 1.5-6.5 per
+      patients per year, and are associated with an increased risk of admission and readmission to
+      hospital, and high health care costs. In a local study carried out more than 10 years ago,
+      idiopathic disease dominates and patients with bronchiectasis are mainly female with high
+      hospitalization and mortality rates; 21.9 cases per 100,000 and 2.7 cases per 100,000
+      respectively. Moreover, exacerbation characterized by increases in symptoms requiring
+      antibiotic treatment is associated with disease progression and significant mortality.
+      Updated prevalence of this disease with the characteristics of etiology, clinical
+      presentation and outcomes are needed to guide further management plan.
+",Recruiting,NA,NA,Observational [Patient Registry],Number of bronchiectasis exacerbation,NA,2020-08-30,2027-08-29,2027-08-29,All,18 Years,N/A,NA,400
+60,NCT04594369,Insmed Incorporated,Randomized,"A Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib in Participants With Non-Cystic Fibrosis Bronchiectasis","
+      The primary objective of this study is to evaluate the effect of brensocatib at 10 mg and 25
+      mg compared with placebo on the rate of pulmonary exacerbations (PEs) over the 52-week
+      treatment period.
+",Recruiting,NA,Phase 3,Interventional,Rate of Adjudicated Pulmonary Exacerbations (PEs),ASPEN,2020-12-01,2024-03-22,2024-03-22,All,12 Years,85 Years,3,1620
+61,NCT04643587,CSL Behring,Randomized,Study to Assess CSL787 in Non-cystic Fibrosis Bronchiectasis (NCFB),"
+      This study is a prospective, multicenter, randomized, double-blind, placebo-controlled study
+      to investigate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD) and
+      exploratory efficacy of nebulized CSL787 after administrations of single (SAD) ascending
+      doses in healthy subjects and multiple (MAD) ascending doses in subjects with NCFB.
+",Recruiting,Study Director,Phase 1,Interventional,NA,NA,2020-12-07,2022-11-01,2022-11-01,All,18 Years,N/A,8,64
+62,NCT04656275,Boehringer Ingelheim,Randomized,A Study in Patients With Non-cystic Fibrosis Bronchiectasis to Test How Well Different Doses of BI 1323495 Are Tolerated and How BI 1323495 Affects Biomarkers of Inflammation,"
+      This study is open to adults with non-cystic fibrosis bronchiectasis. The main purpose of
+      this study is to find out how a medicine called BI 1323495 is tolerated by people with
+      non-cystic bronchiectasis.
+
+      The study tests 2 different doses of BI 1323495. Some of the participants get placebo. It is
+      decided by chance who gets BI 1323495 and who gets placebo. Participants take BI 1323495 or
+      placebo as tablets twice a day for 3 months. Placebo tablets look like BI 1323495 tablets but
+      do not contain any medicine. Participants can also continue taking standard medicines for
+      noncystic bronchiectasis throughout the study.
+
+      Participants are in the study for about 4 months. During this time, the participants visit
+      the study site about 11 times and get about 2 phone calls. At the visits, doctors check the
+      health of the participants and note any health problems that could have been caused by BI
+      1323495.
+",Terminated,NA,Phase 1,Interventional,Occurrence of drug-related adverse events,NA,2021-03-04,2021-12-20,2021-12-20,All,18 Years,80 Years,3,7
+63,NCT04658277,Chinese University of Hong Kong,Randomized,Effect of Long Term Clarithromycin for Prevention of Exacerbations in Non-cystic Fibrosis Bronchiectasis in Asian Populations,"
+      clarithromycin may reduce the exacerbations in middle-aged and elderly patients with non-CF
+      bronchiectasis.
+
+      The study is aimed to (A) investigate the etiologies and clinical features of patients with
+      bronchiectasis, (B) compare the effect of clarithromycin 250mg daily on the frequency of
+      exacerbations, quality of life and lung function, stratified according to the degree of
+      bronchiectasis severity.
+",Recruiting,NA,N/A,Interventional,number of infectious exacerbations,NA,2020-10-01,2023-09-30,2023-09-30,All,50 Years,N/A,2,40
+64,NCT04884308,Johns Hopkins University,Non-Randomized,Bacille Calmette-Guerin (BCG) Vaccine for Immune Protection Against Infections,"
+      This is pilot study of the immunologic effects of intradermal Bacille Calmette-Guerin (BCG)
+      vaccination of adults with cystic fibrosis (CF), non-CF bronchiectasis (NCFB), and healthy
+      volunteers.
+",Recruiting,"Noah Lecthzin, MD, MHS",Phase 2,Interventional,BCG Uptake,NA,2021-04-28,2023-06-30,2023-06-30,All,18 Years,65 Years,3,180
+65,NCT05006573,AstraZeneca,Randomized,Efficacy and Safety of Benralizumab in Patients With Non-cystic Fibrosis Bronchiectasis,"
+      This is a multicentre, randomised, double-blind, parallel-group, placebo-controlled, 52 week
+      Phase III study to test the hypothesis that benralizumab will reduce exacerbation rates
+      compared with placebo on top of standard-of-care therapy in adult patients with non-cystic
+      fibrosis bronchiectasis with eosinophilic inflammation (NCFB+EI).
+
+      All patients who complete the 52-week double-blind treatment period on investigational
+      product (IP) may be eligible to continue into an open-label extension (OLE), during which all
+      patients will receive benralizumab.
+
+      The OLE treatment period is intended to allow patients at least one year of treatment with
+      open label benralizumab.
+",Recruiting,"James D. Chalmers, MD",Phase 3,Interventional,Annualised exacerbation rate,MAHALE,2021-07-21,2026-01-05,2024-06-10,All,18 Years,130 Years,2,420
+66,NCT05344508,Insmed Incorporated,NA,An Expanded Access Study to Assess Brensocatib for Participants With Non-Cystic Fibrosis Bronchiectasis,"
+      The purpose of this study is to allow early access to brensocatib for participants with
+      non-cystic fibrosis bronchiectasis (NCFBE) who have successfully completed the INS1007301
+      ASPEN Clinical trial.
+",Available,NA,NA,Expanded Access,NA,NA,NA,NA,NA,All,18 Years,85 Years,NA,NA
+67,NCT05369624,Hospital Universitario Virgen Macarena,Randomized,Exercise Capacity in Non-cystic Fibrosis Bronchiectasis After a Pulmonary Rehabilitation Home-based Program,"
+      A number of studies have described low exercise capacity and physical activity in patients
+      with non-cystic fibrosis bronchiectasis (non-CF Bronchiectasis), although little research
+      exists on using the cardiopulmonary exercise test (CPET) to evaluate exercise capacity and
+      its most relevant changes after a pulmonary rehabilitation home-based program (PRHP). In
+      addition, few studies have addressed tolerance to exercise and physical activity in severe
+      cases of the disease.
+
+      Aims:
+
+      To evaluate the exercise capacity of non-CF BQ patients using CPET and physical activity
+      after a pulmonary rehabilitation home-based program.
+
+      Methodology:
+
+      Our study describes a non-pharmacological clinical trial in non-CF BQ patients at the Virgen
+      Macarena University Hospital (Seville, Spain). The patients were randomized into two groups:
+      the control group (who were provided with training instructions) and the intervention group
+      (who took part in a specific pulmonary rehabilitation home-based program).
+",Completed,"Virginia Almadana, PhD",N/A,Interventional,"Exercise capacity of Non-cystic Fibrosis Bronchiectasis ( Non-CF bronchiectasis) after pulmonary rehabilitation home-based program (PRHP). Change in VO2 (oxygen consumption, ml/min)",NA,2018-05-08,2020-03-14,2019-03-14,All,18 Years,N/A,2,34
