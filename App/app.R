@@ -5,7 +5,7 @@ library(lubridate)
 library(htmltools)
 library(RColorBrewer)
 library(thematic)
-
+library(shinythemes)
 markercolors <- c('red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'purple', 'darkpurple', 'cadetblue')
 
 projectfolder <- dirname(getwd())
@@ -25,14 +25,14 @@ ui <- fluidPage(
   
   
   navbarPage("NCFB Clinical Trials Dashboard",
-             tabPanel("Explore by geography"),
-             tabPanel("Explore by endpoint"),
+             tabPanel("Trials"),
+             tabPanel("Endpoints"),
              tabPanel("About this dashboard"),
   ),
     
   fluidRow(
     
-    column(width = 6,
+    column(width = 5, offset = 1,
            wellPanel(
              
              tags$h4("Number of studies started in each year", align = "center"),
@@ -56,15 +56,32 @@ ui <- fluidPage(
                                                      animate = TRUE,
                                                      width = "80vh")), align = "center"),
              
-             leafletOutput(outputId = "mymap")
-             
+             leafletOutput(outputId = "mymap"),
+             br(),
+             wellPanel(
+             fluidRow(
+               column(width = 4, checkboxGroupInput(inputId = "topics", "Select required topics:",
+                                                    choiceNames = list("Exacerbation", "Sputum", "PROs", "Spirometry endpoint", "Bacterial endpoint"),
+                                                    choiceValues = list("Exacerbation", "Sputum", "PROs", "Spirometry endpoint", "Bacterial endpoint"))),
+               
+               column(width = 4, checkboxGroupInput(inputId = "meds", "Select required medications:",
+                                                    choiceNames = list("Ciprofloxacin", "Tobramycin", "Azithromycin", "Amikacin", "Colistimethate"),
+                                                    choiceValues = list("Ciprofloxacin", "Tobramycin", "Azithromycin", "Amikacin", "Colistimethate"))),
+               
+               column(width = 4, checkboxGroupInput(inputId = "companies", "Select required companies:",
+                                                    choiceNames = list("Bayer", "Insmed", "AstraZeneca", "Boehringer Ingelheim", "Novartis", "Gilead"),
+                                                    choiceValues = list("Bayer", "Insmed", "AstraZeneca", "Boehringer Ingelheim", "Novartis", "Gilead"))),
+               )
              )
+             )
+
            ),
     
-    column(width = 6, 
+    column(width = 5, 
            
            tags$h4("Details for the selected study", align = "center"),
-           htmlOutput(outputId = "titleblock")
+           htmlOutput(outputId = "titleblock"),
+           verbatimTextOutput(outputId = "debug")
            )
     
   )
@@ -157,8 +174,12 @@ server <- function(input, output, session) {
                 aes(x = year,
                     y = n),
                 size = 0.75) +
+      geom_point(data = test,
+                 aes(x = year,
+                     y = n),
+                 size = 3) +
       scale_y_continuous(limits = c(0, NA),
-                         breaks = c(0, 10)) +
+                         breaks = c(0, 5, 10)) +
       scale_x_continuous(limits = c(2004, 2021),
                          breaks = seq(2004, 2021, 1)) +
       theme(axis.title.x = element_blank(),
@@ -204,6 +225,12 @@ server <- function(input, output, session) {
     
   })
 
+  output$debug <- renderPrint({
+    
+    input$companies
+
+  })
+  
 }
 
 
