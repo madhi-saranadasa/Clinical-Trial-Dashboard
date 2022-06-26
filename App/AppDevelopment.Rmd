@@ -39,6 +39,40 @@ for (i in 1:length(filepaths)) {
 
 ```
 
+```{r}
+
+
+
+study_list <- CTD_DetailsClean %>%
+      filter(year(start_date == input$YearSlider)) %>% 
+      distinct(id) %>%
+      pull(id)
+
+
+
+testlist <- CTD_Details %>% 
+  filter(agency == "Madghi") %>%
+  pull(id)
+
+test <- CTD_Details %>% 
+  filter(id %in% testlist)
+
+
+markercolors <- c('red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'purple', 'darkpurple', 'cadetblue')
+idmapping <- tibble(id = testlist,
+                    color = rep_len(markercolors, length(testlist)))
+
+
+length(testlist)
+
+
+test1 <- c(1, 2, 3, 4)
+test2 <- c(3,4)
+
+intersect(test1, test2)
+```
+
+
 # CTD_LocationAdded: Geocode cities (if needed)
 
 ```{r}
@@ -114,18 +148,43 @@ locations
 test <- CTD_DetailsClean %>%
   mutate(year = year(start_date)) %>%
   group_by(year) %>%
-  summarise(n = n())
+  summarise(n = n()) %>%
+  filter(!is.na(year))
 ```
 
 ```{r}
 
 ggplot() +
-  geom_line(data = test,
+  geom_bar(data = test,
             aes(x = year,
-                y = n)) +
+                y = n),
+           stat = "identity") 
   scale_y_continuous(limits = c(0, NA))
 
+```
 
+```{r}
+
+us_flag <- CTD_LocationAdded %>% 
+  filter(country == "United States") %>%
+  distinct(id) %>%
+  mutate(has_us_facility = TRUE) 
+
+parser <- CTD_DetailsClean %>%
+  select(id, title, ie) %>%
+  left_join(us_flag, by = "id") %>%
+  mutate(has_us_facility = ifelse(is.na(has_us_facility), FALSE, has_us_facility)) %>%
+  mutate(conditions = "Non-cystic Fibrosis Bronchiectasis") %>%
+  rename(nct_id = id,
+         eligibility_criteria = ie) %>%
+  select(nct_id, title, has_us_facility, conditions, eligibility_criteria) 
+
+
+
+datapath <- file.path(projectfolder, "Data", "CTD_Eligibility_criteria.csv")
+write_csv(parser, datapath)
 
 ```
+
+
 

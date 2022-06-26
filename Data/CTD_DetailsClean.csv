@@ -1,8 +1,28 @@
-...1,id,agency,allocation,title,brief_summary,status,PI,phase,study_type,primary_outcome_measure,acronym,start_date,completion_date,primary_completion_date,gender,minimum_age,maximum_age,number_of_arms,enrollment
+...1,id,agency,allocation,title,brief_summary,ie,status,PI,phase,study_type,primary_outcome_measure,acronym,start_date,completion_date,primary_completion_date,gender,minimum_age,maximum_age,number_of_arms,enrollment
 0,NCT00484263,The Alfred,Randomized,The Long Term Effect of Inhaled Hypertonic Saline (6%) in Patients With Non Cystic Fibrosis Bronchiectasis,"
       The purpose of this study is to determine whether the daily inhalation of nebulised
       hypertonic saline (6%) will decrease the incidence of pulmonary exacerbations and increase
       the quality of life for people with non cystic fibrosis bronchiectasis.
+","
+        Inclusion Criteria:
+
+          -  diagnosis of bronchiectasis on high resolution computer tomography
+
+          -  at least 2 respiratory exacerbations per year over the past 2 years
+
+          -  producing sputum daily
+
+          -  in a stable clinical state
+
+          -  over 18 years of age.
+
+        Exclusion Criteria:
+
+          -  cystic fibrosis
+
+          -  Positive response to hypertonic saline challenge - FEV 1 decreased by ≥ 15%
+
+          -  FEV 1 ≤ 1L
 ",Completed,NA,Phase 3,Interventional,Number of pulmonary exacerbations,NA,2007-12-01,2009-10-01,2009-10-01,All,18 Years,N/A,1,40
 1,NCT00728715,Hospital General de Requena,Randomized,Efficacy of Budesonide-Formoterol in Bronchiectasis,"
       Some studies have concluded that high-dose inhaled steroids (IS) are effective in the
@@ -38,6 +58,24 @@
       Studied variables:
 
       Clinical, functional, quality of life, microbiological and number of side effects.
+","
+        Inclusion Criteria:
+
+          -  18-80 years old patients diagnosed of non-cystic fibrosis bronchiectasis
+
+          -  More than 1 pulmonary lobe affected
+
+          -  Chronic obstructive airflow obstruction
+
+          -  Stable phase of the disease
+
+        Exclusion Criteria:
+
+          -  Asthma, COPD or current/past smnokers
+
+          -  No consent
+
+          -  Known intolerance to budesonide or formoterol
 ",Completed,NA,N/A,Interventional,Health related quality of life (measured by St Gorge Respiratory Questionnaire),NA,2004-01-01,2005-01-01,2005-01-01,All,18 Years,80 Years,2,40
 2,NCT00749866,University of Edinburgh,Randomized,Long Term Nebulised Gentamicin in Patients With Bronchiectasis,"
       The hypothesis of this randomized placebo controlled trial is that targeted nebulized
@@ -45,6 +83,54 @@
       inflammation. If given long term this will improve symptoms, pulmonary physiology, exercise
       capacity and health related quality of life with a reduction in exacerbation frequency and
       health care utilization.
+","
+        Inclusion Criteria:
+
+          -  Bronchiectasis confirmed by HRCT of the chest
+
+          -  Clinically stable (not requiring antibiotics for at least 4 weeks preceding the study
+             start date)
+
+          -  Aged 18-70
+
+          -  Chronic sputum production > 5 mls for the majority of days in 3 months before
+             enrolment
+
+          -  Chronically colonized (on at least 2 occasions in the preceding 12 months) whilst
+             clinically stable
+
+          -  At least two exacerbations in the past year
+
+          -  Patients able to tolerate a nebulized gentamicin challenge
+
+          -  FEV1 > 30% predicted
+
+          -  Smoking < 20 pack year history and ex-smokers >1 year.
+
+        Exclusion Criteria:
+
+          -  Cystic fibrosis
+
+          -  Emphysema on HRCT chest
+
+          -  Thoracic surgery within the past 1 year
+
+          -  Allergic bronchopulmonary aspergillosis
+
+          -  Poorly controlled asthma ( > 20% diurnal variation in peak expiratory flows despite
+             treatment)
+
+          -  Unstable angina or uncontrolled congestive cardiac failure
+
+          -  Active malignancy
+
+          -  Pregnancy or breast feeding
+
+          -  Creatinine clearance < 30 mls/minute
+
+          -  Vestibular instability
+
+          -  Previous documented intolerance to aminoglycosides
 ",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,Reduction in bacterial load,NA,2007-05-01,2009-08-01,2009-08-01,All,18 Years,70 Years,2,60
 3,NCT00816309,NHS Lothian,Randomized,"Is Regular Chest Physiotherapy an Effective Treatment in Severe, Non Cystic Fibrosis Bronchiectasis?","
       Bronchiectasis is a chronic chest condition which causes a persistent cough and frequent
@@ -54,6 +140,16 @@
       called the Acapella device) has been developed to make physiotherapy practise easier. This
       study aims to assess how helpful regular physiotherapy using a new mouthpiece is in patients
       with severe bronchiectasis.
+","
+        Inclusion Criteria:
+
+          -  Moderate and Severe Bronchiectasis
+
+          -  No regular chest physiotherapy
+
+        Exclusion Criteria:
+
+          -  Moderate or Severe COPD
 ",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,24 hour sputum volume and assessment of cough severity (Leicester Cough Questionnaire),NA,2007-10-01,2009-03-01,2008-12-01,All,60 Years,85 Years,2,20
 4,NCT00868075,NHS Lothian,Randomized,Pulmonary Rehabilitation in Non Cystic Fibrosis Bronchiectasis,"
       The aim of our study is to ascertain whether chest physiotherapy + pulmonary rehabilitation
@@ -63,6 +159,26 @@
 
       PLANNED STUDY: This randomized study will compare 8 weeks chest physiotherapy with 8 weeks
       chest physiotherapy plus pulmonary rehabilitation.
+","
+        Inclusion Criteria:
+
+          -  Patients with moderate and severe bronchiectasis aged 18-75 will be recruited.
+             Severity will be assessed radiologically by HRCT of the chest using the scoring method
+             by Bhalla et al.
+
+        Exclusion Criteria:
+
+          -  cystic fibrosis
+
+          -  emphysema on HRCT chest and FEV1<60% predicted
+
+          -  active allergic bronchopulmonary aspergillosis or tuberculosis
+
+          -  poorly controlled asthma
+
+          -  pregnancy or breast feeding
+
+          -  current smokers
 ",Completed,"Adam T Hill, MD, FRCPE",Phase 4,Interventional,The primary endpoint of this study is improvement in exercise tolerance from an incremental walk test.,NA,2009-03-01,2011-08-01,2011-08-01,All,18 Years,75 Years,2,27
 5,NCT00885521,Bayside Health,Randomized,Exercise Training in Patients With Non-cystic Fibrosis (CF) Bronchiectasis,"
       The aim of this project is to examine the short and long term effects of an 8 week, twice
@@ -78,14 +194,96 @@
 
         2. Exercise training will significantly reduce the incidence of pulmonary exacerbations,
            use of antibiotics and rate of hospitalisation
+","
+        Inclusion Criteria:
+
+          -  Diagnosis of bronchiectasis (HRCT)
+
+          -  Stable medical status for last 4 weeks
+
+          -  History of 2 exacerbations in the last 2 years
+
+          -  Dysnpoea on exertion (Modified Medical Research Council score >1)
+
+        Exclusion Criteria:
+
+          -  Concurrent diagnosis of COPD (physician diagnosis and history of 10 pack year smoking)
+
+          -  Concurrent diagnosis of asthma (history of atopic disease and evidence of
+             bronchodilator reversibility of 12% or 200ml in FEV1 or FVC)
+
+          -  Concurrent diagnosis of Interstitial lung disease
+
+          -  Concurrent diagnosis of Cystic Fibrosis
+
+          -  Medical condition which could place patient at risk during exercise training (angina,
+             neurological or orthopaedic condition)
+
+          -  Prior completion of pulmonary rehabilitation within the last 12 months
 ",Completed,"Annemarie L Lee, PhD",Phase 1,Interventional,Incremental Shuttle Walk Test Chronic Respiratory Disease questionnaire,NA,2009-02-01,2013-02-01,2013-02-01,All,20 Years,80 Years,2,39
 6,NCT00889967,Aradigm Corporation,Randomized,"Safety and Efficacy Study of Ciprofloxacin for Inhalation in Patients With Non-Cystic Fibrosis Bronchiectasis ""ORBIT-1""","
       The purpose of this study is to evaluate the safety and efficacy of Ciprofloxacin for
       Inhalation in the treatment of patients with non-cystic fibrosis (CF) bronchiectasis.
+","
+        Inclusion Criteria:
+
+          1. Are willing and able to provide written informed consent.
+
+          2. Are males or females 18 to 80 year of age, inclusive.
+
+          3. Have had a confirmed diagnosis of non-CF bronchiectasis per high resolution computed
+             tomography (HRCT) for at least 4 years.
+
+          4. Confirmation of infection with P. aeruginosa at screening
+
+        Exclusion Criteria:
+
+          1. Have a known local or systemic hypersensitivity to fluoroquinolone or quinolone
+             antibiotics.
+
+          2. Have an exacerbation during the Screening Phase as defined as requiring treatment with
+             inhaled, oral, or intravenous antibiotics prior to the first dose of study drug.
+
+          3. Have a diagnosis of cystic fibrosis..
+
+          4. Have had changes in either the treatment regimen or initiation of treatment with any
+             of the following medications within 28 days prior to Visit 1:
+
+               -  Azithromycin
+
+               -  Hypertonic saline
+
+               -  Bronchodilator medications
+
+               -  Oral corticosteroid.
+
+          5. Have received an investigational drug or device within 28 days prior to Visit 1.
+
+          6. Have any serious or active medical or psychiatric illness, which in the opinion of the
+             investigator, would interfere with patients' treatment, assessment, or compliance with
+             the protocol.
 ",Completed,"Paul Bruinenberg, MBChB, MBA",Phase 2,Interventional,The primary efficacy endpoint is defined as the mean change in P. aeruginosa density in sputum (log10) CFU/gram of sputum from Baseline to Day 28.,NA,2010-02-01,2011-06-01,2011-04-01,All,18 Years,80 Years,3,95
 7,NCT00930982,Bayer,Randomized,Evaluation of Cipro Inhale in Patients With Non-cystic Fibrosis Bronchiectasis,"
       The purpose of this study is to find out if bacterial load in the airways can be reduced
       after inhalation of ciprofloxacin for 28 days.
+","
+        Inclusion Criteria:
+
+          -  Patients with a proven and documented diagnosis of non-cystic fibrosis idiopathic or
+             post pneumonic bronchiectasis
+
+          -  Stable pulmonary status and stable regimen of standard treatment at least for the past
+             30 days
+
+        Exclusion Criteria:
+
+          -  Forced Expiratory Volume 1 < 35% or > 80%
+
+          -  Allergic bronchopulmonary aspergillosis
+
+          -  Immunodeficiency disease requiring immunoglobulin replacement
+
+          -  Inflammatory bowel disease
 ",Completed,Bayer Study Director,Phase 2,Interventional,Change From Baseline in Total Bacterial Load in the Sputum at End of Treatment (Day 29).,NA,2009-06-01,2010-09-01,2010-09-01,All,18 Years,N/A,2,124
 8,NCT01299181,University of Edinburgh,Randomized,A Trial of Atorvastatin as an Anti-Inflammatory Agent in Non-Cystic Fibrosis Bronchiectasis,"
       The investigators hypothesise that long term statin treatment will improve patients' symptoms
@@ -93,6 +291,42 @@
       sputum volume, bacterial load, airway function, exercise tolerance, exacerbation frequency
       and health related quality of life) will be consequent on reduced neutrophilic airways
       inflammation.
+","
+        Inclusion Criteria:
+
+          -  Patients aged 18-75 will be recruited. All will have an established radiological
+             diagnosis of bronchiectasis (CT of the chest). Patients will have clinically
+             significant bronchiectasis expectorating mucopurulent or purulent sputum when
+             clinically stable with at least 2 chest infections per year.
+
+        Exclusion Criteria:
+
+          -  current smokers or ex-smokers of less than 1 year; >15 pack year history
+
+          -  cystic fibrosis
+
+          -  active allergic bronchopulmonary aspergillosis
+
+          -  active tuberculosis
+
+          -  poorly controlled asthma
+
+          -  pregnancy or breast feeding
+
+          -  known allergy to statins
+
+          -  active malignancy
+
+          -  chronic liver disease
+
+          -  established cardiovascular or cerebrovascular disease
+
+          -  statin use in the last year
+
+          -  patients on long term oral macrolides due to the interaction with statin therapy
+             patients chronically colonised with Pseudomonas aeruginosa (defined as two or more
+             isolates of Pseudomonas aeruginosa whilst clinically stable in 6 months prior to the
+             study).
 ",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,The primary endpoint of this study is a reduction in cough at 6 months compared to baseline as measured by the Leicester Cough Questionnaire score.,NA,2010-11-01,2013-08-01,2013-08-01,All,18 Years,75 Years,2,60
 9,NCT01299194,University of Edinburgh,Randomized,Atorvastatin in Bronchiectasis in Patients With Pseudomonas Aeruginosa,"
       Statins are a class of drug used to prevent heart attacks and strokes by lowering blood
@@ -123,6 +357,41 @@
 
       This pilot study will determine if there is any role for statins are an anti-inflammatory
       agent in patients with bronchiectasis.
+","
+        Inclusion Criteria:
+
+          -  Patients aged 18-80 will be recruited.
+
+          -  All will have an established radiological diagnosis of bronchiectasis (CT of the
+             chest).
+
+          -  Patients colonised with Pseudomonas Aeruginosa.
+
+          -  Able to give informed consent.
+
+        Exclusion Criteria:
+
+          -  Current smokers or ex-smokers of less than 1 year; >15 pack year history
+
+          -  Cystic fibrosis
+
+          -  Active allergic bronchopulmonary aspergillosis
+
+          -  Active tuberculosis
+
+          -  Poorly controlled asthma
+
+          -  Pregnancy or breast feeding
+
+          -  Known allergy to statins
+
+          -  Active malignancy
+
+          -  Chronic liver disease
+
+          -  Established cardiovascular or cerebrovascular disease
+
+          -  Statin use in the last year
 ",Completed,"Adam T Hill, MBChB MD",Phase 4,Interventional,The primary endpoint of this study is a reduction in cough at 3 months compared to baseline as measured by the Leicester Cough Questionnaire score.,NA,2010-11-01,2017-05-01,2015-06-01,All,18 Years,80 Years,2,32
 10,NCT01313624,Gilead Sciences,Randomized,Safety and Effectiveness of AZLI (an Inhaled Antibiotic) in Adults With Non-Cystic Fibrosis Bronchiectasis,"
       The AIR-BX1 study enrolled people with non-cystic fibrosis (non-CF) bronchiectasis and
@@ -130,6 +399,36 @@
       for Inhalation Solution (AZLI) or placebo taken 3 times a day. Each course was followed by a
       28-day off-drug period. Following the two blinded courses, all participants received a 28-day
       course of open-label AZLI then were followed for an additional 56 days.
+","
+        Inclusion Criteria:
+
+          -  Male/Female 18 years or older with non-CF bronchiectasis
+
+          -  Chronic sputum production on most days
+
+          -  Positive sputum culture for gram-negative organisms
+
+          -  Must have met lung function requirements
+
+        Exclusion Criteria:
+
+          -  History of CF
+
+          -  Hospitalized within 14 days prior to joining the study
+
+          -  Previous exposure to AZLI
+
+          -  Pregnant, breastfeeding, or unwilling to follow contraceptive measures for the study
+
+          -  Must have met liver and kidney function requirements
+
+          -  Continuous oxygen use of greater than 2 liters per minute (supplemental oxygen with
+             activity and at night was allowed)
+
+          -  Treatment for nontuberculous mycobacteria infection or active mycobacterium
+             tuberculosis infection within 1 year of enrollment
+
+          -  Other serious medical conditions.
 ",Completed,"Alan Barker, MD",Phase 3,Interventional,Change in QOL-B Respiratory Symptoms Score at Day 28,AIR-BX1,2011-04-01,2013-06-01,2013-03-01,All,18 Years,N/A,2,266
 11,NCT01314716,Gilead Sciences,Randomized,Safety and Effectiveness of AZLI (an Inhaled Antibiotic) in Adults With Non-Cystic Fibrosis Bronchiectasis,"
       The AIR-BX2 study enrolled people with non-cystic fibrosis (non-CF) bronchiectasis and
@@ -137,6 +436,36 @@
       for Inhalation Solution (AZLI) or placebo taken 3 times a day. Each course was followed by a
       28-day off-drug period. Following the two blinded courses, all participants received a 28-day
       course of open-label AZLI then were followed for an additional 56 days.
+","
+        Inclusion Criteria:
+
+          -  Male/Female 18 years or older with non-CF bronchiectasis
+
+          -  Chronic sputum production on most days
+
+          -  Positive sputum culture for gram-negative organisms
+
+          -  Must have met lung function requirements
+
+        Exclusion Criteria:
+
+          -  History of CF
+
+          -  Hospitalized within 14 days prior to joining the study
+
+          -  Previous exposure to AZLI
+
+          -  Pregnant, breastfeeding, or unwilling to follow contraceptive measures for the study
+
+          -  Must have met liver and kidney function requirements
+
+          -  Continuous oxygen use of greater than 2 liters per minute (supplemental oxygen with
+             activity and at night was allowed)
+
+          -  Treatment for nontuberculous mycobacteria infection or active mycobacterium
+             tuberculosis infection within 1 year of enrollment
+
+          -  Other serious medical conditions.
 ",Completed,"Anne O'Donnell, MD",Phase 3,Interventional,Change in QOL-B Respiratory Symptoms Score at Day 28,AIR-BX2,2011-04-01,2013-07-01,2013-04-01,All,18 Years,N/A,2,274
 12,NCT01463371,Instituto de Investigacion Sanitaria La Fe,Randomized,Effects of Azithromycin on Airway Oxidative Stress Markers in Patients With Bronchiectasis,"
       The mechanism by which macrolide antibiotics have immune modifying effects independent from
@@ -144,12 +473,38 @@
       investigators will analyze the effect of long-term treatment with azithromycin (250 mg three
       times per week during three months) on airway oxidative stress markers in exhaled breath
       condensate of adult patients with stable non-CF bronchiectasis.
+","
+        Inclusion Criteria:
+
+          -  Previous diagnosis of bronchiectasis based on lung HRCT and clinical symptoms
+
+          -  Clinically stable in previous four weeks without exacerbations
+
+          -  Informed consent
+
+        Exclusion Criteria:
+
+          -  Bronchiectasis secondary to Cystic fibrosis, pulmonary surgical processes, immune
+             deficiency, emphysema, allergic bronchopulmonary aspergillosis or diffuse interstitial
+             pulmonary diseases
+
+          -  Intolerance to macrolides or severe liver disease.
 ",Completed,"Alfredo De Diego Damia, MD",N/A,Interventional,"Changes in Nitric oxide,8-isoprostane, pH, nitrites (NO2) and nitrates(NO3) in exhaled breath condensate.",NA,2006-10-01,2007-09-01,2007-04-01,All,16 Years,80 Years,2,30
 13,NCT01515007,Aradigm Corporation,Randomized,Phase 3 Study With Ciprofloxacin Dispersion for Inhalation in Non-CF Bronchiectasis (ORBIT-3),"
       This study (ARD-3150-1201, ORBIT-3) will evaluate the safety and efficacy of inhaled
       Pulmaquin (ciprofloxacin dispersion for inhalation) compared to inhaled placebo in subjects
       who have a confirmed diagnosis of non-cystic fibrosis (non-CF) bronchiectasis with a history
       of pulmonary exacerbations and chronic P. aeruginosa infections.
+","
+        Inclusion Criteria:
+
+          -  Verified bronchiectasis diagnosis
+
+          -  Pseudomonas aeruginosa lung infection
+
+        Exclusion Criteria:
+
+          -  Cystic Fibrosis
 ",Completed,NA,Phase 3,Interventional,Time to first exacerbation,NA,2014-03-31,2016-10-01,2016-08-17,All,18 Years,N/A,2,278
 14,NCT01684683,The First Affiliated Hospital of Guangzhou Medical University,Randomized,The Effect of Theophylline in the Treatment of Bronchiectasis,"
       Theophylline was well recommended in the treatment of chronic obstructive pulmonary disease
@@ -157,11 +512,42 @@
       treatment of bronchiectasis. Our hypothesis is that theophylline will play a role in
       bronchiectasis. Our purpose is to examine the efficacy and safety of 24 weeks treatment with
       theophylline in subjects with non-cystic fibrosis bronchiectasis.
+","
+        Inclusion Criteria:
+
+          -  Patients between 18-70 years old with non-CF bronchiectasis ,free from acute
+             exacerbations for at least 3 months.Stable phase of the disease.
+
+        Exclusion Criteria:
+
+          -  Patients with a cigarette smoking history of more than 10 packs-year. Patients with
+             COPD. Patients with traction bronchiectasis due to advanced fibrosis. Patients with
+             known intolerance for theophylline. Patients with asthma. Patients with other disease
+             disturbing outcomes of the trials. Patients without consent.
 ",Completed,NA,Phase 4,Interventional,Scores of the St.George's Respiratory Questionnaire,NA,2012-11-01,2014-09-01,2014-04-01,All,18 Years,70 Years,2,100
 15,NCT01764841,Bayer,Randomized,Ciprofloxacin Dry Powder for Inhalation in Non-cystic Fibrosis Bronchiectasis (Non-CF BE),"
       The purpose of this study is to evaluate if the time to first pulmonary exacerbation of
       bronchiectasis or its frequency can be prolonged by inhalation of ciprofloxacin for 28 days
       every other 28 days or for 14 days every other 14 days over 48 weeks.
+","
+        Inclusion Criteria:
+
+          -  Patients with a proven and documented diagnosis of non Cystic Fibrosis (CF) idiopathic
+             or post infectious bronchiectasis
+
+          -  Stable pulmonary status and stable regimen of standard treatment at least for the past
+             4 weeks
+
+        Exclusion Criteria:
+
+          -  Forced expiratory volume in 1 second (FEV1) <30% or >90% predicted
+
+          -  Active allergic bronchopulmonary aspergillosis
+
+          -  Active and actively treated non tuberculosis mycobacterial (NTM) infection or
+             tuberculosis
+
+          -  Primary diagnosis of Chronic obstructive pulmonary disease (COPD)
 ",Completed,Bayer Study Director,Phase 3,Interventional,Time to First Exacerbation Event Within 48 Weeks,RESPIRE 1,2013-05-02,2016-03-09,2016-03-09,All,18 Years,N/A,4,416
 16,NCT01792427,Universitaire Ziekenhuizen Leuven,NA,Mortality in Non-cystic Fibrosis Bronchiectasis,"
       In this study we analyzed the overall survival for all newly diagnosed patients with
@@ -170,12 +556,45 @@
       aeruginosa and evaluate the impact on survival of etiology, number of different
       bacteriological species in retrospective and prospective sputa, azithromycin use and
       presence/development of pulmonary hypertension.
+","
+        Inclusion Criteria:
+
+          -  Patients with clinically significant and radiologically proven bronchiectasis
+
+          -  Chest CT scan confirming the presence of bronchiectatic lesions and had symptoms of
+             chronic productive cough
+
+          -  Bronchiectasis was deemed to be present if there was one or more of the following
+             criteria: a bronchoarterial ratio greater than 1, lack of tapering of the bronchi and
+             visualization of bronchi within 1 cm of costal or paravertebral pleura or abutting the
+             mediastinal pleura
+
+        Exclusion Criteria:
+
+          -  diagnosis of cystic fibrosis
+
+          -  underlying tumoral problem causing the bronchiectatic lesions (postradiotherapy,
+             secondary immunodeficiency due to chemotherapy or postinfectious due to tumoral
+             obstruction)
+
+          -  patients with asymptomatic traction bronchiectasis caused by interstitial lung disease
 ",Completed,"Pieter Goeminne, MD",NA,Observational,overall survival,NA,2006-06-01,2012-12-01,2012-10-01,All,18 Years,N/A,NA,253
 17,NCT01792440,Universitaire Ziekenhuizen Leuven,NA,The Sputum Colour Chart as a Predictor of Lung Inflammation and Proteolysis in Non-cystic Fibrosis Bronchiectasis,"
       Non-cystic fibrosis bronchiectasis patients (and controls) were recruited for the study. The
       investigators' aim was to study the relevance of clinical parameters in terms of underlying
       disease severity, proteolysis and inflammation in a diverse non-cystic fibrosis
       bronchiectasis population.
+","
+        Inclusion Criteria:
+
+          -  Diagnosis of NCFB, based on CT findings of bronchiectatic disease in the absence of
+             cystic fibrosis (CF) as a cause.
+
+          -  stable
+
+        Exclusion Criteria:
+
+          -  no recent exacerbation
 ",Completed,"Pieter Goeminne, MD",NA,Observational,Assess predictive value of sputum colour chart to evaluate airway inflammation,NA,2009-09-01,2012-12-01,2010-07-01,All,18 Years,N/A,NA,80
 18,NCT01801657,The First Affiliated Hospital of Guangzhou Medical University,NA,The Role of Viral Infection in Acute Exacerbations of Non-cystic Fibrosis Bronchiectasis in Adults,"
       Bronchiectasis is clinically characterized by irreversible dilation of the bronchi and
@@ -186,6 +605,20 @@
       However,little is known about the roles of viral infection in driving exacerbations of
       bronchiectasis.This study aims to identify the frequency of common viral infections and
       determine the roles that viruses play in acute exacerbations of bronchiectasis.
+","
+        Inclusion Criteria:
+
+          -  Age ≥ 18 years
+
+          -  HRCT-diagnosed Bronchiectasis
+
+          -  Capable of providing written informed consent
+
+        Exclusion Criteria:
+
+          -  Patient judged to have poor compliance
+
+          -  Cystic fibrosis bronchiectasis
 ",Unknown status,NA,NA,Observational,The prevalence of respiratory virus infection in adults with bronchiectasis during a pulmonary exacerbation and when clinically stable.,NA,2013-02-01,2014-04-01,2014-04-01,All,18 Years,80 Years,NA,100
 19,NCT01818544,Bayer,Randomized,Safety and Efficacy of Oral BAY85-8501 in Patients With Non-CF (Cystic Fibrosis) Bronchiectasis,"
       The primary objective of this study is to assess the safety and tolerability of 28 day oral
@@ -194,6 +627,41 @@
       The secondary objectives are to examine the effect of BAY85-8501 on pulmonary function,
       biomarkers of inflammation and tissue damage, and the impact on overall health and perceived
       well-being and to evaluate the pharmacokinetics of BAY85-8501.
+","
+        Inclusion Criteria:
+
+          -  Proven and documented diagnosis of non-CF (cystic fibrosis) idiopathic or
+             post-infectious BE (bronchiectasis) by computed tomography (CT) scan [conventional
+             high resolution CT is considered the standard], including 2 or more lobes and dilated
+             airways compatible with BE at initial diagnosis
+
+          -  Stable pulmonary status as indicated by the forced, expired volume in 1 second (FEV1)
+             percent predicted ≥30% and <90% (post-bronchodilator)
+
+          -  Stable (i.e., no dose change) regimen of standard BE treatment administered at least
+             for 4 weeks prior to screening
+
+          -  Cough on most days
+
+        Exclusion Criteria:
+
+          -  Forced, expired volume in 1 second <30% or ≥90% predicted (post-bronchodilator)
+
+          -  Recent significant hemoptysis (≥300 mL or requiring blood transfusion) in the
+             preceding 4 weeks before screening (and during the screening period)
+
+          -  Known cystic fibrosis and/or documented chronic bronchial asthma
+
+          -  Active allergic bronchopulmonary aspergillosis (ABPA)
+
+          -  Diagnosis of common variable immunodeficiency (CVID)
+
+          -  Systemic or inhaled antibiotic treatment within 4 weeks prior to screening
+
+          -  Treatment of an exacerbation within 4 weeks prior to screening
+
+          -  Systemic corticosteroids at >10 mg/day prednisolone equivalent for >2 weeks within 4
+             weeks prior to screening
 ",Completed,Bayer Study Director,Phase 2,Interventional,NA,NA,2013-04-01,2014-06-01,2014-06-01,All,18 Years,N/A,2,94
 20,NCT01854788,Hospital Clinic of Barcelona,Randomized,3 Airway Clearance Techniques in Non Cystic Fibrosis Bronchiectasis,"
       Study design: a randomized, crossover trial. Each patient performed three different airway
@@ -203,10 +671,51 @@
       alternate days (Monday /Wednesday/Friday or Tuesday/Thursday/Saturday). The time spent in
       each bronchial session was 40 minutes. Seven days were the wash-out time period between the
       different techniques.
+","
+        Inclusion Criteria:
+
+          1. - Non Cystic Fibrosis bronchiectasis diagnosed by High Resolution Computed Tomographic
+
+          2. - Mean sputum production ≥ 15 ml /24h
+
+          3. - Clinical stability in the last 6 weeks
+
+          4. - Not carrying out regular chest physiotherapy
+
+          5. - Forced expiratory volume in 1 second ≥ 30% pred. ; Forced Vital Capacity ≥ 45% pred.
+             and peak expiratory flow >270 L/s
+
+        Exclusion Criteria:
+
+          1. - Smoker or non-smoker form less than 2 years
+
+          2. - Cystic fibrosis
+
+          3. - Active tuberculosis or sarcoidosis
 ",Completed,NA,N/A,Interventional,NA,NA,2010-09-01,2012-08-01,2012-06-01,All,18 Years,N/A,3,31
 21,NCT01906047,Universitaire Ziekenhuizen Leuven,NA,Impact of Chronic Air Pollution on Non-cystic Fibrosis Bronchiectasis,"
       We aim at investigation the impact of chronic air pollution exposure on non-cystic fibrosis
       bronchiectasis outcome.
+","
+        Inclusion Criteria:
+
+          -  HRCT diagnosis of bronchiectasis
+
+          -  recurrent infections or chronic sputum production
+
+          -  patients between 18 and 65 years old.
+
+        Exclusion Criteria:
+
+          -  Cystic Fibrosis
+
+          -  Tumoral disease
+
+          -  Traction bronchiectasis due to interstitial lung disease
+
+          -  patients older than 65 years or younger than 18 years at recruitment
+
+          -  COPD
 ",Completed,NA,NA,Observational [Patient Registry],Death,NA,2006-06-01,2013-04-01,2012-10-01,All,18 Years,65 Years,NA,189
 22,NCT02035488,University Medical Center Groningen,N/A,Pharmacokinetic Evaluation and Tolerability of Dry Powder Tobramycin by a Novel Device in Patients With Non Cystic Fibrosis Bronchiectasis,"
       Bronchiectasis is a persistent and frequently progressive condition characterized by dilated
@@ -221,12 +730,57 @@
       this study are to investigate the pharmacokinetic properties of DP tobramycin at different
       dosages together with the local tolerability of DP tobramycin via the Cyclops® at different
       dosages.
+","
+        Inclusion criteria:
+
+          -  Age 18 years or older
+
+          -  Obtained informed consent
+
+          -  Patients having bronchiectasis (confirmed with HR-CT of the chest)
+
+        Exclusion criteria:
+
+          -  Pregnant or breast feeding
+
+          -  Subjects with known or suspected renal, auditory, vestibular or neuromuscular
+             dysfunction, or with severe, active haemoptysis,
+
+          -  History of adverse events on previous tobramycin or other aminoglycoside use
+
+          -  No concurrent use of cyclosporin, cisplatin, amfotericin B, cephalosporins,
+             polymyxins, vancomycin and NSAIDs.
 ",Completed,"Huib Kerstjens, MD, PhD",Phase 1/Phase 2,Interventional,NA,NA,2013-10-01,2014-12-01,2014-12-01,All,18 Years,N/A,1,8
 23,NCT02081963,Qilu Hospital of Shandong University,Randomized,Combined Administration of Nebulized Amikacin in Patients With Acute Exacerbation of Non-Cystic Fibrosis Bronchiectasis,"
       This is a multi-centered, randomized, controlled study to assess the efficacy, indications
       and adverse reactions of combined administration of nebulized amikacin in patients with acute
       exacerbation of non-cystic fibrosis bronchiectasis and to evaluate whether inhaled
       antibiotics are more likely to cause bacterial resistance.
+","
+        Inclusion Criteria:
+
+          -  Male or female study subjects ≥18 years of age and ≤80 years of age;
+
+          -  Confirmed diagnosis of idiopathic bronchiectasis or postinfectious bronchiectasis;
+
+          -  Confirmation of infection with Pseudomonas aeruginosa at screening;
+
+          -  Are sensitive to amikacin;
+
+          -  Acute exacerbation of bronchiectasis.
+
+        Exclusion Criteria:
+
+          -  Bronchiectasis due to special causes;
+
+          -  Smokers;
+
+          -  Are associated with bronchial asthma;
+
+          -  Have any serious or active medical or psychiatric illness;
+
+          -  Be allergic to amikacin or not tolerant to nebulised amikacin(FEV1 reduces ≥15% after
+             inhaling amikacin.
 ",Completed,"Yu Li, Professor",Phase 4,Interventional,Bacterial Clearance Rate of Sputum,NA,2014-03-01,2016-12-01,2016-03-01,All,18 Years,80 Years,2,178
 24,NCT02088216,Qilu Hospital of Shandong University,Randomized,"Effect of Long-term, High-dose N-acetylcysteine on Exacerbations of Bronchiectaisis","
       Objective: To evaluate whether long-term oral N-acetylcysteine as an expectorant drug can
@@ -243,21 +797,104 @@
 
       Hypothesis: Long-term oral N-acetylcysteine can reduce the frequency of acute exacerbations
       of patients with non-cystic fibrosis bronchiectasis and improve their quality of life.
+","
+        Inclusion Criteria:
+
+          1. subjects were aged 18-80 years old;
+
+          2. a diagnosis of idiopathic or post-infective bronchiectasis was made;
+
+          3. patients had at least two exacerbations in the past year and were in a stable state
+             for at least 4 weeks prior to the primary enrollment.
+
+        Exclusion Criteria:
+
+        Patients were excluded if they fulfilled any of the following criteria: current smokers;
+        cigarette smoking within 6 months; cystic fibrosis or other etiologies (such as
+        immunodeficiency, allergic bronchopulmonary aspergillosis, traction bronchiectasis caused
+        by emphysema, advanced pulmonary fibrosis, etc.); pulmonary function test results showing a
+        forced expiratory volume in 1 s (FEV1) ≤ 30% of the predicted value; a history of severe
+        cardiovascular or neurological disease; comorbidity with liver disease, kidney disease,
+        malignant tumor, gastric ulcer, or intestinal malabsorption; a known allergy to
+        N-acetylcysteine; pregnancy or lactation (for women); a history of prior macrolide use of
+        more than 1 week; and poor compliance.
 ",Completed,"Yu Li, Professor",N/A,Interventional,Median Number of Exacerbations,BENE,2014-04-01,2018-03-30,2017-12-01,All,18 Years,80 Years,2,161
 25,NCT02096315,Polyphor Ltd.,N/A,"Safety, Efficacy and PK/PD of POL7080 in Patients With Exacerbation of Non-cystic Fibrosis Bronchiectasis.","
       To test whether POL7080 is effective in patients with exacerbation of non-cystic fibrosis
       bronchiectasis caused by Pseudomonas aeruginosa infection.
+","
+        Inclusion Criteria:
+
+          1. Male and female aged ≥18 to <80 years and suffering from exacerbation of non-cystic
+             fibrosis bronchiectasis due to Pseudomonas aeruginosa infection
+
+          2. Sputum sample collected for culture before starting treatment
+
+        Exclusion Criteria:
+
+          1. Female patients who are pregnant or breast feeding or unwilling to follow reliable
+             method of contraception
+
+          2. Subjects suffering from cystic fibrosis, active pulmonary mycobacterial infection, end
+             stage chronic obstructive pulmonary disease on long term oxygen therapy, severe
+             uncontrolled asthma, active sarcoidosis and active allergic broncho-pulmonary
+             aspergillosis
+
+          3. Current exacerbation of bronchiectasis is associated with lung abscess or empyema
+
+          4. Current exacerbation episode is suspected or documented to be due to pathogens other
+             than Pseudomonas aeruginosa
+
+          5. Patients with known HIV infection with CD4+ (cluster of differentiation 4) cell count
+             < 200/mm3
+
+          6. Patients who are currently enrolled in, or have not yet completed at least 30 days
+             since ending another investigational device or drug trial or are receiving other
+             investigational agent
 ",Terminated,NA,Phase 2,Interventional,Sputum bacterial clearance,NA,2013-12-01,2015-11-01,2015-11-01,All,18 Years,79 Years,1,20
 26,NCT02104245,Aradigm Corporation,Randomized,Phase 3 Study With Ciprofloxacin Dispersion for Inhalation in Non-CF Bronchiectasis (ORBIT-4),"
       This study (ARD-3150-1202, ORBIT-4) will evaluate the safety and efficacy of inhaled
       Pulmaquin (ciprofloxacin dispersion for inhalation) compared to inhaled placebo in subjects
       who have a confirmed diagnosis of non-cystic fibrosis (non-CF) bronchiectasis with a history
       of pulmonary exacerbations and chronic P. aeruginosa infections.
+","
+        Inclusion Criteria:
+
+          -  Confirmed diagnosis of non-CF bronchiectasis
+
+          -  History of P. aeruginosa respiratory infections
+
+          -  At least two pulmonary exacerbations treated with antibiotics in the previous year
+
+        Exclusion Criteria:
+
+          -  Have a clinical diagnosis of CF
+
+          -  Are pregnant
 ",Completed,NA,Phase 3,Interventional,Time to first pulmonary exacerbation (from baseline),NA,2014-05-28,2016-10-01,2016-08-11,All,18 Years,N/A,2,304
 27,NCT02106832,Bayer,Randomized,Ciprofloxacin Dry Powder for Inhalation (DPI) in Non-cystic Fibrosis Bronchiectasis (Non-CF BE),"
       The purpose of this study is to evaluate if the time to first pulmonary exacerbation of
       bronchiectasis or its frequency can be prolonged by inhalation of ciprofloxacin for 28 days
       every other 28 days or for 14 days every other 14 days over 48 weeks.
+","
+        Inclusion Criteria:
+
+          -  Patients with a proven and documented diagnosis of non CF idiopathic or post
+             infectious bronchiectasis
+
+          -  Stable pulmonary status and stable regimen of standard treatment at least for the past
+             4 weeks
+
+        Exclusion Criteria:
+
+          -  Forced expiratory volume in 1 second (FEV1) <30% or >90% predicted
+
+          -  Active allergic bronchopulmonary aspergillosis
+
+          -  Active and actively treated non tuberculosis mycobacterial (NTM) infection or
+             tuberculosis
+
+          -  Primary diagnosis of Chronic obstructive pulmonary disease (COPD)
 ",Completed,Bayer Study Director,Phase 3,Interventional,NA,RESPIRE 2,2014-04-30,2016-10-19,2016-09-13,All,18 Years,N/A,4,521
 28,NCT02163642,Fundació Institut de Recerca de l'Hospital de la Santa Creu i Sant Pau,NA,Role of Innate Immunity in Non-Cystic Fibrosis Bronchiectasis,"
       The purpose of this study is to demonstrate that 1) the secretion of mucins, antimicrobial
@@ -265,6 +902,30 @@
       which makes them more susceptible to be infected by potentially pathogenic bacteria (PPB);
       and 2) the electronic nose is able to detect patterns of specific Volatile Organic Compounds
       (VOC) for patients with non-CF bronchiectasis colonized by PPB.
+","
+        Inclusion Criteria:
+
+          -  Diagnosis of non- CF bronchiectasis based on at least 1 lobe with bronchial dilatation
+             and compatible clinical symptoms such as cough, sputum production and respiratory
+             infections.
+
+          -  Signed informed consent.
+
+        Exclusion Criteria:
+
+          -  Presence of exacerbation in the last 4 weeks.
+
+          -  Antibiotic treatment in the last 4 weeks
+
+          -  Use of oral corticosteroids in the last 4 weeks
+
+          -  Concomitant terminal illness.
+
+          -  Current cigarette smoking
+
+          -  Active allergic bronchopulmonary aspergillosis
+
+          -  Diagnosis of tuberculosis or active non-tuberculous Mycobacterial infection
 ",Unknown status,"Oriol Sibila, MD PhD",NA,Observational,Change from baseline in sputum mucin levels at 12 months,NA,2014-04-01,2018-04-01,2018-04-01,All,18 Years,N/A,NA,50
 29,NCT02324855,Universidad San Jorge,Randomized,Long-term Airway Clearance Therapy in Non-cystic Fibrosis Bronchiectasis,"
       The main aim is to analyze whether the routine use of chest physiotherapy in non cystic
@@ -272,6 +933,30 @@
       population. In addition, the secondary end-points include incidences of exacerbations,
       changes in lung function, exercise capacity, airways inflammation, sputum analysis and
       eventual adverse events.
+","
+        Inclusion Criteria:
+
+          -  Chronic sputum production during at least 3 months previous enrolment
+
+          -  At least two confirmed exacerbations during the last year
+
+          -  Patients able to understand how to perform the airway clearance techniques
+
+          -  Clinically stable at time of study entry (defined as no requirement for antibiotics or
+             change in respiratory medication in the preceding 4 wk)
+
+          -  To be able to provide written, informed consent
+
+        Exclusion Criteria:
+
+          -  Cystic Fibrosis
+
+          -  Carry out regular chest physiotherapy.
+
+          -  Active haemoptysis during the previous month or recurrent hemoptysis during the last
+             year (more than 4 episodes)
+
+          -  Waiting a pulmonary transplant
 ",Completed,"Beatriz Herrero, Msc",N/A,Interventional,Cough severity (Auto-administered questionnaire: Leicester Cough Questionnaire),NA,2015-10-01,2020-06-01,2020-06-01,All,18 Years,N/A,2,26
 30,NCT02392663,Hospital Clinic of Barcelona,Randomized,Sputum Clearance Effects of Hypertonic Saline in Non-cystic Fibrosis Bronchiectasis,"
       This study aims to analyze whether the hypertonic saline nebulization enhances sputum
@@ -279,16 +964,85 @@
       tolerability in a population with non-cystic fibrosis bronchiectasis (NCFBE). In addition,
       this trial aims to compare these health outcomes among 3 nebulized solutions: hypertonic
       saline (7%); hyaluronic acid + hypertonic saline (7%); isotonic saline (0,9%).
+","
+        Inclusion Criteria:
+
+          1. Non-cystic Fibrosis bronchiectasis (NCFBE) diagnosed by High Resolution Computed
+             Tomographic
+
+          2. Mean sputum production ≥ 10 ml /24h.
+
+          3. Clinical stability in the last 4 weeks
+
+          4. To be able to understand how to perform inhalation and the physiotherapy session.
+
+          5. To be able to provide written, informed consent
+
+        Exclusion Criteria:
+
+          1. Forced expiratory volume in 1 second < 30% pred. ; Total lung capacity < 45% pred.
+
+          2. Performing nebulization with any hyperosmolar agents, previously
+
+          3. Allergic bronchopulmonary aspergillosis diagnosis
+
+          4. Not to be able to overcome the safety test pre-intervention (oxygen saturation levels
+             drop to < 90% and/or forced expiratory volume in 1 second decline more than < 12% from
+             baseline during the nebulization process)
 ",Completed,"Eva Polverino, Dr.",N/A,Interventional,Wet sputum production,NA,2015-03-01,2016-01-01,2015-12-01,All,18 Years,N/A,3,24
 31,NCT02411981,Cliniques universitaires Saint-Luc- Université Catholique de Louvain,N/A,Effects of Chest Physiotherapy (CPT) on Lung Clearance Index (LCI) in Non Cystic Fibrosis (CF) Bronchiectasis,"
       This study will investigate the effects of on technique of chest physiotherapy on pulmonary
       function. Effects of pulmonary function will be measured by the spirometry, body
       plethysmography and by the multiple breath nitrogen washout technique.
+","
+        Inclusion Criteria:
+
+          -  Non cystic fibrosis bronchiectasis in stable state
+
+        Exclusion Criteria:
+
+          -  Not in stable state
+
+          -  Bronchiectasis with severe respiratory morbidities likely to reduce the chest
+             physiotherapy session efficacy (e.g. : severe chronic obstructive pulmonary disease)
 ",Completed,NA,N/A,Interventional,Change of Lung Clearance Index (LCI),NA,2015-04-01,2016-02-01,2015-10-01,All,18 Years,N/A,1,24
 32,NCT02507843,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Vitamin D as an Adjunctive Treatment in Patients With Non-Cystic Fibrosis Bronchiectasis,"
       This study evaluates vitamin D as an adjunctive treatment in patients with non-Cystic
       Fibrosis bronchiectasis, which are combined with vitamin D deficiency. Half of participants
       will receive vitamin D supplementation, while the other half will receive placebo.
+","
+        Inclusion Criteria:
+
+          -  Diagnosis of non-Cystic fibrosis bronchiectasis by High Resolution CT
+
+          -  Age 18 years or older
+
+          -  Vitamin D deficiency [25(OH)D<20 ng/mL]
+
+          -  Informed consent
+
+        Exclusion Criteria:
+
+          -  Current active allergic bronchopulmonary or tuberculosis
+
+          -  Diagnosis of any of the following: sarcoidosis, hyperparathyroidism, nephrolithiasis,
+             pulmonary silicosis, Human Immunodeficiency Virus infection, liver failure, renal
+             failure or malignancy
+
+          -  Taking benzothiadiazine derivative, cardiac glycoside, carbamazepine, phenobarbital,
+             phenytoin or primidone
+
+          -  Taking dietary supplement or topical preparation containing vitamin D up to 2 months
+             before first dose
+
+          -  Treatment with any investigational medical product or device up to 4 months before
+             first dose
+
+          -  Breastfeeding, pregnant or planning a pregnancy
+
+          -  Baseline corrected serum calcium > 2.65 mmol/L
+
+          -  Baseline serum creatinine > 125 micromol/L
 ",Unknown status,JinFu Xu,Phase 4,Interventional,Time to first acute exacerbation,VIDB,2015-01-01,2017-06-01,2016-12-01,All,18 Years,N/A,2,200
 33,NCT02531984,Assistance Publique Hopitaux De Marseille,Randomized,The Efficacy of Azithromycin in Treating Children With Non Cystic Fibrosis Bronchiectasis,"
       Bronchiectasis is characterized by a permanent and abnormal dilatation of a part of the
@@ -346,10 +1100,96 @@
       The duration of follow up for each patient is dictated by the occurrence of the first
       respiratory exacerbation, a maximum of 6 months .The total inclusion period is 12 months and
       the total duration of the study is 18 months.
+","
+        Inclusion Criteria:
+
+          -  Presenting with non cystic fibrosis bronchiectasis documented by chest CT scan ,
+             diagnosed since at least 2 years
+
+          -  Already treated with azithromycin for at least 6 months
+
+          -  Presented no respiratory exacerbation since one month
+
+          -  Benefit from health insurance
+
+          -  Have signed a consent (if appropriate age )
+
+          -  Parents or legal guardian have given their written consent
+
+        Exclusion Criteria:
+
+          -  Patients presenting a history of allergic reaction to azithromycin, érythromycine,
+             another macrolide or Ketolide or an excipient of Zithromax
+
+          -  Patients treated with dihydroergotamine or ergotamine , cisapride, colchicine
+
+          -  Patients presenting severe hepatic failure
+
+          -  Patients who are unlikely to adhere to the protocol and hence participate in the
+             entire study ( as judged by the investigator )
+
+          -  Patients who have not signed the protocol
+
+          -  Patients whose parents are unable to understand the purpose and conditions of the
+             study or are unable to give their consent.
+
+          -  Patients already included in another clinical trial or are in an exclusion period from
+             a previous clinical trial
+
+          -  Patients whose ECG shows a QTc > 450 msec ( Zithromax is contraindicated )
 ",Unknown status,Urielle DESALBRES,Phase 3,Interventional,Time of onset of the first respiratory exacerbation in the two groups of patients: those who continued treatment with azithromycin and those who stopped the treatment,AZI-STOP,2015-08-01,2018-08-01,2017-08-01,All,3 Years,17 Years,2,100
 34,NCT02563197,Bayer,N/A,Inhalation Flow Rate-study,"
       Study should show feasibility of the device for drug delivery into the lung independently of
       the severity of impaired lung function.
+","
+        Inclusion Criteria:
+
+          -  Established diagnosis of non-cystic fibrosis bronchiectasis, confirmed and documented
+             by high resolution computed tomography (HRCT) or magnetic resonance tomography (MRT)
+
+          -  Ability to reproducibly perform spirometry according to American Thoracic
+             Society/European Respiratory Society criteria
+
+          -  Clinically stable in the opinion of the investigator at the time of the study visit.
+
+          -  Male and female patients ≥ 18 years of age.
+
+        Exclusion Criteria:
+
+          -  Pulmonary exacerbation (as judged by the investigator, based on the clinical condition
+             of the subject and taking into account e.g., febrile infection of the lung, relevant
+             decrease in Forced expiratory volume in the first second (FEV1) value, increased
+             sputum production, sputum purulence, recent hospitalization) at study visit or within
+             the preceding six (6) weeks.
+
+          -  History of lung transplant.
+
+          -  Recent significant hemoptysis (≥ 300 mL or requiring blood transfusion) in the
+             preceding six (6) weeks before screening.
+
+          -  Established diagnosis of bronchial asthma.
+
+          -  Established diagnosis of cystic fibrosis.
+
+          -  Proof of any relevant medical finding or disease in the last three (3) months which
+             might interfere with participation in the study or patient safety (e.g. pneumothorax,
+             uncontrolled hypertension, uncontrolled cardiac arrhythmia, myocardial infarction,
+             cerebral vascular accident).
+
+          -  A relevant disease that is considered to interfere with the study results is any
+             disease that, except for the impairment of lung function, interferes with the
+             patient's ability to inhale from the device. For example, COPD per se is usually not
+             considered as a reason for patient exclusion, unless coughing or obliteration of the
+             upper airways with sputum interferes with the patient's ability to inhale from the
+             device.
+
+          -  Relevant surgical history in the last 3 months (e.g., but not limited to abdominal,
+             thoracic, ocular or brain surgery).
+
+          -  History or evidence of lung resection, thoracotomy, known aneurysm and severe
+             scoliosis.
+
+          -  Pregnancy.
 ",Completed,Bayer Study Director,Phase 1,Interventional,Peak inspiratory flow (L/min),NA,2015-11-23,2016-04-29,2016-02-17,All,18 Years,N/A,1,33
 35,NCT02614300,Hospital Clinic of Barcelona,Randomized,The Role of Pulmonary Rehabilitation and Airways Clearance Techniques in the Multidisciplinary Management of Non CF Bronchiectasis,"
       Pulmonary rehabilitation programs are part of the multidisciplinary treatment of some chronic
@@ -368,11 +1208,152 @@
       1: 1) (1) Pulmonary Rehabilitation (2) Chest Physiotherapy and (3) Pulmonary Rehabilitation +
       Chest Physiotherapy. Hospital la Plató from Barcelona will be responsible for carrying out
       the Control Group. The primary endpoint will be the test of ""endurance shuttle walk test"".
+","
+        Inclusion Criteria:
+
+          -  Aged between 50-80 years;
+
+          -  No performing regular physiotherapy treatment or physical training (≤ 1 time/week);
+
+          -  Stable disease [no changes in the chronic therapy (both inhaled and systematic) in the
+             usual respiratory symptoms (according to the medical evaluation) and spirometry in the
+             last 4 weeks prior to study recruitment];
+
+          -  Regular cough and expectoration;
+
+          -  Ability to follow the exercise program;
+
+          -  Ability to perform all clinical tests, to understand the process and the purposes of
+             the study;
+
+          -  A history of at least 2 exacerbations during the previous year requiring antibiotic
+             treatment and;
+
+          -  Signed informed consent.
+
+        Exclusion Criteria:
+
+          -  Active smokers, ex-smokers of less than 1 year prior to recruitment and/or a history
+             of >20 smoking packs/year;
+
+          -  FEV1 <30% or/and TLC<40% ;
+
+          -  Diagnosis of cystic fibrosis, sarcoidosis, pulmonary fibrosis, active tuberculosis or
+             non tuberculosis mycobacterial infection,
+
+          -  Diagnosis of asthma or COPD as a primary respiratory disease and associated secondary
+             bronchiectasis,
+
+          -  Patients with unstable cardiac disease or locomotor difficulties that preclude
+             exercise (eg, severe arthritis or severe peripheral vascular disease);
+
+          -  Chronic respiratory failure and/or oxygen therapy;
+
+          -  Frequent haemoptysis (≥ 2 times/month);
+
+          -  Participation in a PR program during the year prior to inclusion or during the study
+             protocol;
+
+          -  Participation in a CP program during 1 month prior to inclusion;
+
+          -  Any physical and psychological disorder that interferes with protocol compliance;
+
+          -  Participation in a clinical trial implying any change in usual pharmacological
+             treatment in the last 6 months before recruitment;
+
+          -  Being on the waiting list for lung transplantation or have been transplanted.
 ",Unknown status,NA,N/A,Interventional,Change from Baseline Exercise tolerance capacity measured as the distance walked in meters during the shuttle test at constant speed (ESWT) at 12 weeks.,NA,2015-11-01,NA,2017-12-01,All,50 Years,80 Years,4,120
 36,NCT02625246,Marilyn Glassberg,Non-Randomized,Safety and Potential Efficacy of Human Mesenchymal Stem Cells in Non-Cystic Fibrosis Bronchiectasis,"
       To demonstrate the safety of bone marrow-derived allogeneic human Mesenchymal Stem Cells
       (hMSCs) in patients with bronchiectasis receiving standard of care therapy, and to explore
       treatment efficacy
+","
+        Inclusion Criteria:
+
+          -  Provide written informed consent,
+
+          -  be between 30 and 87 years old at the time of signing the Informed Consent,
+
+          -  weight over 45 and under 150 kg,
+
+          -  have a clinical diagnosis of non-CF bronchiectasis prior to screening,
+
+          -  Have had at least 2 exacerbations in the past year as documented by physician office
+             or hospital visits (Use of antibiotics of at least one time in the last year),
+
+          -  Show a baseline FEV1 between 25% and 85% predicted and over or equal to 1 L and a
+             baseline diffusion capacity of lung for carbon monoxide (DLCO) over or equal to 30%
+             (corrected for hemoglobin but not alveolar volume),
+
+          -  Have a normal Right Ventricular function, as documented by Doppler echo or right heart
+             catheterization,
+
+          -  if a female of childbearing potential, agree to abide by contraception rules defined
+             below.
+
+          -  Subjects may receive nondrug therapies including oxygen supplementation not greater
+             than 4 Liters per minute and pulmonary rehabilitation.
+
+          -  Subjects may be on chronic macrolide or inhaled antibiotic treatment bronchiectasis
+
+        Exclusion Criteria:
+
+          -  Have HRCT and or surgical lung biopsy results inconsistent with the diagnosis of
+             non-CF bronchiectasis. (Exclusion of emphysema and or diffuse parenchymal disease)
+
+          -  be unable to perform any of the assessments required for endpoint analysis (report
+             safety or tolerability concerns, perform Pulmonary Function Tests (PFT) or HRCT,
+             undergo blood draws, read and respond to questionnaire
+
+          -  If a female of childbearing potential, have a follicle stimulating hormone (FSH) under
+             25.8 IU/L
+
+          -  be actively treated for an acute infectious exacerbation of bronchiectasis
+
+          -  Have an active infection that is not treated
+
+          -  Have had active infections occurring within a minimum of 4 weeks of study treatment
+
+          -  Be currently on treatment for NTM infections
+
+          -  Have had positive sputum cultures for nontuberculous mycobacterial (NTM) within the
+             past 6 months
+
+          -  Have a history of drug or alcohol abuse within the past 24 months.
+
+          -  Be currently receiving (or have received within four weeks of screening) experimental
+             agents for the treatment of bronchiectasis or have been enrolled in clinical trials
+             within the previous 30 days
+
+          -  Be actively listed (or expect future listing) for transplant of any organ.
+
+          -  Have clinically important abnormal screening laboratory values.
+
+          -  Have a serious comorbid illness that, in the opinion of the investigator, may
+             compromise the safety or compliance of the patient or preclude successful completion
+             of the study.
+
+          -  Have any other condition that, in the opinion of the investigator, may compromise the
+             safety or compliance of the patient or preclude successful completion of the study.
+
+          -  Have known allergies to penicillin or streptomycin.
+
+          -  Be an organ transplant recipient.
+
+          -  Have a clinical history of malignancy within 5 years (i.e., patients with prior
+             malignancy must be disease free for 5 years), except curatively-treated basal cell
+             carcinoma of skin, squamous cell carcinoma of skin, or cervical carcinoma.
+
+          -  Have a non-pulmonary condition that limits lifespan to less than 1 year.
+
+          -  Be serum positive for HIV, hepatitis BsAg (surface agent reactive) or Viremic
+             hepatitis C.
+
+          -  Have hypersensitivity to dimethyl sulfoxide (DMSO)
+
+          -  Be unable to maintain saturated oxygen (SpO2) of more than 93% on room air at sea
+             level at rest) or an SpO2 of more than 88% on room air over 5,000 feet (1524 meters)
+             above sea level at rest.
 ",Completed,"Glassberg K Marilyn, MD",Phase 1,Interventional,Number of Participant with treatment emergent serious adverse events,CELEB,2016-02-04,2019-05-15,2019-05-15,All,30 Years,87 Years,2,6
 37,NCT02657473,Medical Center Alkmaar,Randomized,Inhaled Nebulized Tobramycin in Non-cystic Fibrosis Bronchiectasis,"
       The purpose of this study is to evaluate the effect of tobramycin inhalation solution (TIS)
@@ -380,27 +1361,196 @@
       is a reduction of exacerbations of the disease during the treatment period. Next to this
       parameter the investigators expect to show a significant beneficial effect on lung function
       parameters, QoL, bacterial load of pathogens in sputum and tobramycin resistance.
+","
+        Inclusion Criteria:
+
+          1. Age ≥ 18 years
+
+          2. The presence of chronic respiratory symptoms such as cough, dyspnoea, expectoration of
+             sputum
+
+          3. Confirmed non-CF bronchiectasis by (HR)CT
+
+          4. Documented history of at least 2 pulmonary exacerbations treated with courses of
+             antibiotics within 12 months before inclusion.
+
+          5. No course of antibiotics or maintenance antibiotics (except for macrolides) 1 month
+             prior to the start of the study.
+
+          6. Minimal one documented sputum or BAL-fluid culture with gram-negative bacteria or
+             S.aureus within 12 months.
+
+          7. Growth of protocol defined pathogens in sputum at screening visit sensitive to
+             tobramycin
+
+          8. Tolerance of inhaled tobramycin
+
+        Exclusion Criteria:
+
+          1. Any exacerbation within the month prior to the start of the study
+
+          2. Diagnosis of cystic fibrosis
+
+          3. Active allergic bronchopulmonary aspergillosis (ABPA)
+
+          4. Any oral, IV or inhaled antibiotics (except for macrolides) within 1 month prior to
+             the start of the study
+
+          5. Any IV or IM corticosteroids or change in oral corticosteroids (> 10 mg) within 1
+             month prior to the start of the study
+
+          6. Any change/start treatment regimens macrolides, hypertonic saline, inhaled mannitol or
+             other mucolytics, corticosteroids within 1 month prior to the start of the study
+
+          7. Change in physiotherapy technique or schedule within 1 month prior to the start of the
+             study
+
+          8. Severe immunosuppression or active malignancy
+
+          9. Active tuberculosis
+
+         10. Chronic renal insufficiency (eGFR < 30 ml/min), use of loop diuretics
+
+         11. Have received an investigational drug or device within 1 month prior to the start of
+             the study
+
+         12. Serious or active medical or psychiatric illness
+
+         13. Pregnancy and child bearing
+
+         14. History of poor cooperation or non-compliance
+
+         15. Unable to use nebulizers
+
+         16. Allergic for tobramycin
 ",Completed,"Wim G. Boersma, Dr.MD",Phase 2/Phase 3,Interventional,Number of exacerbations,BATTLE,2016-08-13,2019-12-13,2019-12-13,All,18 Years,N/A,2,58
 38,NCT02661438,Bayer,N/A,Summative Usability Study of Ciprofloxacin Dry Powder for Inhalation Using Placebo,"
       The rationale of this study is to conduct a summative (i.e., validation) usability test of
       Ciprofloxacin Dry Powder for Inhalation (DPI) and the associated Instructions for Use.
+","
+        Inclusion Criteria
+
+          -  Subjects (male and female) with non-cystic fibrosis bronchiectasis (NCFB) or chronic
+             obstructive pulmonary disease (COPD)
+
+          -  Subjects must be aged ≥40
+
+          -  Subject must be able to independently manage and administer their NCFB/COPD
+             medications
+
+        Exclusion Criteria:
+
+          -  Subjects with recent exacerbation
+
+          -  Subjects with recent significant hemoptysis in the four weeks before screening (and/or
+             during the screening period)
+
+          -  Subjects allergic to quinine
+
+          -  Known chronic bronchial asthma
 ",Completed,Bayer Study Director,N/A,Interventional,NA,NA,2016-01-12,2016-03-17,2016-03-17,All,40 Years,N/A,1,46
 39,NCT02712983,Novartis Pharmaceuticals,Randomized,"Dose-finding Study to Assess the Efficacy, Safety and Tolerability of Tobramycin Inhalation Powder in Patients With Non-Cystic Fibrosis Bronchiectasis and Pulmonary P. Aeruginosa Infection","
       The purpose of this study was to support the selection of a safe and tolerable tobramycin
       inhalation powder (TIP) dose, and regimen that exhibits effective bacterial reduction of P.
       aeruginosa in non-cystic fibrosis bronchiectasis (BE) patients with P. aeruginosa
       colonization.
+","
+        Key Inclusion Criteria:
+
+          -  Written informed consent must be obtained before any assessment is performed.
+
+          -  Male and female patients of ≥ 18 years of age at screening (Visit 1).
+
+          -  Proven diagnosis of non-CF BE as documented by computed tomography or high-resolution
+             computed tomography
+
+          -  At least 2 or more exacerbations treated with oral antibiotics OR 1 or more
+             exacerbation requiring intravenous antibiotic treatment within 12 months prior to
+             screening.
+
+          -  FEV1 ≥ 30% predicted at screening (Visit 1).
+
+          -  P. aeruginosa, must be documented in a respiratory sample at least 1 time within 12
+             months and also present in the expectorated sputum culture at Visit 1.
+
+        Key Exclusion Criteria:
+
+          -  Patients with a history of cystic fibrosis.
+
+          -  Patients with a primary diagnosis of bronchial asthma.
+
+          -  Patients with a primary diagnosis of COPD associated with at least a 20 pack year
+             smoking history.
+
+          -  Any significant medical condition that is either recently diagnosed or was not stable
+             during the last 3 months, other than pulmonary exacerbations, and that in the opinion
+             of the investigator makes participation in the trial against the patients' best
+             interests.
+
+          -  Clinically significant (in the opinion of the investigator) hearing loss that
+             interferes with patients' daily activities (such as normal conversations) or chronic
+             tinnitus. Patients with a past history of clinically significant hearing loss in the
+             opinion of the investigator may be eligible only if their hearing threshold at
+             screening audiometry is 25dB or lower at frequencies 0.5-4 kHz. The use of a hearing
+             device is reflective of a clinically significant hearing loss; hence patients using
+             hearing aids at screening are not eligible.
+
+          -  Patients with active pulmonary tuberculosis.
+
+          -  Patients currently receiving treatment for nontuberculous mycobacterial (NTM)
+             pulmonary disease.
+
+          -  Patients who are regularly receiving inhaled anti-pseudomonal antibiotic (during the
+             study inhaled anti-pseudomonal antibiotics are not allowed other than the study drug).
 ",Completed,Novartis Pharma,Phase 2,Interventional,Change From Baseline to Day 29 in Pseudomonas Aeruginosa (P. Aeruginosa) Density in Sputum (log10 CFUs),iBEST-1,2017-02-08,2019-03-20,2019-03-20,All,18 Years,N/A,9,107
 40,NCT02782312,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Salmeterol-Fluticasone Combined Inhaled Therapy for Non-cystic Fibrosis Bronchiectasis,"
       The objective of this study is to assess the efficacy and safety of Salmeterol-Fluticasone
       （ICS and LABA）combined inhaled therapy for non-cystic fibrosis（non-CF）bronchiectasis patients
       with chronic airflow obstruction. Moreover, subgroup analysis is performed to explore which
       populations of bronchiectasis patients this treatment is suitable for.
+","
+        Inclusion Criteria:
+
+          -  stable bronchiectasis; have the ability to complete the pulmonary function tests;
+             FEV1/FVC<70%; ≥2 exacerbations within the past year
+
+        Exclusion Criteria:
+
+          -  a cigarette smoking history more than 10 pack-years;cystic fibrosis or traction
+             bronchiectasis due to various pulmonary fibrosis; an active pulmonary mycobacterial
+             infection; fungal infection; active sarcoidosis; active allergic bronchopulmonary
+             aspergillosis (ABPA); asthma as defined by the Global Initiative for Asthma (GINA);
+             patients with severe cardiopulmonary dysfunction; with impaired hepatic or kidney
+             function; with hypogammaglobulinemia or other autoimmune diseases; pregnant or
+             breast-feeding women; or patients with a known intolerance for ICS or LABAs.
 ",Completed,Jin-Fu Xu,Phase 4,Interventional,NA,NA,2011-06-01,2013-06-01,2012-06-01,All,18 Years,N/A,2,120
 41,NCT02823587,University of Sao Paulo,Randomized,Pulmonary Rehabilitation in Non-Cystic Fibrosis Bronchiectasis,"
       The purpose of this study is to assess the effect of pulmonary rehabilitation on the
       transport of secretions, inflammation and respiratory resistance, and its repercussions on
       the quality of life in patients with bronchiectasis.
+","
+        Inclusion Criteria:
+
+          -  clinically stable patients
+
+          -  both sexes
+
+          -  aged between 18-60 years
+
+          -  not due to cystic fibrosis bronchiectasis diagnosis
+
+          -  non smokers
+
+          -  no pulmonary disease
+
+        Exclusion Criteria:
+
+          -  asthma or other restrictive conditions
+
+          -  smokers assets
+
+          -  decompensated cardiovascular and metabolic diseases, neuromuscular or musculoskeletal
+             that impede the realization of the Protocol.
 ",Unknown status,"Ada C Gastaldi, PhD",N/A,Interventional,Mucociliary transport in vivo,NA,2016-07-01,2019-12-01,2018-07-01,All,18 Years,60 Years,4,60
 42,NCT02883101,"All India Institute of Medical Sciences, New Delhi",Randomized,The Effects of Pulmonary Rehabilitation in Patients With Non-cystic Fibrosis Bronchiectasis,"
       Number of Patients:
@@ -439,6 +1589,35 @@
       Patients will then be randomized (using table of random numbers) to either the pulmonary
       rehabilitation group or the standard arm group. After 8 weeks of pulmonary rehabilitation,
       patients will again be reassessed by the aforementioned tools.
+","
+        Inclusion Criteria:
+
+          -  Age ≥ 18 years
+
+          -  Diagnosed bronchiectasis that is not attributable to cystic fibrosis, confirmed
+             radiologically on high resolution computed tomography
+
+          -  Exertional dyspnoea (Modified Medical Research Council (mMRC) score ≥ 2 and a history
+             of at least two exacerbations in the past year
+
+          -  Willing to give informed consent
+
+        Exclusion Criteria:
+
+          -  Smoking history ≥ 10 pack years or physician diagnosis of chronic obstructive
+             pulmonary disease
+
+          -  A clinical diagnosis of asthma
+
+          -  Interstitial lung disease (clinical/radiological diagnosis)
+
+          -  Medical conditions which could place the individual at risk during exercise testing or
+             training (eg. angina) or conditions that may restrict the participant's ability to
+             exercise (eg. severe orthopaedic or neurologic impairments);
+
+          -  Participation in a PR program within the last 12 months.
+
+          -  Patient having an exacerbation of bronchiectasis
 ",Completed,NA,N/A,Interventional,Exercise capacity,NA,2015-06-01,2016-12-01,2016-10-01,All,18 Years,N/A,2,60
 43,NCT03056326,Chiesi Farmaceutici S.p.A.,Randomized,"A Study to Investigate Safety, Tolerability and Pharmacokinetics of Single and Repeat Doses of CHF6333 in Healthy Subjects","
       Human Neutrophil Elastase (HNE) plays a pivotal role in innate immunity and in neutrophilic
@@ -454,12 +1633,135 @@
 
       Part 2 will consist of four sequential cohorts of healthy male subjects to assess the safety,
       tolerability and pharmacokinetics of Multiple Ascending Dose (MAD) of CHF6333
+","
+        Inclusion Criteria:
+
+          -  Male subjects aged 18-55 years
+
+          -  BMI between 18-30 kg/m2
+
+          -  Non smokers
+
+          -  Lung function above 80% of predicted normal value
+
+          -  Healthy subjects based on medical evaluation including medical history, physical
+             examination, laboratory tests and cardiac testing
+
+        Exclusion Criteria:
+
+          -  Any clinically relevant abnormalities and/or uncontrolled diseases
+
+          -  Abnormal laboratory values
+
+          -  Recent respiratory tract infection
+
+          -  Hypersensitivity to the drug or excipients
+
+          -  Positive serology results
+
+          -  Positive cotinine, alcohol, drug of abuse tests
+
+          -  Unsuitable veins for repeated venepuncture
 ",Completed,Frédéric Vanhoutte,Phase 1,Interventional,NA,CHF6333 FIH,2016-11-01,2017-07-01,2017-07-01,Male,18 Years,55 Years,2,72
 44,NCT03093974,Zambon SpA,Randomized,Long Term Efficacy and Safety of Inhaled Colistimethate Sodium in Bronchiectasis Subjects With Chronic Pseudomonas Aeruginosa Infection.,"
       The primary objective of the trial is to investigate the effect of the use of inhaled
       colistimethate sodium, administered twice daily via the I-neb for 12 months, compared to
       placebo in subjects with non-cystic fibrosis bronchiectasis (NCFB) chronically infected with
       P. aeruginosa on the frequency of pulmonary exacerbations.
+","
+        Inclusion Criteria:
+
+          1. are able and willing to give informed consent, following a detailed explanation of
+             participation in the protocol and signed consent obtained;
+
+          2. aged 18 years or older of either gender;
+
+          3. diagnosed with NCFB by computerised tomography (CT) or high resolution CT (HRCT) as
+             recorded in the subject's notes and this is their predominant condition being treated;
+
+          4. had at least 2 NCFB pulmonary exacerbations requiring oral or inhaled antibiotics or 1
+             NCFB pulmonary exacerbation requiring intravenous antibiotics in the 12 months
+             preceding the Screening Visit (Visit 1) and had no NCFB pulmonary exacerbation with or
+             without treatment during the period between Visit 1 and Visit 2;
+
+          5. have a documented history of P. aeruginosa infection ;
+
+          6. are clinically stable and have not required a change in pulmonary treatment for at
+             least 30 days before the Screening Visit (Visit 1);
+
+          7. have pre-bronchodilator FEV1 ≥25% of predicted;
+
+          8. had a positive sputum culture for P. aeruginosa from an adequate sample taken at the
+             Screening Visit (Visit 1) or during the screening period.
+
+        Exclusion Criteria:
+
+          1. known bronchiectasis as a consequence of cystic fibrosis (CF);
+
+          2. known history of hypogammaglobulinaemia requiring treatment with immunoglobulin,
+             unless fully replaced and considered immuno-competent by the Investigator;
+
+          3. myasthenia gravis or porphyria;
+
+          4. severe cardiovascular disease such as severe uncontrolled hypertension, ischaemic
+             heart disease or cardiac arrhythmia and any other conditions that would confound the
+             evaluation of safety, in the opinion of the Investigator;
+
+          5. had major surgery in the 3 months prior to Screening Visit (Visit 1) or planned
+             inpatient major surgery during the study period;
+
+          6. receiving treatment for allergic bronchopulmonary aspergillosis (ABPA);
+
+          7. had massive haemoptysis (greater than or equal to 300 mL or requiring blood
+             transfusion) in the preceding 4 weeks before Screening Visit (Visit 1) or between
+             Visit 1 and Visit 2;
+
+          8. respiratory failure that would compromise patient safety or confound the evaluation of
+             safety or efficacy of the study in the opinion of the Investigator;
+
+          9. current active malignancy, except for basal cell carcinoma or squamous cell carcinoma
+             of the skin without metastases;
+
+         10. taking immunosuppressive medications (such as azathioprine, cyclosporine, tacrolimus,
+             sirolimus, mycophenolate, rituximab), and/or anti-cytokine medications (such as anti
+             IL-6 and anti-tumour alpha necrosis factor products) in the preceding year before the
+             Screening Visit (Visit 1);
+
+         11. known history of human immunodeficiency virus (HIV);
+
+         12. current treatment for non-tuberculous mycobacterial (NTM) lung disease or
+             tuberculosis;
+
+         13. known or suspected to be allergic or unable to tolerate colistimethate sodium
+             (intravenous or inhaled) or other polymixins, including previous evidence of bronchial
+             hyperreactivity following inhaled colistimethate sodium;
+
+         14. treatment with long term (≥ 30 days) prednisone at a dose greater than 15 mg a day (or
+             equivalent dose of any other corticosteroid) within six months of the Screening Visit
+             (Visit 1)
+
+         15. new maintenance treatment with any oral macrolides (e.g.
+             azithromycin/erythromycin/clarithromycin) started within 30 days of the Screening
+             Visit (Visit 1) and between Visit 1 and Visit 2;
+
+         16. use of any intravenous or intramuscular or oral or inhaled antipseudomonal antibiotic
+             (except chronic oral macrolide treatment with a stable dose) within 30 days prior to
+             Screening Visit (Visit 1) and between Visit 1 and Visit 2;
+
+         17. pregnant or breast feeding or plan to become pregnant over the next year or of child
+             bearing potential and unwilling to use a reliable method of contraception for at least
+             one month before randomisation and throughout their involvement in the trial;
+
+         18. significant abnormality in clinical evaluations and/or laboratory tests (physical
+             examination, vital signs, haematology, clinical chemistry, clinically relevant
+             impaired renal function, defined as serum creatinine levels ≥2.0x upper limit of
+             normal, ECG) endangering the safe participation of the patient in the study at the
+             Screening Visit (Visit 1) and during the study;
+
+         19. participated in another investigational, interventional trial within 30 days prior to
+             the Screening Visit (Visit 1);
+
+         20. in the opinion of the Investigator not suitable for inclusion for whatever reason.
 ",Completed,"Dearbhla Hull, MD",Phase 3,Interventional,Annualized Pulmonary Exacerbation rate,PROMIS-I,2017-06-06,2021-04-09,2021-04-09,All,18 Years,N/A,2,377
 45,NCT03147651,Rambam Health Care Campus,NA,Exercise Capacity in Patients With Cystic Fibrosis vs. Non-cystic Fibrosis Bronchiectasis,"
       Introduction: Bronchiectasis is a chronic lung disease in which the underlying condition
@@ -492,10 +1794,55 @@
       Exclusions criteria: preforming submaximal CPET, lack of data from the exercise test,
       exacerbation of patient's condition within three days before the exercise evaluation,
       relevant related chronic diseases that affecting test results.
+","
+        Inclusion Criteria:
+
+          -  Evidence of bronchiectasis on computed tomography (CT)
+
+          -  Age > 7 years
+
+          -  Height > 125cm
+
+          -  Completed a maximal CPET test according to the accepted criteria
+
+        Exclusion Criteria:
+
+          -  Preforming submaximal CPET
+
+          -  Lack of data from the exercise test
+
+          -  Exacerbation of patient's condition within three days before the exercise evaluation
+
+          -  Related chronic diseases affecting test results
 ",Unknown status,"Lea Bentur, Prof.",NA,Observational,Oxygen Uptake (VO2),NA,2015-10-01,2017-12-01,2017-09-01,All,7 Years,N/A,NA,119
 46,NCT03218917,Insmed Incorporated,Randomized,Assessment of INS1007 in Subjects With Non-Cystic Fibrosis Bronchiectasis,"
       The purpose of the study is to evaluate if INS1007 can reduce pulmonary exacerbations over a
       24-week treatment period in patients with non-cystic fibrosis bronchiectasis.
+","
+        Inclusion Criteria:
+
+          1. Clinical history consistent with NCFBE (cough, chronic sputum production and/or
+             recurrent respiratory infections)
+
+          2. Are current sputum producers with a history of chronic expectoration and able to
+             provide a sputum sample during Screening
+
+          3. Have at least 2 documented pulmonary exacerbations in the past 12 months before
+             Screening
+
+        Exclusion Criteria:
+
+          1. Have a primary diagnosis of chronic obstructive pulmonary disease (COPD) or asthma
+
+          2. Have bronchiectasis due to cystic fibrosis (CF), hypogammaglobulinemia, common
+             variable immunodeficiency, or alpha1-antitrypsin deficiency
+
+          3. Are current smokers
+
+          4. Are currently being treated for a nontuberculous mycobacterial lung infection,
+             allergic bronchopulmonary aspergillosis, or tuberculosis
+
+          5. Have any acute infections, (including respiratory infections)
 ",Completed,"Carlos Fernandez, MD",Phase 2,Interventional,Time to first pulmonary exacerbation,NA,2017-12-01,2019-12-12,2019-12-12,All,18 Years,85 Years,3,256
 47,NCT03428334,The University of Hong Kong,N/A,Roflumilast in Non-CF Bronchiectasis Study,"
       This is a single-arm, open label, Phase II study of Roflumilast in stable-state non-cystic
@@ -518,12 +1865,140 @@
 
       This study aims to investigate the effect of short-term (4-week) treatment with roflumilast
       on neutrophilic airway inflammation in stable-state non-CF bronchiectasis.
+","
+        Inclusion Criteria:
+
+          1. Aged 18 years or above, male or female.
+
+          2. Never-smokers or those who have smoked less than 100 cigarettes in their lifetime.
+
+          3. Confirmed diagnosis of non-CF bronchiectasis based on high-resolution computed
+             tomography (HRCT) scan.
+
+          4. Significant sputum production (≥ 10 ml per day).
+
+          5. In stable-state bronchiectasis with no change in regular medications (e.g. inhaled
+             steroid, macrolide) or exacerbations in the past 3 months.
+
+          6. Written informed consent obtained.
+
+        Exclusion Criteria:
+
+          1. Eversmokers (≥ 100 cigarettes in their lifetime).
+
+          2. Known chronic obstructive pulmonary disease or asthma.
+
+          3. Moderate to severe liver impairment (Child-Pugh B or C).
+
+          4. Known psychiatric illness with increased suicidal risks.
+
+          5. Body-mass index below 20 kg/m2.
+
+          6. Concomitant use of strong cytochrome P450 inducers (e.g. rifampicin, phenobarbital,
+             carbamazepine, phenytoin).
+
+          7. Patients who are hypersensitive to roflumilast or its constituents.
+
+          8. Pregnant or lactating women.
 ",Completed,"James CM Ho, MD",Phase 2,Interventional,sputum leukocyte density,NA,2018-05-10,2019-08-31,2019-08-31,All,18 Years,N/A,1,20
 48,NCT03460704,Zambon SpA,Randomized,Trial in Non-cystic Fibrosis Bronchiectasis Patients With Chronic Lung Infections Treated With Colistimethate Sodium (PROMIS II),"
       The primary objective of the trial is to investigate the effect of the use of inhaled
       colistimethate sodium, administered twice daily via the I-neb for 12 months, compared to
       placebo in subjects with non-cystic fibrosis bronchiectasis (NCFB) chronically infected with
       P. aeruginosa on the frequency of pulmonary exacerbations.
+","
+        Inclusion Criteria:
+
+          1. able and willing to give informed consent
+
+          2. aged 18 years or older of either gender
+
+          3. diagnosed with NCFB by computerised tomography (CT) or high-resolution CT(HRCT) as
+             recorded in the subject's notes and this is their predominant condition being treated.
+
+          4. had at least 2 NCFB pulmonary exacerbations requiring oral or inhaled antibiotics or 1
+             NCFB pulmonary exacerbation requiring intravenous antibiotics in the 12 months
+             preceding the Screening Visit (V1) and had no pulmonary exacerbation with or without
+             treatment during the period between Visit 1 and Visit 2
+
+          5. have a documented history of P. aeruginosa infection;
+
+          6. are clinically stable and have not required a change in pulmonary treatment for at
+             least 30 days before the Screening Visit
+
+          7. have pre-bronchodilator FEV1 ≥25% of predicted
+
+          8. had a positive sputum culture for P. aeruginosa from an adequate sample taken at the
+             Screening Visit or during the screening period.
+
+        Exclusion Criteria:
+
+          1. known bronchiectasis as a consequence of cystic fibrosis (CF)
+
+          2. known history of hypogammaglobulinaemia requiring treatment with immunoglobulin,
+             unless fully replaced and considered immuno-competent by the Investigator;
+
+          3. myasthenia gravis or porphyria,
+
+          4. severe cardiovascular disease such as severe uncontrolled hypertension, ischaemic
+             heart disease or cardiac arrhythmia and any other conditions that would confound the
+             evaluation of safety, in the opinion of the Investigator;
+
+          5. had major surgery in the 3 months prior to the Screening Visit (Visit 1) or planned
+             inpatient major surgery during the study period;
+
+          6. receiving treatment for ABPA;
+
+          7. massive haemoptysis (greater than or equal to 300 mL or requiring blood transfusion)
+             in the preceding 4 weeks before Screening Visit (Visit 1) or between Visit 1 and Visit
+             2;
+
+          8. respiratory failure that would compromise patient safety or confound the evaluation of
+             safety or efficacy of the study in the opinion of the Investigator;;
+
+          9. current active malignancy, except for basal cell carcinoma or squamous cell carcinoma
+             of the skin without metastases;
+
+         10. taking immunosuppressive medications (such as azathioprine, cyclosporine, tacrolimus,
+             sirolimus, mycophenolate, rituximab), and/or anti cytokine medications (such as
+             anti-IL-6 and anti-tumour alpha necrosis factor products) in the preceding year before
+             the Screening Visit (Visit 1);
+
+         11. known history of human immunodeficiency virus (HIV);
+
+         12. current treatment for non-tuberculous mycobacterial (NTM) lung disease or
+             tuberculosis;
+
+         13. known or suspected to be allergic or unable to tolerate colistimethate sodium
+             (intravenous or inhaled) or other polymixins, including evidence of bronchial
+             hyper-reactivity following inhaled colistimethate sodium;
+
+         14. treatment with long term (≥ 30 days) prednisone at a dose of greater than 15 mg a day
+             (or equivalent dose of any other corticosteroid) (e.g.
+             azithromycin/erythromycin/clarithromycin) started within six months of the Screening
+             Visit (Visit 1);
+
+         15. new maintenance treatment with any oral macrolides within 30 days of the Screening
+             Visit (Visit 1) or started between Visit 1 and Visit 2;
+
+         16. use of any intravenous or intramuscular or oral or inhaled anti-pseudomonal antibiotic
+             (except chronic macrolides with a stable dose) within 30 days prior to the Screening
+             Visit (Visit 1) and between Visit 1 and Visit 2;
+
+         17. pregnant or breast-feeding or plan to become pregnant over the next two years or of
+             child-bearing potential and unwilling to use a reliable method of contraception for at
+             least one month before randomisation and throughout their involvement in the trial;
+
+         18. significant abnormality in clinical evaluations and/or laboratory tests (physical
+             examination, vital signs, haematology, clinical chemistry, clinically relevant
+             impaired renal function, defined as serum creatinine levels ≥2.0x upper limit of
+             normal, ECG) endangering the safe participation of the patient in the study at the
+             Screening Visit (Visit 1) and during the study;
+
+         19. participated in another investigational, interventional trial within 30 days prior to
+             the Screening Visit (Visit 1);
+
+         20. in the opinion of the Investigator not suitable for inclusion for whatever reason.
 ",Completed,"Dearbhla Hull, MD",Phase 3,Interventional,Annualized Pulmonary Exacerbation rate,NA,2018-01-29,2022-03-15,2022-03-15,All,18 Years,90 Years,2,287
 49,NCT03818646,Papworth Hospital NHS Foundation Trust,NA,Functional Respiratory Imaging in Bronchiectasis,"
       Four-week prospective single centre exploratory study in adults with bronchiectasis suffering
@@ -555,6 +2030,31 @@
       exacerbation treatment and will correlate with changes in lung function and patient reported
       outcomes. This will confirm FRI as a surrogate biomarker for assessing therapeutic response
       in future clinical trials in bronchiectasis.
+","
+        Inclusion Criteria:
+
+          -  Adult male and females ≥18 years and ≤ 80 years
+
+          -  Current diagnosis of bronchiectasis (see above definition)
+
+          -  Current pulmonary exacerbation (see above definition)
+
+        Exclusion Criteria:
+
+          -  Severe obstructive airways disease (defined as FEV1 < 30%; FEV1/FVC < 70%)
+
+          -  Diagnosis of other active chronic lung disease (asthma; ABPA; COPD; pulmonary
+             fibrosis)
+
+          -  Currently treated non-tuberculous mycobacterial disease
+
+          -  Acute congestive cardiac failure
+
+          -  Contra-indication or unable to perform HRCT imaging, including pregnancy
+
+          -  Contra-indication or unable to perform pulmonary function testing
+
+          -  Active lung malignancy
 ",Unknown status,"Ian Smith, MD",NA,Observational,NA,FRIBE,2019-01-01,2019-04-01,2019-04-01,All,18 Years,80 Years,NA,10
 50,NCT03988816,University of Sao Paulo General Hospital,Randomized,"Effect of Roflumilast on Quality of Life, Lung Function and Mucus Properties in Patients With Bronchiectasis","
       Although relatively common, bronchiectasis is considered an orphan disease as there is little
@@ -585,6 +2085,43 @@
       the use of roflumilast also has an anti-inflammatory effect in bronchiectasis. In addition,
       since bronchiectasis is a disease with poor evidence for pharmacological treatment, it is
       necessary to search for new therapeutic possibilities.
+","
+        Inclusion Criteria:
+
+          -  Age > 18 years;
+
+          -  Diagnosis of bronchiectasis by chest tomography;
+
+          -  FEV1 <60% of predicted;
+
+          -  History of chronic bronchitis (chronic cough and sputum for at least 3 months in the
+             last 2 years);
+
+          -  2 or more infectious exacerbations in the last year (defined as worsening of cough and
+             / or dyspnoea and / or decreased general condition, increased quantity and purulence
+             of sputum that required systemic antibiotic use (oral or intravenous).
+
+        Exclusion Criteria:
+
+          -  Hemoptysis in the last 6 months (significance at the discretion of the investigator);
+
+          -  Current or prior smoking if > 10 pack-years;
+
+          -  FEV1 < 30% of predicted;
+
+          -  Known allergy to roflumilast;
+
+          -  Pulmonary exacerbation present or occurring in the last 4 weeks;
+
+          -  Child B or C cirrhosis;
+
+          -  Active cancer (except basal cell carcinoma);
+
+          -  Severe heart failure;
+
+          -  Depression associated with suicidal ideation;
+
+          -  Pregnancy.
 ",Unknown status,"Rodrigo A Athanazio, MD, PhD",Phase 2,Interventional,Quality of life questionnaire,NA,2019-12-06,2020-12-01,2020-12-01,All,18 Years,N/A,2,30
 51,NCT04010799,Chiesi Farmaceutici S.p.A.,Randomized,"A Clinical Study to Investigate Safety, Tolerability and Distribution of CHF 6333 After One or After Repeated Inhalation in Patients With Cystic Fibrosis (CF) and in Patients With Non Cystic Fibrosis (NCFB) Bronchiectasis","
       CHF 6333 is a medicinal product on development for the treatment of cystic fibrosis and
@@ -601,6 +2138,156 @@
 
       Three dose level will be tested during the first part of the study, as single administration.
       One repeated dose will be administered in the second part of the study.
+","
+        INCLUSION CRITERIA:
+
+        CF patients:
+
+          -  Patient's written informed consent obtained prior to any study-related procedure;
+
+          -  Male or female patient ≥ 18 years old with a confirmed historical diagnosis of cystic
+             fibrosis;
+
+          -  Ability to provide a spontaneous sputum sample at screening;
+
+          -  Non- or ex-smokers who smoked < 10 pack years and stopped smoking > 1 year before
+             screening visit;
+
+          -  Patient in stable clinical condition and free from exacerbation for at least 4 weeks
+             prior to screening and/or prior to randomisation;
+
+          -  Patient on stable concomitant treatment regimen within 4 weeks prior to screening
+             and/or prior to randomisation;
+
+          -  Patient with pre-bronchodilator FEV1 ≥ 50% of predicted normal at screening and/or
+             prior to randomisation;
+
+          -  Vital signs within normal limits at screening and prior to randomisation;
+
+        NCFB patients:
+
+          -  Patient's written informed consent obtained prior to any study-related procedure;
+
+          -  Male or female patient ≥ 18 years old with a diagnosis of Bronchiectasis confirmed by
+             a historical Chest CT;
+
+          -  Presence of clinically significant symptoms related to Bronchiectasis, such as daily
+             cough that occurs over months or years, daily production of large amount of sputum,
+             shortness of breath, wheezing chest pain;
+
+          -  Ability to provide a spontaneous sputum sample at screening;
+
+          -  Non- or ex-smokers who smoked < 10 pack years and stopped smoking > 1 year before
+             screening visit;
+
+          -  Patients in stable clinical condition and free from exacerbation since at least 4
+             weeks before screening and/or prior to randomisation;
+
+          -  Patients on stable concomitant treatment regimen within 4 weeks prior to screening
+             and/or prior to randomisation
+
+          -  Patient with pre- bronchodilator FEV1 ≥ 50% of predicted normal at screening and/or
+             prior randomization visit;
+
+          -  Vital signs within normal limits at screening and prior to randomisation
+
+        EXCLUSION CRITERIA CF Patients
+
+          -  Patient with BMI ≤ 17
+
+          -  History of a clinically meaningful unstable or uncontrolled chronic comorbidity in the
+             opinion of the Investigator;
+
+          -  Unstable pulmonary status or symptomatic respiratory tract infection and related
+             changes in therapy for pulmonary disease as per Investigator's judgment within 4 weeks
+             before screening or prior to randomisation;
+
+          -  Abnormal and clinically significant 12-lead ECG at screening or prior to
+             randomisation;
+
+          -  History of asthma based on objective evidence;
+
+          -  History of malignancy, solid organ/haematological transplantation;
+
+          -  Patient with evidence of active Nontuberculous Mycobacteria (NTM) and Tuberculous
+             Mycobacteria (TM) infection or related bronchiectasis in the past 12 months;
+
+          -  Patient with a positive test for active Allergic Bronchopulmonary Aspergillosis (ABPA)
+             infection confirmed at screening or patient withABPA related bronchiectasis.
+
+          -  Pregnant or lactating women.
+
+          -  Patient on non-steroidal anti-inflammatory drugs (NSAIDs) within 4 weeks prior to
+             screening or prior to randomization visit.
+
+          -  Patient on cystic fibrosis transmembrane conductance regulator (CFTR) modulators and
+             correctors if not on stable treatment regimen for at least 3 months prior to screening
+             or prior to randomization.
+
+          -  Positive HIV1 or HIV2 serology at screening; Positive results from the Hepatitis
+             serology which indicates acute or chronic Hepatitis B or Hepatitis C at screening
+             (i.e. positive HB surface antigen (HBsAg), HB core antibody (anti-HBc), HC antibody);
+
+        NCFB Patients
+
+          -  Patient with BMI ≤ 17
+
+          -  History of a clinically meaningful unstable or uncontrolled chronic comorbidity in the
+             opinion of the Investigator;
+
+          -  Unstable pulmonary status or symptomatic respiratory tract infection and related
+             changes in therapy for pulmonary disease as per Investigator's judgment within 4 weeks
+             before screening or prior to randomisation.
+
+          -  Abnormal and clinically significant 12-lead ECG at screening or prior to randomisation
+             that results in active medical problem which may impact the safety of the patients as
+             per Investigator's judgment.
+
+          -  History of malignancy, solid organ/haematological transplantation;
+
+          -  Known diagnosis of cystic fibrosis. A negative sweat test is required at screening
+             (sweat chloride should be < 40 mmol/L);
+
+          -  History of asthma based on objective evidence of the condition;
+
+          -  Patient with primary diagnosis of COPD in the opinion of theInvestigator;
+
+          -  Patient with rheumatoid factor positivity;
+
+          -  Patient with evidence of active Nontuberculous Mycobacteria (NTM) and Tuberculous
+             Mycobacteria (TM) infection or related bronchiectasis in the past 12 months;
+
+          -  Patient with a positive test for active Allergic Bronchopulmonary Aspergillosis (ABPA)
+             infection confirmed at screening or patient with ABPA related bronchiectasis;
+
+          -  Patient with Connective Tissue Disease (CTD) related bronchiectasis;
+
+          -  Diagnosis of common variable immunodeficiency (CVID);
+
+          -  Patient on any antibiotics (except for stable macrolides treatment),oral, inhaled and
+             IV, within 4 weeks prior to screening or prior to randomisation;
+
+          -  Patient on oral corticosteroids within 4 weeks prior to screening visit or prior to
+             randomization.
+
+          -  Patient on non-steroidal anti-inflammatory drugs (NSAIDs) within 4 weeks prior to
+             screening or randomization visit.
+
+          -  Patient on Carbocysteine and Mannitol treatment within 4 weeks before the screening or
+             randomization visit.
+
+          -  Patient with traction bronchiectasis;
+
+          -  Patient with any condition that prevent them to use inhaledantibiotics (including
+             patients who previously experienced adverse reaction to inhaled antibiotics;
+
+          -  Patient treated with monoclonal antibodies (mAb);
+
+          -  Pregnant or lactating women.
+
+          -  Positive HIV1 or HIV2 serology at screening; Positive results from the Hepatitis
+             serology which indicates acute or chronic Hepatitis B or Hepatitis C at screening
+             (i.e. positive HB surface antigen (HBsAg), HBcore antibody (anti-HBc), HC antibody).
 ",Completed,NA,Phase 1,Interventional,NA,NA,2019-05-27,2021-03-08,2021-03-08,All,18 Years,N/A,2,68
 52,NCT04017312,Hill-Rom,Randomized,A Pilot Study to Evaluate the Use of the Vest® System for Treatment of Bronchiectasis Patients in the Home Setting,"
       This a 70 patient multi-site non blinded randomized control trial evaluating the use of the
@@ -608,6 +2295,45 @@
       setting. The study will assess outcomes in subjects requiring airway clearance therapy
       randomized to Oscillating Positive Expiratory Pressure (OPEP) therapy as the control group
       and High Frequency Chest Wall Oscillation (HFCWO) therapy as the intervention group
+","
+        Inclusion Criteria:
+
+          -  Radiological diagnosis of Bronchiectasis based on high resolution chest CT scan
+
+          -  History of at least 2 acute exacerbations or hospitalizations in the past 12 months
+
+          -  Clinically stable for >2 weeks prior to study entry
+
+          -  FEV1 >30% predicted
+
+          -  Age18-80 years
+
+          -  Signed informed consent
+
+        Exclusion Criteria:
+
+          -  Diagnosis of Cystic Fibrosis
+
+          -  History of bronchiectasis secondary to primary immunodeficiency
+
+          -  Active pulmonary tuberculosis
+
+          -  Active treatment of Non-Tuberculous Mycobacterium (NTM)
+
+          -  Patients currently on HFCWO treatment
+
+          -  Diagnosed comorbidity or medical indication that would prevent study completion
+
+          -  History of pneumothorax within past 6 months
+
+          -  History of hemoptysis requiring embolization within past 12 months
+
+          -  Inability to perform HFCWO therapy or OPEP therapy as directed
+
+          -  Pregnancy or lactation
+
+          -  Inability or unwillingness to complete study visits or provide follow-up data as
+             required by the study protocol
 ",Unknown status,"Mark Jennings, MD",N/A,Interventional,Frequency of acute exacerbations of bronchiectasis,NA,2019-08-23,2020-11-01,2020-11-01,All,18 Years,80 Years,2,70
 53,NCT04090294,Assiut University,N/A,Assessment of Early Outcomes of Roflumilast in Patients With Non Cystic Fibrosis Bronchiectasis,"
       Aim of the work
@@ -621,21 +2347,188 @@
         -  Change in pulmonary function
 
         -  Systemic inflammation
+","
+        Inclusion Criteria:
+
+          -  Aged 18 years or above, male or female.
+
+          -  Non / Ex-smokers.
+
+          -  Confirmed diagnosis of bronchiectasis based on high-resolution computed tomography
+             scan.
+
+          -  Significant sputum production (≥ 10 ml per day).
+
+        Exclusion Criteria:
+
+          -  Non-stable patients who need ICU admission /mechanical ventilation.
+
+          -  Active smokers.
+
+          -  Moderate to severe liver impairment (Child-Pugh B or C) and/or sever renal impairment
+             (c. clearance less than 30ml/min).
+
+          -  Known psychiatric illness
+
+          -  Concomitant use of strong cytochrome P450 inducers (e.g. rifampicin)
+
+          -  Patients who are hypersensitive to roflumilast.
+
+          -  Pregnant or lactating women
 ",Unknown status,"Ahmad Shaddad, Lecturer",Early Phase 1,Interventional,NA,NA,2019-10-01,2020-11-01,2020-09-01,All,18 Years,75 Years,1,35
 54,NCT04122547,Prince of Songkla University,Randomized,Efficacy of Roflumilast on Exacerbations in Patients With Non-cystic Fibrosis Bronchiectasis,"
       Roflumilast compare with placebo for decrease infected exacerbation in non-cystic
       Bronchiectasis
+","
+        Inclusion Criteria:
+
+          -  symptomatic Bronchiectasis
+
+          -  history at least 2 exacerbation last year
+
+        Exclusion Criteria:
+
+          -  comorbidity with chronic obstructive pulmonary disease
 ",Completed,"Kanung Saejiam, MS",Phase 3,Interventional,acute deterioration of of bronchiectasis symptoms,NA,2015-01-01,2015-12-01,2015-12-01,All,18 Years,80 Years,2,40
 55,NCT04170114,Bezmialem Vakif University,Randomized,Comparison of the Efficacy of Comprehensive Respiratory Physiotherapy in Children With Cystic Fibrosis and Non-Cystic Fibrosis Bronchiectasis,"
       The effect of comprehensive respiratory physiotherapy applications on respiratory function,
       functional capacity and peripheral muscle strength in children with cystic fibrosis and
       non-cystic fibrosis will be compared.
+","
+        Inclusion Criteria:
+
+          -  Being between 6-18 years old
+
+          -  Clinically diagnosed as cystic fibrosis or non-cystic fibrosis bronchiectasis
+
+        Exclusion Criteria:
+
+          -  Previous history of lung or liver transplantation
+
+          -  Have had an acute exacerbation in the last month and / or have a history of
+             hospitalization
+
+          -  Having a diagnosis of orthopedic problems affecting mobility or a history of
+             musculoskelatal surgery
 ",Completed,NA,N/A,Interventional,NA,NA,2020-01-01,2020-11-01,2020-11-01,All,6 Years,18 Years,2,60
 56,NCT04278040,"Federal State Budgetary Institution, Pulmonology Scientific Research Institute",N/A,Inhalations of Ultra-low Doses of Melphalan for the Treatment of Non-cystic Fibrosis Bronchiectasis,"
       This non-randomised open-label prospective pilot study evaluates the safety and efficacy of
       inhalations of ultra-low doses of alkylating drug melphalan for the treatment of non-cystic
       fibrosis bronchiectasis. All patients will receive 0,1 mg of melphalan in 5 daily inhalations
       1 time per day.
+","
+        Inclusion Criteria:
+
+          -  Signed informed consent form
+
+          -  Established diagnosis witn CT scan of non-cystic fibrosis bronchiectasis more than 12
+             months before the screening visit.
+
+          -  Sputum expectoration not less than 3 months per year during more than 2 consecutive
+             years
+
+          -  Willing of the patient for cooperation
+
+        Non-Inclusion Criteria:
+
+          -  Pregnant and lactating women and all women who are physiologically capable of becoming
+             pregnant, who do not agree to use one or more of the following effective methods of
+             contraception: intrauterine device or intrauterine system; hormonal contraception
+             (implantable and oral preparations, patches); barrier methods of contraception; male
+             sterilization (with appropriate documentation after a vasectomy about the absence of
+             sperm in the ejaculate).
+
+        Effective contraception is used throughout the study until the last visit. ""True
+        abstinence"" is acceptable only if it corresponds to the patient's preferred and habitual
+        way of life.
+
+        Postmenopausal women (physiological menopause is defined as ""no menstruation for 12
+        consecutive months"") and women who have undergone sterilization surgery (for example, tubal
+        occlusion, hysterectomy or bilateral salpingectomy) can be included in the study.
+
+          -  A history of cystic fibrosis.
+
+          -  Any exacerbation of respiratory infection requiring the use of systemic
+             corticosteroids and / or antibiotics or hospitalization, which developed after the
+             signing of the informed consent form and before the randomization visit (day 1, start
+             of treatment). The criterion should be specified during the randomization visit.
+
+          -  The presence of hemoptysis at the time of inclusion in the study.
+
+          -  The presence of diseases of the respiratory tract, in addition to bronchiectasis,
+             which can affect the effectiveness of the study drug and patient safety. Such
+             conditions may include, among others, active tuberculosis, lung cancer, sarcoidosis,
+             chronic obstructive pulmonary disease (COPD) IV (GOLD, 2017), uncontrolled bronchial
+             asthma with respiratory failure, high pulmonary hypertension (> 25 mm Hg),
+             interstitial lung disease, etc.
+
+          -  Patients with a clinical significant disease of the cardiovascular system (for
+             example, unstable angina, chronic heart failure New York Heart Association (NYHA) III
+             / IV, acute myocardial infarction (within 6 months before inhalation of 1 dose), etc.
+
+          -  Atrial fibrillation patients.
+
+          -  Clinical significant 12-lead ECG abnormalities that may affect patient safety. The
+             corrected QT interval (QTc) interval on the electrocardiogram (ECG in 12 leads) is
+             more than 450 ms for men and more than 470 ms for women on screening and randomization
+             visits.
+
+          -  A history of hypersensitivity to any of the substances used in the study.
+
+          -  Clinically significant deviations of laboratory parameters, indicating a significant
+             or unstable concomitant disease, which may affect the effectiveness of the study drug
+             or patient safety.
+
+          -  Hemostasis deviation within 1 month before the first inhalation of the study drug,
+             including confirmed:
+
+               -  Hemoglobin <10 g / 100 ml;
+
+               -  White blood cell count <3.0 x 10*9 / L;
+
+               -  The absolute number of neutrophils ≤ 1.5 x 10*9 / L;
+
+               -  Platelet count <100 x 10*9 / L.
+
+          -  Unstable concomitant disease, such as uncontrolled hyperthyroidism, uncontrolled
+             diabetes or other endocrine diseases; significant impairment of liver and kidney
+             function; uncontrolled gastrointestinal diseases (for example, active peptic ulcer);
+             uncontrolled neurological diseases; uncontrolled hematological diseases; uncontrolled
+             autoimmune diseases or other diseases that, according to the researcher, may affect
+             the effectiveness of the study drug and patient safety.
+
+          -  Alcohol and/or drugs abuse 12 months before screening visit.
+
+          -  Failure to perform tests to evaluate external respiration function, perform research
+             procedures, or adhere to the treatment schedule provided for in the study.
+
+          -  Participation in another clinical trial in which the study drug was administered less
+             than 8 weeks before the screening visit.
+
+        Exclusion criteria:
+
+          -  Informed consent withdrawn by the patient.
+
+          -  The patient doesn't follow the instructions of the research staff regarding the
+             requirements of the research protocol.
+
+          -  Unable to contact patient.
+
+          -  The researcher believes that participation in the study is not in the interests of the
+             patient and / or further participation in the study is unsafe for the patient's
+             health.
+
+          -  There is a violation of the criteria for inclusion and / or non-inclusion in the
+             study.
+
+          -  The patient has developed adverse event, which, according to the researcher, makes
+             further participation in the study unsafe for the patient.
+
+          -  The licensing authority or ethics committee, for any reason, decides to discontinue
+             the entire study or close this research center.
+
+          -  A female patient becomes pregnant, is planning a pregnancy, or is breastfeeding while
+             participating in this study.
 ",Unknown status,"Kirill Zykov, Prof",Phase 2,Interventional,Frequency of drug-related side effects.,SEADIB1,2018-06-20,2021-12-30,2021-12-01,All,18 Years,70 Years,1,7
 57,NCT04322929,The University of Hong Kong,N/A,Roflumilast in Non-CF Bronchiectasis Study (2019),"
       This is a single-arm, open label, Phase II study of 12-week use of Roflumilast in
@@ -682,6 +2575,41 @@
 
       This study aims to investigate the effect of 12-week treatment with roflumilast on
       neutrophilic airway inflammation in stable-state non-CF bronchiectasis.
+","
+        Inclusion Criteria:
+
+          1. Aged 18 years or above, male or female.
+
+          2. Never-smokers or those who have smoked less than 100 cigarettes in their lifetime.
+
+          3. Confirmed diagnosis of non-CF bronchiectasis based on high-resolution computed
+             tomography (HRCT) scan.
+
+          4. Significant sputum production (≥ 10 ml per day).
+
+          5. In stable-state bronchiectasis with no change in regular medications (e.g. inhaled
+             steroid, macrolide) or exacerbations in the past 3 months.
+
+          6. Written informed consent obtained.
+
+        Exclusion Criteria:
+
+          1. Eversmokers (≥ 100 cigarettes in their lifetime).
+
+          2. Known chronic obstructive pulmonary disease or asthma.
+
+          3. Moderate to severe liver impairment (Child-Pugh B or C).
+
+          4. Known psychiatric illness with increased suicidal risks.
+
+          5. Body-mass index below 18 kg/m2.
+
+          6. Concomitant use of strong cytochrome P450 inducers (e.g. rifampicin, phenobarbital,
+             carbamazepine, phenytoin).
+
+          7. Patients who are hypersensitive to roflumilast or its constituents.
+
+          8. Pregnant or lactating women.
 ",Recruiting,NA,Phase 2,Interventional,24-hour sputum volume,NA,2020-11-12,2022-06-30,2022-02-28,All,18 Years,N/A,1,27
 58,NCT04509661,"Shanghai Pulmonary Hospital, Shanghai, China",Randomized,Efficacy and Safety of Inhaled Bronchodilator in Non-CF Bronchiectasis With Airflow Limitation,"
       Airflow limitation is common exist in idiopathic bronchiectasis patients. However, there are
@@ -690,6 +2618,42 @@
       limitation are still unclear. Thus, the investigators conduct a multicenter, open-label
       randomized controlled trial to investigate the efficacy and safety of dual bronchodilator in
       idiopathic bronchiectasis with airflow limitation.
+","
+        Inclusion Criteria:
+
+          -  Idiopathic bronchiectasis with FEV1/FVC < 70%
+
+        Exclusion Criteria:
+
+          -  With Asthma
+
+          -  α-1 antitrypsin deficiency
+
+          -  Turculosis
+
+          -  Lung cancer
+
+          -  Sarcoidosis
+
+          -  Idiopathic pulmonary fibrosis
+
+          -  Primary pulmonary hypertension
+
+          -  Uncontrolled sleep apnea
+
+          -  Bronchiectasis accepted long-term low dose macrolides
+
+          -  Pulmonary surgery within 6 months
+
+          -  Lower respiratory tract infections require antibiotic treatment in 6 weeks
+
+          -  Upper respiratory tract infection did not recover for at least 7 days
+
+          -  With Glaucoma or severe prostate hyperplasia that can not use Indacaterol
+
+          -  Patients allergic to experimental drugs
+
+          -  Women pregnant, breast-feeding or who planned a pregnancy during the study
 ",Not yet recruiting,"Jin-fu Xu, MD",Phase 4,Interventional,Actue exacerbation,NA,2020-09-01,2024-06-01,2024-06-01,All,18 Years,N/A,2,200
 59,NCT04538859,Chinese University of Hong Kong,NA,A Prospective Study of Factors Related to Exacerbation and Mortality of Non-cystic Fibrosis Bronchiectasis in Hong Kong,"
       Bronchiectasis is associated with repeated exacerbations which occurs at rates of 1.5-6.5 per
@@ -701,17 +2665,162 @@
       antibiotic treatment is associated with disease progression and significant mortality.
       Updated prevalence of this disease with the characteristics of etiology, clinical
       presentation and outcomes are needed to guide further management plan.
+","
+        Inclusion Criteria:
+
+          1. Patients aged 18 years or older
+
+          2. Clinically stable for at least 4 weeks prior to enrollment (defined as no symptoms of
+             exacerbation, no requirement for supplemental antibiotic therapy)
+
+          3. Diagnosis of bronchiectasis defined by high-resolution computed tomography scan
+
+        Exclusion Criteria:
+
+          1. History of cystic fibrosis; hypogammaglobulinemia; allergic bronchopulmonary
+             aspergilosis
+
+          2. Those who are unable to give consent
 ",Recruiting,NA,NA,Observational [Patient Registry],Number of bronchiectasis exacerbation,NA,2020-08-30,2027-08-29,2027-08-29,All,18 Years,N/A,NA,400
 60,NCT04594369,Insmed Incorporated,Randomized,"A Study to Assess the Efficacy, Safety, and Tolerability of Brensocatib in Participants With Non-Cystic Fibrosis Bronchiectasis","
       The primary objective of this study is to evaluate the effect of brensocatib at 10 mg and 25
       mg compared with placebo on the rate of pulmonary exacerbations (PEs) over the 52-week
       treatment period.
+","
+        Inclusion Criteria:
+
+          1. Provide their signed study informed consent to participate.
+
+             a. Adolescent participants must have signed study assent form to participate, and the
+             adolescent's parent or legal guardian must have provided signed informed consent for
+             the adolescent to participate.
+
+          2. Clinical history consistent with non-cystic fibrosis bronchiectasis (NCFBE) (cough,
+             chronic sputum production and/or recurrent respiratory infections) that is confirmed
+             by chest computerized tomography (CT) scan.
+
+          3. At least 2 PEs defined by need for antibiotic prescription by a physician for the
+             signs and symptoms of respiratory infections in the past 12 months before the
+             Screening Visit.
+
+             a. Adolescent participants are required to have at least 1 pulmonary exacerbation in
+             the prior 12 months.
+
+          4. Women must be postmenopausal (defined as no menses for 12 months without an
+             alternative medical cause), surgically sterile, or using highly effective
+             contraception (ie, methods that can achieve a failure rate <1% per year when used
+             consistently and correctly) from Day 1 to at least 90 days after the last dose.
+
+          5. Male participants with female partners of childbearing potential must be using
+             effective contraception from Day 1 to at least 90 days after the last dose.
+
+          6. Male participants with pregnant or non-pregnant women of child-bearing potential
+             partners must use condoms to avoid potential exposure to the embryo/fetus.
+
+        Exclusion Criteria:
+
+          1. A primary diagnosis of chronic obstructive pulmonary disease (COPD) or asthma as
+             judged by the Investigator.
+
+          2. Bronchiectasis due to cystic fibrosis.
+
+          3. Current smokers as defined per Centers for Disease Control (CDC).
+
+          4. Known or suspected immunodeficiency disorder, including history of invasive
+             opportunistic infections.
+
+          5. Known history of human immunodeficiency virus (HIV) infection.
+
+          6. Currently being treated for nontuberculous mycobacteria (NTM) lung infection, allergic
+             bronchopulmonary aspergillosis, or tuberculosis (TB).
+
+          7. Active and current symptomatic infection by COVID-19.
+
+          8. Inability to follow the procedures of the study (eg, due to language problems or
+             psychological disorders).
+
+          9. Receiving medications or therapy that are prohibited as concomitant medications.
+
+         10. Previously participated in a clinical trial for brensocatib.
+
+         11. Received any live attenuated vaccine within 4 weeks prior to the first administration
+             of brensocatib.
+
+         12. Suffering an exacerbation 4 weeks before Screening or during the Screening period.
+
+         13. Adult participants only: Have compliance issues with completion of electronic diary
+             entries during the Screening Period and in the opinion of the Investigator, compliance
+             is unlikely to improve during the study.
+
+         14. Participated in any other interventional clinical studies within 3 months before
+             Screening Visit.
+
+         15. History of alcohol or drug abuse within 6 months prior to the Screening Visit.
+
+         16. Is the Investigator or any Sub-Investigator, research assistant, pharmacist, study
+             coordinator, other staff or relative thereof directly involved in the conduct of the
+             study.
+
+         17. Known history of hypersensitivity to brensocatib or any of its excipients.
 ",Recruiting,NA,Phase 3,Interventional,Rate of Adjudicated Pulmonary Exacerbations (PEs),ASPEN,2020-12-01,2024-03-22,2024-03-22,All,12 Years,85 Years,3,1620
 61,NCT04643587,CSL Behring,Randomized,Study to Assess CSL787 in Non-cystic Fibrosis Bronchiectasis (NCFB),"
       This study is a prospective, multicenter, randomized, double-blind, placebo-controlled study
       to investigate the safety, tolerability, pharmacokinetics (PK), pharmacodynamics (PD) and
       exploratory efficacy of nebulized CSL787 after administrations of single (SAD) ascending
       doses in healthy subjects and multiple (MAD) ascending doses in subjects with NCFB.
+","
+        Inclusion Criteria:
+
+          -  Male or female, aged ≥ 18 years at the time of providing written informed consent
+
+        For Part A (SAD) Only:
+
+          -  Healthy and free of medical conditions that could in the opinion of the investigator
+             affect's the subject's participation in the study or the interpretation of results.
+
+        For Part B (MAD) Only:
+
+          -  Diagnosis of NCFB made by a respiratory physician, confirmed per CT showing bronchial
+             wall dilatation with or without bronchial wall thickening, with a FEV1 ≥ 65% of the
+             predicted value regarding age, height, gender, ethnicity, and FEV1 ≥ 1.5 L at the
+             Screening Visit.
+
+          -  No antibiotic use for respiratory infection within last 3 months before the Screening
+             Visit.
+
+          -  Presence of one or more of the following bacteria (H. influenzae, P. aeruginosa, M.
+             catarrhalis, S. pneumoniae, members of Enterobacterales family or S. aureus) in the
+             sputum culture at the Screening Visit.
+
+          -  Has been fully vaccinated against COVID-19 (as per country recommendations) at least 7
+             days prior to Day 1
+
+        Exclusion Criteria:
+
+          -  Evidence of a clinically significant medical condition, disorder, or disease,
+             including but not limited to any of the following: hepatic (hepatitis, cirrhosis);
+             biliary; renal; cardiac; bronchopulmonary; vascular; hematologic; gastrointestinal;
+             allergy; endocrine / metabolic (diabetes, thyroid disorders, adrenal disease);
+             neurologic; psychiatric; immunodeficiency; cancer.
+
+          -  History of chronic respiratory disease (eg, COPD or bronchiectasis) or current asthma
+             with regular treatment including occasional use of an inhaler for exercise induced
+             asthma.
+
+          -  Current moderate-severe allergic disease (eg, allergic rhinitis) with regular
+             treatment.
+
+          -  Diagnosis of cystic fibrosis, mycobacterial disease, connective tissue disease,
+             alpha-1 antitrypsin deficiency or asthma as underlying disease for bronchiectasis.
+
+          -  Inhaled therapy or oral corticosteroid 28 days before the Screening Visit until EOS
+             Visit. Use of long acting bronchodilators (long acting muscarinic antagonists (LAMA)
+             and / or long acting beta2 agonists (LABA) that have been at a stable dose for at
+             least 3 months before the Screening Visit is permitted; inhalation with hypertonic
+             saline solution is permitted up to and including Day -1.
+
+          -  Any systemic antibiotic for acute exacerbation within 3 months before the Screening
+             Visit until EOS Visit.
 ",Recruiting,Study Director,Phase 1,Interventional,NA,NA,2020-12-07,2022-11-01,2022-11-01,All,18 Years,N/A,8,64
 62,NCT04656275,Boehringer Ingelheim,Randomized,A Study in Patients With Non-cystic Fibrosis Bronchiectasis to Test How Well Different Doses of BI 1323495 Are Tolerated and How BI 1323495 Affects Biomarkers of Inflammation,"
       This study is open to adults with non-cystic fibrosis bronchiectasis. The main purpose of
@@ -728,6 +2837,99 @@
       the study site about 11 times and get about 2 phone calls. At the visits, doctors check the
       health of the participants and note any health problems that could have been caused by BI
       1323495.
+","
+        Inclusion Criteria:
+
+          -  18 years to 80 years (inclusive) at the time of informed consent signature, male and
+             female (not of childbearing potential) subjects
+
+             --For 'female not of childbearing potential' at least one of the following criteria
+             must be fulfilled:
+
+               -  Permanently sterile (permanent sterilisation methods include hysterectomy,
+                  bilateral salpingectomy, and bilateral oophorectomy; tubal ligation is not a
+                  method of permanent sterilisation)
+
+               -  Postmenopausal, defined as at least 1 year of spontaneous amenorrhea without an
+                  alternative medical cause (in questionable cases a blood sample with Follicle
+                  Stimulating Hormone (FSH) above 40 U/L and estradiol below 30 ng/L is
+                  confirmatory).
+
+               -  Men must be vasectomised with documented absence of sperm or use male
+                  contraception (condom or sexual abstinence) from the first administration of
+                  trial medication until 30 days after the last administration of trial medication
+                  if their sexual partner is a woman of childbearing potential (WOCBP)
+
+          -  Clinical history consistent with non cystic fibrosis bronchiectasis (nCFB) (cough,
+             chronic sputum production and/or recurrent respiratory infections) and proven and
+             documented diagnosis of bronchiectasis by computed tomography (CT) scan including
+             dilated airways compatible with bronchiectasis at initial diagnosis. Bronchiectasis of
+             various etiologies will be allowed, with exclusion criteria as below.
+
+          -  Vaccination against Streptococcus pneumoniae in accordance with national vaccination
+             recommendations
+
+          -  Signed and dated written informed consent prior to admission to the study, in
+             accordance with Good Clinical Practice (GCP) and local legislation.
+
+          -  FEV1 ≥ 30 % predicted (post-bronchodilator) at Screening Visit 1.
+
+          -  Stable (i.e., no dose change) regimen of standard nCFB treatment (including - but not
+             limited to - hypertonic inhalation solutions, mucolytics, Long Acting Muscarinic
+             Agonists (LAMA)/ Long Acting Beta Agonists (LABA) / inhaled corticosteriods (iCS),
+             oral antibiotic maintenance regimen, and physiotherapy), if applicable, administered
+             at least for 4 weeks prior to Screening Visit 1 and throughout the run-in period.
+
+          -  Regular daily sputum producers with a history of chronic expectoration who are able to
+             provide a typical bronchiectasis sputum sample at Screening Visit 1.
+
+          -  Sputum neutrophil elastase positive based on point of care test (NEATstik® score ≥ 6)
+             assessment at Visit 2a and Visit 2b.
+
+          -  Subjects genotyped as UDP-Glucuronosyltransferase-2B17 (UGT2B17) extensive
+             metabolizers prior to randomisation, i.e., carrying at least one functional allele of
+             the UGT2B17 gene (*1/*1 or *1/*2)
+
+        Exclusion Criteria:
+
+          -  Any finding in the medical examination (including BP, pulse rate (PR), or ECG) and/or
+             laboratory value and/or any evidence of a concomitant disease assessed as clinically
+             relevant by the investigator.
+
+          -  Concomitant diagnosis of pulmonary disease other than bronchiectasis, chronic
+             obstructive pulmonary disease (COPD), or asthma.
+
+          -  A current diagnosis of cystic fibrosis (CF), primary immunodeficiency, active Allergic
+             Bronchopulmonary Aspergillosis (ABPA) (defined by receipt of corticosteroids,
+             anti-fungal treatment or monoclonal antibody treatment), or alpha-1 antitrypsin (A1AT)
+             deficiency as underlying disease.
+
+          -  A history or current immunodeficiency or are currently being treated (or are planned
+             to be treated) with immunomodulatory drugs (except for iCS or low-dose oral
+             corticosteroids), including disease-modifying anti-rheumatic drugs (DMARDs), and/or
+             Immunglobulin G (IgG) treatments. Other medication that is excluded will be provided
+             in the investigator site file (ISF). On the day of the site visit with lung function
+             measurement, no bronchodilators should be used until after completion of lung function
+             assessment
+
+          -  Any acute infections defined as infections requiring antibiotic therapy, or Upper
+             Respiratory Tract Infection (URTI). Are currently being treated (or are planned to be
+             treated) for a nontuberculous mycobacterial (NTM) lung infection or tuberculosis.
+
+          -  A history of invasive pneumococcal disease.
+
+          -  Inhaled antibiotic treatment or cycling oral antibiotic treatment with changed dose
+             regimen 4 weeks prior to Screening Visit 1.
+
+          -  A treatment for a pulmonary exacerbation 4 weeks prior to Screening Visit 1.
+
+          -  Laboratory confirmed severe acute respiratory syndrome (SARS)-coronavisurs (CoV)-2
+             infection (PCR positive) within 4 weeks prior to Screening Visit 1.
+
+          -  Household contact with an individual with confirmed SARS-CoV-2 infection within 4
+             weeks prior to Screening Visit 1.
+
+          -  Further exclusion criteria apply
 ",Terminated,NA,Phase 1,Interventional,Occurrence of drug-related adverse events,NA,2021-03-04,2021-12-20,2021-12-20,All,18 Years,80 Years,3,7
 63,NCT04658277,Chinese University of Hong Kong,Randomized,Effect of Long Term Clarithromycin for Prevention of Exacerbations in Non-cystic Fibrosis Bronchiectasis in Asian Populations,"
       clarithromycin may reduce the exacerbations in middle-aged and elderly patients with non-CF
@@ -737,11 +2939,101 @@
       bronchiectasis, (B) compare the effect of clarithromycin 250mg daily on the frequency of
       exacerbations, quality of life and lung function, stratified according to the degree of
       bronchiectasis severity.
+","
+        Inclusion Criteria:
+
+          -  Patients aged 50 years or older
+
+          -  At least 2 or more exacerbation requiring antibiotic treatment in the past year
+             Clinically stable for at least 4 weeks prior to enrollment (defined as no symptoms of
+             exacerbation, no requirement for supplemental antibiotic therapy)
+
+          -  Diagnosis of bronchiectasis defined by high-resolution computed tomography (CT) scan
+
+        Exclusion Criteria:
+
+          -  History of cystic fibrosis; hypogammaglobulinemia; allergic bronchopulmonary
+             aspergilosis,
+
+          -  Cigarette smoking within 6 months
+
+          -  A positive culture of non-tuberculosis mycobacteria in the past 2 years or at
+             screening
+
+          -  Macrolide treatment for more than 3 months in the past 6 months
+
+          -  Oral or intravenous courses of corticosteroids within 30 days of screening
+
+          -  Any antimicrobial treatment for lower respiratory tract infection in the last 2 weeks
+
+          -  Unstable arrhythmia
+
+          -  History of coronary artery disease, or symptoms of heart disease
+
+          -  Known allergy or intolerance to macrolides
+
+          -  Patients with liver disease or with elevated transaminanse (aspartate aminotransferase
+             (AST) and alanine aminotransferase (ALT) levels equal to or greater than the upper
+             limit of the normal)
+
+          -  Concurrent medication: Colchicine, calcium channel blocker, statins, amiodarone,
+             amitriptyline, trazodone, citalopram, disopyramide, itraconazole, saquinavir,
+             ritaonavir, atazanavir, sildenafil, tadalafil, vardenafil, theophylline,
+             carbamazepine.
 ",Recruiting,NA,N/A,Interventional,number of infectious exacerbations,NA,2020-10-01,2023-09-30,2023-09-30,All,50 Years,N/A,2,40
 64,NCT04884308,Johns Hopkins University,Non-Randomized,Bacille Calmette-Guerin (BCG) Vaccine for Immune Protection Against Infections,"
       This is pilot study of the immunologic effects of intradermal Bacille Calmette-Guerin (BCG)
       vaccination of adults with cystic fibrosis (CF), non-CF bronchiectasis (NCFB), and healthy
       volunteers.
+","
+        Inclusion Criteria (CF and non-CF bronchiectasis):
+
+          -  Confirmed diagnosis of either CF or non-CF bronchiectasis
+
+          -  Forced expiratory volume over one second (FEV1) > 40%
+
+          -  Willingness to participate in the study after all aspects of the protocol have been
+             explained and written informed consent obtained.
+
+          -  Available for the study duration, including all planned follow-up visits
+
+        Inclusion Criteria (Healthy Volunteers):
+
+          -  Negative HIV enzyme-linked immunosorbent assay (ELISA) and confirmatory test at
+             screening.
+
+          -  Willingness to participate in the study after all aspects of the protocol have been
+             explained and written informed obtained.
+
+          -  Available for the study duration, including all planned follow-up visits
+
+        Exclusion Criteria (All arms):
+
+          -  Current or prior history of active or latent tuberculosis (TB) (per report, not
+             formally tested) or NTM infection
+
+          -  Prior BCG vaccination
+
+          -  Previous vaccine in the past 4 weeks
+
+          -  History of severe anaphylaxis to any vaccine or vaccine components
+
+          -  History of organ/bone marrow transplantation or other immunosuppressing condition,
+             including HIV
+
+          -  Immunosuppressing drugs (including oral corticosteroids equivalent to >10mg of
+             prednisone for 5 days) in the 30 days prior to study enrollment
+
+          -  Cirrhosis or portal hypertension
+
+          -  Pregnant or breastfeeding
+
+          -  Receipt of another investigational product in the last 28 days or planned receipt
+             during this study
+
+          -  Has any other condition that, in the opinion of the principal investigator, would
+             preclude informed consent, make study participation unsafe, complicate interpretation
+             of study outcome data, or otherwise interfere with achieving study objectives.
 ",Recruiting,"Noah Lecthzin, MD, MHS",Phase 2,Interventional,BCG Uptake,NA,2021-04-28,2023-06-30,2023-06-30,All,18 Years,65 Years,3,180
 65,NCT05006573,AstraZeneca,Randomized,Efficacy and Safety of Benralizumab in Patients With Non-cystic Fibrosis Bronchiectasis,"
       This is a multicentre, randomised, double-blind, parallel-group, placebo-controlled, 52 week
@@ -755,11 +3047,170 @@
 
       The OLE treatment period is intended to allow patients at least one year of treatment with
       open label benralizumab.
+","
+        Inclusion Criteria:
+
+          -  Male or female, at least 18 years of age inclusive at the time of signing the ICF
+
+          -  Must have NCFB diagnosed by a physician and confirmed by CT (measured at screening; if
+             a new CT is not possible, a CT performed within 12 months of the screening visit is
+             acceptable).
+
+          -  Documented history of 2 or more bronchiectasis exacerbations within a year of the
+             screening visit.
+
+          -  If receiving prophylactic systemic or inhaled antibiotics to prevent bronchiectasis
+             exacerbations, the dose/regimen must be stable for at least 3 months prior to the
+             screening visit and remain stable throughout the DB period of the study. If
+             prophylactic macrolides have been recently discontinued, patients must have been off
+             treatment for at least 3 months prior to randomisation. In all other cases of
+             prophylactic antibiotic use, ≥ 4 weeks wash out period should be in place after the
+             last dose of antibiotic and prior to randomisation
+
+          -  Must be on airway clearance therapy, physiotherapy, or mucus clearance therapy.The
+             dose and regimen of these therapies and any drugs used to aid expectoration should be
+             stable for at least 3 months prior to the screening visit and remain stable throughout
+             the DB period of the study.
+
+          -  If receiving inhaled corticosteroid or bronchodilator therapy, the dose and regimen
+             should be stable with no alteration to dose or formulation for at least 3 months prior
+             to the screening visit and this should remain stable throughout the DB period of the
+             study.
+
+          -  Women of childbearing potential (WOCBP) must have a negative serum and urine pregnancy
+             test prior to randomization and agree to use a highly effective method of birth
+             control from enrollment, throughout the study duration, and for 12 weeks after the
+             last dose of IP.
+
+        Exclusion Criteria:
+
+          -  Pulmonary disease other than bronchiectasis. Patients with a history of NTM disease
+             may be enrolled if they have completed treatment prior to the Screening visit, if at
+             least 3 months have elapsed since the last day of antibiotic treatment for NTM at the
+             Screening visit, and if they have had a negative sputum culture prior to the screening
+             visit.
+
+          -  Another diagnosed or suspected pulmonary or systemic disease associated with elevated
+             peripheral eosinophil counts
+
+          -  Respiratory infection or bronchiectasis exacerbation during the screening period.
+
+          -  Any other clinical condition that is not stable in the opinion of the Investigator and
+             could:
+
+               1. Affect the safety of the patient during the study.
+
+               2. Influence the findings of the study or their interpretation.
+
+               3. Impede the patient's ability to complete the entire duration of the study.
+
+          -  Radiological findings suggestive of a respiratory disease other than bronchiectasis,
+             suggestive of acute infection, or of solitary pulmonary nodules without appropriate
+             follow up and demonstration of stability as per standard of care. Pulmonary nodules >
+             6 mm in size should have at least 2 years of follow up with no change on CT imaging.
+
+          -  Current active liver disease
+
+          -  Current malignancy, or history of malignancy, except for:
+
+               1. Patients who have had basal cell carcinoma, localised squamous cell carcinoma of
+                  the skin, or in situ carcinoma of the cervix are eligible provided the patient is
+                  in remission and curative therapy was completed at least 12 months prior to Visit
+                  1
+
+               2. Patients who have had other malignancies are eligible provided that the
+                  participant is in remission and curative therapy was completed at least 5 years
+                  prior to Visit 1.
+
+          -  History of known immunodeficiency disorder including a positive test for human
+             immunodeficiency virus, HIV-1 or HIV-2.
+
+          -  History of alcohol or drug abuse within the past year
+
+          -  Current smokers with a tobacco history of ≥ 10 pack-years or ex-smoker with a tobacco
+             history of ≥ 10 pack-years.
+
+          -  Patients receiving long-term oxygen treatment
+
+          -  Patients participating in, or scheduled for, an intensive (active) pulmonary
+             rehabilitation programme. Patients who are in the maintenance phase of a
+             rehabilitation programme are eligible.
+
+          -  Use of non-invasive positive-pressure ventilation for conditions other than
+             obstructive sleep apnoea
+
+          -  Use of immunosuppressive medication within 3 months of the screening visit or expected
+             need for chronic use (≥ 4 weeks) during study
+
+          -  Receipt of any marketed or investigational biologic products (monoclonal or polyclonal
+             antibody) within one year of the screening visit
+
+          -  Receipt of any investigational non-biologic product within 30 days or 5 half-lives
+             prior to randomisation
+
+          -  Receipt of immunoglobulin and blood products within 30 days of the date of the
+             screening visit
+
+          -  Receipt of live attenuated vaccines within 30 days of the date of randomisation
+
+          -  Concurrent enrolment in another clinical drug interventional trial
+
+          -  History of anaphylaxis to any biologic therapy or vaccine
+
+          -  Known history of allergy or reaction to any component of the IP formulation.
+
+          -  Involvement in the planning and/or conduct of the study (applies to both AstraZeneca
+             staff and/or staff at the study site)
+
+          -  Judgement by the Investigator that the patient should not participate in the study if
+             the patient is unlikely to comply with study procedures, restrictions, and
+             requirements
+
+          -  Previous randomisation in the present study
+
+          -  Currently pregnant (confirmed with positive pregnancy test) or breast-feeding.
 ",Recruiting,"James D. Chalmers, MD",Phase 3,Interventional,Annualised exacerbation rate,MAHALE,2021-07-21,2026-01-05,2024-06-10,All,18 Years,130 Years,2,420
 66,NCT05344508,Insmed Incorporated,NA,An Expanded Access Study to Assess Brensocatib for Participants With Non-Cystic Fibrosis Bronchiectasis,"
       The purpose of this study is to allow early access to brensocatib for participants with
       non-cystic fibrosis bronchiectasis (NCFBE) who have successfully completed the INS1007301
       ASPEN Clinical trial.
+","
+        Inclusion Criteria:
+
+          -  Participant had agreed to provide their informed consent to participate per local
+             requirements.
+
+          -  Participant had successfully completed Clinical Trial INS 1007-301 ASPEN, including
+             the End of study Visit 12 prior to receiving treatment.
+
+          -  Requests for Post-Trial access for brensocatib had come from ASPEN investigator.
+
+          -  Had received brensocatib treatment.
+
+        Exclusion Criteria:
+
+          -  Participant had experienced a serious adverse event deemed to be related to
+             brensocatib during the study and required permanent participant is continuation.
+
+          -  The participant is immunocompromised or chronically treated with any investigational
+             or commercialized immunomodulatory agent that is directed to any component of the
+             adaptive or innate immune systems.
+
+        Note: The use of any immunomodulatory agents (including but not limited to: bortezomib,
+        ixazomib, thalidomide, cyclophosphamide, mycophenolate, Janus kinase inhibitors, IFN-γ, and
+        azathioprine) is prohibited during the program.
+
+          -  The participant had undergone continuous use of high dose non-steroidal
+             anti-inflammatory drugs.
+
+          -  The participant had undergone chronic use of systemic steroids for any chronic
+             condition, except steroids with topical anti-inflammatory activities (ie, oral
+             budesonide).
+
+          -  Participant had planned to receive live attenuated vaccines during the program
+             (treatment must be postponed until 4 weeks after the last dose of drug).
+
+          -  Participant had planned to use investigational drugs.
 ",Available,NA,NA,Expanded Access,NA,NA,NA,NA,NA,All,18 Years,85 Years,NA,NA
 67,NCT05369624,Hospital Universitario Virgen Macarena,Randomized,Exercise Capacity in Non-cystic Fibrosis Bronchiectasis After a Pulmonary Rehabilitation Home-based Program,"
       A number of studies have described low exercise capacity and physical activity in patients
@@ -780,4 +3231,41 @@
       Macarena University Hospital (Seville, Spain). The patients were randomized into two groups:
       the control group (who were provided with training instructions) and the intervention group
       (who took part in a specific pulmonary rehabilitation home-based program).
+","
+        Inclusion Criteria:
+
+          -  Certain diagnosis of non-CF bronchiectasis (chest HRCT)
+
+          -  Over 18 years old, clinically stable in the previous 6 weeks (no need for antibiotic
+             therapy due to exacerbations) and a dyspnea score over 1 according to the modified
+             Medical Research Council (mMRC) dyspnea scale
+
+        Exclusion Criteria:
+
+          -  Less of 18 years
+
+          -  Other airway disease ( Asthma or COPD)
+
+          -  Physical inability to perform a physical training program (neuromuscular pathology or
+             residual injuries).
+
+          -  Smokers or former smokers of less than 6 months or with a history of consumption of 15
+             packs/year.
+
+          -  Cystic fibrosis.
+
+          -  Active infections (bronchopulmonary aspergillosis, pulmonary tuberculosis).
+
+          -  Active tuberculosis.
+
+          -  Medical illnesses that put the individual at risk of a decompensation due to the
+             performance of any physical activity or cardiopulmonary stress test (unstable ischemic
+             heart disease, acute myocardial infarction less than 1 month).
+
+          -  Pregnancy
+
+          -  Mental disorder that prevents the adequate interpretation of the indications or
+             performance of the tests.
+
+          -  Attended pulmonary rehabilitation within 1 year.
 ",Completed,"Virginia Almadana, PhD",N/A,Interventional,"Exercise capacity of Non-cystic Fibrosis Bronchiectasis ( Non-CF bronchiectasis) after pulmonary rehabilitation home-based program (PRHP). Change in VO2 (oxygen consumption, ml/min)",NA,2018-05-08,2020-03-14,2019-03-14,All,18 Years,N/A,2,34
