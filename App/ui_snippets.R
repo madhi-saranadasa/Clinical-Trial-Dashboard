@@ -22,28 +22,28 @@ sliderInputOverYears <-
 # ----------------------------------------------------------------------------
 # Check box input for topic selection
 # ----------------------------------------------------------------------------
-topicList <- list("Exacerbation", "Sputum", "PROs", "Spirometry endpoint", "Bacterial endpoint")
+topicList <- list("Exacerbation", "PA", "ClinicallyStable")
 medList <- list("Ciprofloxacin", "Tobramycin", "Azithromycin", "Amikacin", "Colistimethate")
-companyList <- list("Bayer", "Insmed", "AstraZeneca", "Boehringer Ingelheim", "Novartis", "Gilead")
+companyList <- list("AstraZeneca", "Aradigm", "Bayer", "Gilead", "Insmed", "Novartis")
   
 checkboxGroup <-
   fluidRow(
-    column(width = 3, checkboxGroupInput(inputId = "check_topics", "Filter criteria:",
+    column(width = 3, checkboxGroupInput(inputId = "check_criteria", "Select I/E criteria:",
                                          choiceNames = topicList,
                                          choiceValues = topicList)
            ),
     
-    column(width = 3, checkboxGroupInput(inputId = "check_topics", "Filter outcomes:",
+    column(width = 3, checkboxGroupInput(inputId = "check_outcomes", "Select outcomes:",
                                          choiceNames = topicList,
                                          choiceValues = topicList)
     ),
     
-    column(width = 3, checkboxGroupInput(inputId = "check_meds", "Filter meds:",
+    column(width = 3, checkboxGroupInput(inputId = "check_meds", "Select meds:",
                                          choiceNames = medList,
                                          choiceValues = medList)
            ),
     
-    column(width = 3, checkboxGroupInput(inputId = "check_sponser", "Filter sponsers:",
+    column(width = 3, checkboxGroupInput(inputId = "check_sponser", "Select sponsers:",
                                          choiceNames = companyList,
                                          choiceValues = companyList)
            ),

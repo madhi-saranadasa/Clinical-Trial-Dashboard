@@ -1,0 +1,168 @@
+---
+title: "AppDevelopment"
+author: "Madhi Saranadasa"
+date: '2022-06-14'
+output: html_document
+---
+
+```{r}
+
+library(tidyverse)
+library(ggmap)
+library(leaflet)
+library(lubridate)
+library(htmltools)
+library(RColorBrewer)
+
+register_google(key = 'AIzaSyCBWs3C3m6xv36WH3ZLYyMigr7jecT5p00')
+
+```
+
+# Load data
+
+```{r}
+
+projectfolder <- dirname(getwd())
+datafolder <- file.path(projectfolder, "Data")
+
+filenames <- list.files(datafolder)
+filenames <- filenames[str_detect(filenames, "CTD")]
+filenames <- str_remove(filenames, ".csv")
+
+filepaths <- list.files(datafolder, full.names = TRUE)
+filepaths <- filepaths[str_detect(filepaths, "CTD")]
+
+for (i in 1:length(filepaths)) {
+  temp <- read_csv(filepaths[i])
+  assign(filenames[i], temp)
+}
+
+rm(temp)
+
+```
+
+# CTD_LocationAdded: Geocode cities (if needed)
+
+```{r}
+
+location_info <- CTD_Location %>%
+  mutate(locstring = paste(city, state, country)) %>%
+  mutate(combined = str_remove(locstring, "NA")) 
+
+#CTD_LocationAdded <- mutate_geocode(location_info, locstring)
+
+CTD_LocationAdded <- CTD_LocationAdded %>%
+  mutate(markerID = row_number()) %>%
+  select(markerID, id, city, state, country, lon, lat)
+
+datafolder <- file.path(projectfolder, "Data", "CTD_LocationAdded.csv")
+write_csv(CTD_LocationAdded, datafolder)
+
+```
+
+# CTD_DetailsClaim: Clean up CTD_Details
+
+```{r}
+
+date_vars <- c("start_date",
+               "completion_date",
+               "primary_completion_date")
+
+convertDate <- function(x) {
+  temp = case_when(str_detect(x, ",") ~ x,
+                   !is.na(x) ~ paste0(word(x, 1), " 1, ", word(x, 2)))
+  
+  temp = mdy(temp)
+}
+
+CTD_Details[date_vars] <- lapply(CTD_Details[date_vars], convertDate)
+
+CTD_DetailsClean <- CTD_Details
+
+datapath <- file.path(projectfolder, "Data", "CTD_DetailsClean.csv")
+write_csv(CTD_DetailsClean, datapath)
+
+```
+
+# CTD_FlagInclusion
+
+```{r}
+
+keywords <- tribble(~newvar, ~pattern,
+                    "Exacerbation", "exacerbation",
+                    "PA", "pseudo|aeruginosa",
+                    "Sputum", "sputum|mucous",
+                    "CT", "tomography|imaging",
+                    "Antibiotics", "antibiotic|treatment|regimen",
+                    "Spirometry", "fev1|spirometry")
+
+frame <- CTD_DetailsClean %>%
+  distinct(id)
+
+for(i in 1:nrow(keywords)){
+  
+  matches <- CTD_Eligibility_criteria %>%
+    filter(str_detect(str_to_lower(eligibility_criteria), keywords$pattern[i])) %>%
+    distinct(nct_id) %>%
+    pull(nct_id)
+  
+  frame[[keywords$newvar[i]]] = ifelse(frame$id %in% matches, TRUE, FALSE)
+
+}
+
+frame <- frame %>% 
+  pivot_longer(-id, names_to = "keyword", values_to = "value") %>%
+  filter(value)
+
+datapath <- file.path(projectfolder, "Data", "CTD_FlagInclusion.csv")
+write_csv(frame, datapath)
+
+```
+
+# CTD_FlagSponser
+
+```{r}
+
+keywords <- tribble(~newvar, ~pattern,
+                    "Bayer", "bayer",
+                    "Gilead", "gilead",
+                    "Novartis", "novartis",
+                    "Insmed", "insmed",
+                    "Aradigm", "aradigm",
+                    "AstraZeneca", "zeneca")
+
+frame <- CTD_DetailsClean %>%
+  distinct(id)
+
+for(i in 1:nrow(keywords)){
+  
+  matches <- CTD_DetailsClean %>%
+    filter(str_detect(str_to_lower(agency), keywords$pattern[i])) %>%
+    distinct(id) %>%
+    pull(id)
+  
+  frame[[keywords$newvar[i]]] = ifelse(frame$id %in% matches, TRUE, FALSE)
+
+}
+
+frame <- frame %>% 
+  pivot_longer(-id, names_to = "keyword", values_to = "value") %>%
+  filter(value)
+
+datapath <- file.path(projectfolder, "Data", "CTD_FlagSponser")
+write_csv(frame, datapath)
+
+```
+
+```{r}
+
+test <- CTD_Eligibility_criteria %>%
+  filter(row_number() == 1)
+
+test$eligibility_criteria
+
+name <- "pa"
+
+subset <- frame %>%
+  filter(!!sym(name))
+```

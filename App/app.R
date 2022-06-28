@@ -1,15 +1,12 @@
 source("setup.R")
 source("ui_snippets.R")
 
-
-# UI ----------------------------------------------------------------------
-
 ui <- fluidPage(
 
   #theme = bslib::bs_theme(bootswatch = "slate"),
   
   
-  navbarPage("NCFB Clinical Trials Dashboard",
+  navbarPage("NCFB Clinical Trials Explorer",
              tabPanel("Trials"),
              tabPanel("Endpoints"),
              tabPanel("About this dashboard"),
@@ -17,6 +14,8 @@ ui <- fluidPage(
     
   fluidRow(
     
+
+    # Left Side ---------------------------------------------------------------
     column(width = 5, 
            offset = 1,
            wellPanel(
@@ -24,8 +23,6 @@ ui <- fluidPage(
              tags$h4("Number of studies started in each year", align = "center"),
              
              plotOutput(outputId = "yearPlot", click = "yearPlot_click", height="10vh"),
-             
-             br(),
              
              sliderInputOverYears,
              
@@ -38,15 +35,37 @@ ui <- fluidPage(
              )
            ),
     
+    
+
+    # Right Side --------------------------------------------------------------
     column(width = 5,
            
-           tags$h4("Details for the selected study", align = "center"),
+           tags$h4(tags$b("Details for the selected study"), align = "center"),
+           br(),
            
            htmlOutput(outputId = "titleblock"),
            
-           verbatimTextOutput(outputId = "debug")
-           
-           )
+           tabsetPanel(
+             
+             tabPanel(title = "Summary",
+                      br(),
+                      htmlOutput(outputId = "detailblock"),
+                      br(),
+                      tags$h4("Interventions:"),
+                      tableOutput(outputId = "interventions")),
+             
+             tabPanel(title = "Study Criteria",
+                      br(),
+                      verbatimTextOutput(outputId = "ie")),
+             
+             tabPanel(title = "Outcomes",
+                      br(),
+                      tags$h4(tags$b("Primary Outcomes:")),
+                      tableOutput(outputId = "outcomes1"),
+                      tags$h4(tags$b("Secondary Outcomes:")),
+                      tableOutput(outputId = "outcomes2"),)
+             )
+    )
     
   )
 )
@@ -70,16 +89,27 @@ server <- function(input, output, session) {
     
     allstudies <- CTD_DetailsClean %>% distinct(id) %>% pull(id)
     
+    # sponsers
     if(length(input$check_sponser) == 0) {
       list_sponser <- allstudies
     } else {
-      list_sponser <- CTD_DetailsClean %>% 
-        filter(agency %in% input$check_sponser) %>%
+      list_sponser <- CTD_FlagSponser %>% 
+        filter(keyword %in% input$check_sponser) %>%
         distinct(id) %>%
         pull(id)
     }
     
-    list_sponser
+    # criteria
+    if(length(input$check_criteria) == 0) {
+      list_criteria <- allstudies
+    } else {
+      list_criteria <- CTD_FlagInclusion %>%
+        filter(keyword %in% input$check_criteria) %>%
+        distinct(id) %>%
+        pull(id)
+    }
+    
+    out <- intersect(list_sponser, list_criteria)
     
   })
   
@@ -89,6 +119,12 @@ server <- function(input, output, session) {
     
     subset <- GetCheckboxStudies()
     
+    background <- CTD_DetailsClean %>%
+      mutate(year = year(start_date)) %>%
+      group_by(year) %>%
+      summarise(n = n()) %>%
+      filter(!is.na(year))
+    
     test <- CTD_DetailsClean %>%
       filter(id %in% subset) %>%
       mutate(year = year(start_date)) %>%
@@ -97,11 +133,18 @@ server <- function(input, output, session) {
       filter(!is.na(year))
     
     ggplot() +
+      geom_bar(data = background,
+               aes(x = year,
+                   y = n),
+               stat = "identity",
+               width = 0.95,
+               alpha = 0.15) +
       geom_bar(data = test,
                aes(x = year,
                    y = n),
-               stat = "identity") +
-      scale_y_continuous(limits = c(0, NA),
+               stat = "identity",
+               width = 0.95) +
+      scale_y_continuous(limits = c(0, 10),
                          breaks = c(0, 5, 10)) +
       scale_x_continuous(limits = c(2003.5, 2021.5),
                          breaks = seq(2004, 2021, 1)) +
@@ -169,7 +212,7 @@ server <- function(input, output, session) {
     study <- CTD_LocationAdded %>%
       filter(markerID == click$id) %>%
       distinct(id) %>%
-      inner_join(CTD_DetailsClean, by = "id")
+      pull(id)
   })
   
   
@@ -180,11 +223,75 @@ server <- function(input, output, session) {
     if(is.null(study))
       return()
     
+    details <- CTD_DetailsClean %>% filter(id %in% study)
+    
     tags$body(
-      tags$h3(study$title, align = "center"),
-      tags$h4(study$phase, align = "center"),
-      tags$h4("Sponsor:", study$agency, align = "center"),
-      tags$p(study$brief_summary)
+      tags$h4(details$title, align = "center"),
+      tags$h5(details$phase, align = "center"),
+      tags$h5("Sponsor:", details$agency, align = "center")
+    )
+  })
+  
+
+  # Render interventions table ----------------------------------------------
+  output$interventions <- renderTable({
+    study <- GetSelectedStudies()
+    
+    if(is.null(study))
+      return()
+    
+    interventions <- CTD_Intervention %>% 
+      filter(id %in% study) %>%
+      select(intervention_name, description)
+    
+    interventions
+    
+  }, colnames = FALSE)
+  
+  
+
+  # Render outcomes tables ---------------------------------------------------
+  output$outcomes1 <- renderTable({
+    study <- GetSelectedStudies()
+    
+    if(is.null(study))
+      return()
+    
+    outcomes1 <- CTD_Outcome1 %>%
+      filter(id %in% study) %>%
+      select(measure, time_frame)
+    
+    outcomes1
+    
+  }, colnames = FALSE, width = "100%")
+  
+  
+  output$outcomes2 <- renderTable({
+    study <- GetSelectedStudies()
+    
+    if(is.null(study))
+      return()
+    
+    outcomes2 <- CTD_Outcome2 %>%
+      filter(id %in% study) %>%
+      select(measure, time_frame)
+    
+    outcomes2
+    
+  }, colnames = FALSE, width = "100%")
+  
+  
+  # Render details block ------------------------------------------------------
+  output$detailblock <- renderUI({
+    study <- GetSelectedStudies()
+    
+    if(is.null(study))
+      return()
+    
+    details <- CTD_DetailsClean %>% filter(id %in% study)
+
+    tags$body(
+      tags$p(details$brief_summary)
     )
   })
   
@@ -202,10 +309,12 @@ server <- function(input, output, session) {
 
   
   # DEBUG -------------------------------------------------------------------
-  output$debug <- renderPrint({
+  output$ie <- renderText({
     
-    length(GetCheckboxStudies())
-
+    study <- GetSelectedStudies()
+  
+    CTD_Eligibility_criteria %>% filter(nct_id == study) %>% pull(eligibility_criteria)
+    
   })
   
 }
