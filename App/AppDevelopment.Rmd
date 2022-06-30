@@ -14,7 +14,7 @@ library(lubridate)
 library(htmltools)
 library(RColorBrewer)
 library(leaflet)
-register_google(key = 'AIzaSyCBWs3C3m6xv36WH3ZLYyMigr7jecT5p00')
+
 
 projectfolder <- dirname(getwd())
 datafolder <- file.path(projectfolder, "Data")

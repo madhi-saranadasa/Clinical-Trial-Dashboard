@@ -14,8 +14,6 @@ library(lubridate)
 library(htmltools)
 library(RColorBrewer)
 
-register_google(key = 'AIzaSyCBWs3C3m6xv36WH3ZLYyMigr7jecT5p00')
-
 ```
 
 # Load data
