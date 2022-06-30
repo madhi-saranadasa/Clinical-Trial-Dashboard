@@ -13,7 +13,7 @@ library(leaflet)
 library(lubridate)
 library(htmltools)
 library(RColorBrewer)
-
+library(leaflet)
 register_google(key = 'AIzaSyCBWs3C3m6xv36WH3ZLYyMigr7jecT5p00')
 
 projectfolder <- dirname(getwd())
@@ -44,7 +44,60 @@ rm(temp)
 
 ```{r}
 
+    locations <- CTD_LocationAdded %>%
+      filter(id %in% finalStudies) %>%
+      inner_join(colormap, by = "id") %>%
+      mutate(label = paste0(id))
+    
+    icons2 <- awesomeIcons(
+      icon = 'home',
+      iconColor = 'white',
+      library = 'glyphicon',
+      markerColor = locations$color
+    )
+
+    leafletProxy("mymap", data = locations) %>%
+      clearShapes() %>%
+      clearMarkers() %>%
+      addAwesomeMarkers(lng = ~lon,
+                        lat = ~lat,
+                        icon = icons2,
+                        popup = ~htmlEscape(label),
+                        layerId = ~markerID,
+                        labelOptions = labelOptions(noHide = F, direction = 'auto'),
+                        options = markerOptions(riseOnHover = TRUE))
 
 
+```
 
+
+```{r}
+locations <- CTD_LocationAdded %>%
+  filter(id == "NCT02324855") %>%
+  mutate(label = paste0(id))
+
+bounds <- locations %>%
+  summarise(n = n(),
+            meanlat = mean(lat, na.rm = TRUE)) 
+
+icons2 <- awesomeIcons(
+      icon = 'home',
+      iconColor = 'white',
+      library = 'glyphicon',
+      markerColor = locations$color
+    )
+
+
+basemap <- leaflet(data = locations) %>%
+      addTiles() %>%
+      fitBounds(bounds$minlon, bounds$minlat, bounds$maxlon, bounds$maxlat) %>%
+      addAwesomeMarkers(lng = ~lon,
+                            lat = ~lat,
+                            icon = icons2,
+                            popup = ~htmlEscape(label),
+                            layerId = ~markerID,
+                            labelOptions = labelOptions(noHide = F, direction = 'auto'),
+                            options = markerOptions(riseOnHover = TRUE))
+    
+basemap
 ```

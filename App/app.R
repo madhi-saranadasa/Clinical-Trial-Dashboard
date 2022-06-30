@@ -8,7 +8,6 @@ ui <- fluidPage(
   
   navbarPage("NCFB Clinical Trials Explorer",
              tabPanel("Trials"),
-             tabPanel("Endpoints"),
              tabPanel("About this dashboard"),
   ),
     
@@ -49,6 +48,8 @@ ui <- fluidPage(
              
              tabPanel(title = "Summary",
                       br(),
+                      leafletOutput(outputId = "selectmap"),
+                      br(),
                       htmlOutput(outputId = "detailblock"),
                       br(),
                       tags$h4("Interventions:"),
@@ -58,11 +59,11 @@ ui <- fluidPage(
                       br(),
                       verbatimTextOutput(outputId = "ie")),
              
-             tabPanel(title = "Outcomes",
+             tabPanel(title = "Endpoints",
                       br(),
-                      tags$h4(tags$b("Primary Outcomes:")),
+                      tags$h4(tags$b("Primary Endpoint:")),
                       tableOutput(outputId = "outcomes1"),
-                      tags$h4(tags$b("Secondary Outcomes:")),
+                      tags$h4(tags$b("Secondary Endpoints:")),
                       tableOutput(outputId = "outcomes2"),)
              )
     )
@@ -103,13 +104,44 @@ server <- function(input, output, session) {
     if(length(input$check_criteria) == 0) {
       list_criteria <- allstudies
     } else {
+
       list_criteria <- CTD_FlagInclusion %>%
         filter(keyword %in% input$check_criteria) %>%
-        distinct(id) %>%
+        group_by(id) %>%
+        summarise(n = n()) %>%
+        filter(n == length(input$check_criteria)) %>%
+        pull(id)
+    }
+    
+    # outcomes
+    if(length(input$check_outcomes) == 0) {
+      list_outcomes <- allstudies
+    } else {
+      
+      list_outcomes <- CTD_FlagOutcome %>%
+        filter(keyword %in% input$check_outcomes) %>%
+        group_by(id) %>%
+        summarise(n = n()) %>%
+        filter(n == length(input$check_outcomes)) %>%
+        pull(id)
+    }
+    
+    # medications
+    if(length(input$check_meds) == 0) {
+      list_meds <- allstudies
+    } else {
+      
+      list_meds <- CTD_FlagMed %>%
+        filter(keyword %in% input$check_meds) %>%
+        group_by(id) %>%
+        summarise(n = n()) %>%
+        filter(n == length(input$check_meds)) %>%
         pull(id)
     }
     
     out <- intersect(list_sponser, list_criteria)
+    out <- intersect(out, list_outcomes)
+    out <- intersect(out, list_meds)
     
   })
   
@@ -304,6 +336,44 @@ server <- function(input, output, session) {
       setView(-96, 37.8, 4) 
     
     basemap
+    
+  })
+  
+  
+  # Render select map -------------------------------------------------------
+  output$selectmap <- renderLeaflet({
+    study <- GetSelectedStudies()
+      
+    if(is.null(study))
+      return()
+    
+    locations <- CTD_LocationAdded %>%
+      filter(id %in% study) %>%
+      mutate(label = paste0(id))
+    
+    bounds <- locations %>%
+      summarise(n = n(),
+                meanlat = mean(lat, na.rm = TRUE),
+                meanlon = mean(lon, na.rm = TRUE)) 
+    
+    icons2 <- awesomeIcons(
+      icon = 'home',
+      iconColor = 'white',
+      library = 'glyphicon',
+      markerColor = "blue"
+    )
+    
+    
+    basemap <- leaflet(data = locations,
+                       options = leafletOptions(maxZoom = 4)) %>%
+      addTiles() %>%
+      addAwesomeMarkers(lng = ~lon,
+                        lat = ~lat,
+                        icon = icons2,
+                        popup = ~htmlEscape(label),
+                        layerId = ~markerID,
+                        labelOptions = labelOptions(noHide = F, direction = 'auto'),
+                        options = markerOptions(riseOnHover = TRUE))
     
   })
 

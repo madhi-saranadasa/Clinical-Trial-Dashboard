@@ -22,8 +22,9 @@ sliderInputOverYears <-
 # ----------------------------------------------------------------------------
 # Check box input for topic selection
 # ----------------------------------------------------------------------------
-topicList <- list("Exacerbation", "PA", "ClinicallyStable")
-medList <- list("Ciprofloxacin", "Tobramycin", "Azithromycin", "Amikacin", "Colistimethate")
+topicList <- list("Antibiotics", "CT", "Exacerbation", "PA", "Sputum", "Spirometry")
+outcomeList <- list("Exacerbation", "QOL", "Spirometry")
+medList <- list("Azithromycin", "Ciprofloxacin")
 companyList <- list("AstraZeneca", "Aradigm", "Bayer", "Gilead", "Insmed", "Novartis")
   
 checkboxGroup <-
@@ -33,9 +34,9 @@ checkboxGroup <-
                                          choiceValues = topicList)
            ),
     
-    column(width = 3, checkboxGroupInput(inputId = "check_outcomes", "Select outcomes:",
-                                         choiceNames = topicList,
-                                         choiceValues = topicList)
+    column(width = 3, checkboxGroupInput(inputId = "check_outcomes", "Select endpoints:",
+                                         choiceNames = outcomeList,
+                                         choiceValues = outcomeList)
     ),
     
     column(width = 3, checkboxGroupInput(inputId = "check_meds", "Select meds:",

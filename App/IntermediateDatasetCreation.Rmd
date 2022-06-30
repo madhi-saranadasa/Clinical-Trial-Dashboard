@@ -115,6 +115,41 @@ frame <- frame %>%
   filter(value)
 
 datapath <- file.path(projectfolder, "Data", "CTD_FlagInclusion.csv")
+datapath
+write_csv(frame, datapath)
+
+```
+
+# CTD_FlagEndpoints
+
+```{r}
+
+keywords <- tribble(~newvar, ~pattern,
+                    "Exacerbation", "exacerbation",
+                    "QOL", "quality|qol",
+                    "Spirometry", "fev|pulmonary function|spirometry")
+
+frame <- CTD_DetailsClean %>%
+  distinct(id)
+
+alloutcomes <- bind_rows(CTD_Outcome1, CTD_Outcome2)
+
+for(i in 1:nrow(keywords)){
+  
+  matches <- alloutcomes %>%
+    filter(str_detect(str_to_lower(measure), keywords$pattern[i])) %>%
+    distinct(id) %>%
+    pull(id)
+  
+  frame[[keywords$newvar[i]]] = ifelse(frame$id %in% matches, TRUE, FALSE)
+
+}
+
+frame <- frame %>% 
+  pivot_longer(-id, names_to = "keyword", values_to = "value") %>%
+  filter(value)
+
+datapath <- file.path(projectfolder, "Data", "CTD_FlagOutcome.csv")
 write_csv(frame, datapath)
 
 ```
@@ -154,15 +189,33 @@ write_csv(frame, datapath)
 
 ```
 
+# CTD_FlagMed
+
 ```{r}
 
-test <- CTD_Eligibility_criteria %>%
-  filter(row_number() == 1)
+keywords <- tribble(~newvar, ~pattern,
+                    "Azithromycin", "azithromycin",
+                    "Ciprofloxacin ", "cipro")
 
-test$eligibility_criteria
+frame <- CTD_DetailsClean %>%
+  distinct(id)
 
-name <- "pa"
+for(i in 1:nrow(keywords)){
+  
+  matches <- CTD_Intervention %>%
+    filter(str_detect(str_to_lower(intervention_name), keywords$pattern[i])) %>%
+    distinct(id) %>%
+    pull(id)
+  
+  frame[[keywords$newvar[i]]] = ifelse(frame$id %in% matches, TRUE, FALSE)
 
-subset <- frame %>%
-  filter(!!sym(name))
+}
+
+frame <- frame %>% 
+  pivot_longer(-id, names_to = "keyword", values_to = "value") %>%
+  filter(value)
+
+datapath <- file.path(projectfolder, "Data", "CTD_FlagMed")
+write_csv(frame, datapath)
+
 ```
