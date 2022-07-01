@@ -182,7 +182,7 @@ frame <- frame %>%
   pivot_longer(-id, names_to = "keyword", values_to = "value") %>%
   filter(value)
 
-datapath <- file.path(projectfolder, "Data", "CTD_FlagSponser")
+datapath <- file.path(projectfolder, "Data", "CTD_FlagSponser.csv")
 write_csv(frame, datapath)
 
 ```
@@ -213,7 +213,7 @@ frame <- frame %>%
   pivot_longer(-id, names_to = "keyword", values_to = "value") %>%
   filter(value)
 
-datapath <- file.path(projectfolder, "Data", "CTD_FlagMed")
+datapath <- file.path(projectfolder, "Data", "CTD_FlagMed.csv")
 write_csv(frame, datapath)
 
 ```

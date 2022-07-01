@@ -1,0 +1,42 @@
+---
+title: "AppDevelopment"
+author: "Madhi Saranadasa"
+date: '2022-06-14'
+output: html_document
+---
+
+```{r}
+
+library(tidyverse)
+library(ggmap)
+library(leaflet)
+library(lubridate)
+library(htmltools)
+library(RColorBrewer)
+library(leaflet)
+
+
+projectfolder <- dirname(getwd())
+datafolder <- file.path(projectfolder, "Data")
+
+```
+
+# Load data
+
+```{r}
+
+filenames <- list.files(datafolder)
+filenames <- filenames[str_detect(filenames, "CTD")]
+filenames <- str_remove(filenames, ".csv")
+
+filepaths <- list.files(datafolder, full.names = TRUE)
+filepaths <- filepaths[str_detect(filepaths, "CTD")]
+
+for (i in 1:length(filepaths)) {
+  temp <- read_csv(filepaths[i])
+  assign(filenames[i], temp)
+}
+
+rm(temp)
+
+```

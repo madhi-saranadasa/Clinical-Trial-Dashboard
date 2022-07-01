@@ -20,17 +20,20 @@ markercolors <- c('red', 'darkred', 'orange', 'green', 'darkgreen', 'blue', 'pur
 # ----------------------------------------------------------------------------
 # Load Data
 # ----------------------------------------------------------------------------
-projectfolder <- dirname(getwd())
-datafolder <- file.path(projectfolder, "Data")
+tables <- c("CTD_DetailsClean",
+            "CTD_FlagSponser",
+            "CTD_FlagInclusion",
+            "CTD_FlagOutcome",
+            "CTD_FlagMed",
+            "CTD_LocationAdded",
+            "CTD_Eligibility_criteria",
+            "CTD_Outcome1",
+            "CTD_Outcome2",
+            "CTD_Intervention")
 
-filenames <- list.files(datafolder)
-filenames <- filenames[str_detect(filenames, "CTD")]
-filenames <- str_remove(filenames, ".csv")
+files <- paste0(tables, ".csv")
 
-filepaths <- list.files(datafolder, full.names = TRUE)
-filepaths <- filepaths[str_detect(filepaths, "CTD")]
-
-for (i in 1:length(filepaths)) {
-  temp <- read_csv(filepaths[i])
-  assign(filenames[i], temp)
+for (i in 1:length(files)) {
+  temp <- read_csv(files[i])
+  assign(tables[i], temp)
 }
