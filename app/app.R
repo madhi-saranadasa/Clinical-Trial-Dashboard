@@ -19,17 +19,21 @@ ui <- fluidPage(
            offset = 1,
            wellPanel(
              
-             tags$h4("Number of studies started in each year", align = "center"),
-             
-             plotOutput(outputId = "yearPlot", click = "yearPlot_click", height="10vh"),
-             
-             sliderInputOverYears,
-             
-             leafletOutput(outputId = "mymap"),
+             tags$h4(tags$b("Filter by study details:"), align = "center"),
              
              br(),
              
-             wellPanel(checkboxGroup, style = "background: #e2e2e2")
+             tags$h5(tags$b("Select study start year:"), align = "left"),
+             
+             plotOutput(outputId = "yearPlot", click = "yearPlot_click", height="10vh"),
+             
+             #sliderInputOverYears,
+             
+             wellPanel(checkboxGroup, style = "background: #e2e2e2"),
+             
+             tags$h5(tags$b("Select qualifying studies by geography:"), align = "left"),
+             
+             leafletOutput(outputId = "mymap")
              
              )
            ),
@@ -73,11 +77,14 @@ ui <- fluidPage(
   
 
 server <- function(input, output, session) {
-
+  
+  # Setup reactive values  --------------------------------------------------
+  rv <- reactiveValues(selectedYear = 2004)
+  
   # Get Slider Studies ------------------------------------------------------
   GetSliderStudies <- reactive({
     study_list <- CTD_DetailsClean %>%
-      filter(year(start_date) == input$YearSlider) %>% 
+      filter(year(start_date) == rv$selectedYear) %>% 
       distinct(id) %>%
       pull(id)
     
@@ -176,6 +183,10 @@ server <- function(input, output, session) {
                    y = n),
                stat = "identity",
                width = 0.95) +
+      geom_vline(aes(xintercept = rv$selectedYear),
+                 size = 8,
+                 color = "#ff7536",
+                 alpha = 0.25) +
       scale_y_continuous(limits = c(0, 10),
                          breaks = c(0, 5, 10)) +
       scale_x_continuous(limits = c(2003.5, 2021.5),
@@ -190,14 +201,16 @@ server <- function(input, output, session) {
   })
   
 
-  # Update year slider ------------------------------------------------------
+  # Process plot click  ------------------------------------------------------
   UpdateSlider <- observe({
     click_location = input$yearPlot_click$x
     
     if(is.null(click_location))
       return()
     
-    updateSliderInput(session, "YearSlider", value = round(click_location))
+    #updateSliderInput(session, "YearSlider", value = round(click_location))
+    rv$selectedYear <- round(click_location)
+    print(rv$selectedYear)
   })
 
   
