@@ -7,71 +7,75 @@ ui <- fluidPage(
   
   
   navbarPage("NCFB Clinical Trials Explorer",
-             tabPanel("Trials"),
-             tabPanel("About this dashboard"),
-  ),
-    
-  fluidRow(
-    
-
-    # Left Side ---------------------------------------------------------------
-    column(width = 5, 
-           offset = 1,
-           wellPanel(
              
-             tags$h4(tags$b("Filter by study details:"), align = "center"),
+             tabPanel("Explore!",
+                      fluidRow(
+      
+                        # Explore - Left Side -----------------------------------------------------
+                        column(width = 5, 
+                               offset = 1,
+                               wellPanel(
+                                 
+                                 tags$h4(tags$b("Filter by study details:"), align = "center"),
+                                 
+                                 br(),
+                                 
+                                 tags$h5(tags$b("Select study start year:"), align = "left"),
+                                 
+                                 plotOutput(outputId = "yearPlot", click = "yearPlot_click", height="10vh"),
+                                 
+                                 #sliderInputOverYears,
+                                 
+                                 wellPanel(checkboxGroup, style = "background: #e2e2e2"),
+                                 
+                                 tags$h5(tags$b("Select qualifying studies by geography:"), align = "left"),
+                                 
+                                 leafletOutput(outputId = "mymap")
+                                 
+                               )
+                        ),
+                        
+                        
+                        
+                        # Explore - Right Side ----------------------------------------------------
+                        column(width = 5,
+                               
+                               tags$h4(tags$b("Details for the selected study"), align = "center"),
+                               br(),
+                               
+                               htmlOutput(outputId = "titleblock"),
+                               
+                               tabsetPanel(
+                                 
+                                 tabPanel(title = "Summary",
+                                          br(),
+                                          leafletOutput(outputId = "selectmap"),
+                                          br(),
+                                          htmlOutput(outputId = "detailblock"),
+                                          br(),
+                                          tags$h4("Interventions:"),
+                                          tableOutput(outputId = "interventions")),
+                                 
+                                 tabPanel(title = "Study Criteria",
+                                          br(),
+                                          verbatimTextOutput(outputId = "ie")),
+                                 
+                                 tabPanel(title = "Endpoints",
+                                          br(),
+                                          tags$h4(tags$b("Primary Endpoint:")),
+                                          tableOutput(outputId = "outcomes1"),
+                                          tags$h4(tags$b("Secondary Endpoints:")),
+                                          tableOutput(outputId = "outcomes2"),)
+                               )
+                        )
+                        
+                      )),
              
-             br(),
-             
-             tags$h5(tags$b("Select study start year:"), align = "left"),
-             
-             plotOutput(outputId = "yearPlot", click = "yearPlot_click", height="10vh"),
-             
-             #sliderInputOverYears,
-             
-             wellPanel(checkboxGroup, style = "background: #e2e2e2"),
-             
-             tags$h5(tags$b("Select qualifying studies by geography:"), align = "left"),
-             
-             leafletOutput(outputId = "mymap")
-             
+             tabPanel("About this dashboard",
+                      
+                      # About UI --------------------------------------------------------------
+                      fluidRow(column(width = 5, offset = 1, imageOutput("aboutImage")))
              )
-           ),
-    
-    
-
-    # Right Side --------------------------------------------------------------
-    column(width = 5,
-           
-           tags$h4(tags$b("Details for the selected study"), align = "center"),
-           br(),
-           
-           htmlOutput(outputId = "titleblock"),
-           
-           tabsetPanel(
-             
-             tabPanel(title = "Summary",
-                      br(),
-                      leafletOutput(outputId = "selectmap"),
-                      br(),
-                      htmlOutput(outputId = "detailblock"),
-                      br(),
-                      tags$h4("Interventions:"),
-                      tableOutput(outputId = "interventions")),
-             
-             tabPanel(title = "Study Criteria",
-                      br(),
-                      verbatimTextOutput(outputId = "ie")),
-             
-             tabPanel(title = "Endpoints",
-                      br(),
-                      tags$h4(tags$b("Primary Endpoint:")),
-                      tableOutput(outputId = "outcomes1"),
-                      tags$h4(tags$b("Secondary Endpoints:")),
-                      tableOutput(outputId = "outcomes2"),)
-             )
-    )
-    
   )
 )
   
@@ -390,6 +394,30 @@ server <- function(input, output, session) {
     
   })
 
+  # Render about info -------------------------------------------------------
+  
+  output$aboutPlot <- renderPlot({
+    
+    ggplot() +
+      theme(axis.title.x = element_blank(),
+            axis.title.y = element_blank(),
+            axis.text = element_text(size = 12),
+            axis.ticks = element_blank(),
+            plot.background = element_rect(fill = "#f5f5f5", color = NA),
+            panel.grid.major = element_blank(),
+            panel.grid.minor = element_blank())
+  })
+  
+  output$aboutImage <- renderImage({
+    
+    width  <- session$clientData$output_plot2_width
+    height <- session$clientData$output_plot2_height
+    
+    
+    list(src = "workflow.png",
+         width = width,
+         height = height)
+  }, deleteFile = FALSE)
   
   # DEBUG -------------------------------------------------------------------
   output$ie <- renderText({
