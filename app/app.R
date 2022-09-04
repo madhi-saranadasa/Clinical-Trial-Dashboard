@@ -3,7 +3,7 @@ source("ui_snippets.R")
 
 ui <- fluidPage(
 
-  #theme = bslib::bs_theme(bootswatch = "slate"),
+  theme = bslib::bs_theme(bootswatch = "flatly"),
   
   
   navbarPage("NCFB Clinical Trials Explorer",
